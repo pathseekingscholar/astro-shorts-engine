@@ -58,7 +58,8 @@
       "#Astrophysics"
     ],
     "generated_at": "2026-03-16T06:04:58.485339",
-    "status": "pending"
+    "status": "formatted",
+    "formatted_at": "2026-03-16T07:21:04.304618"
   },
   {
     "topic": "Interstellar Travel Time",
@@ -79,6 +80,27 @@
       "#ScienceFacts"
     ],
     "generated_at": "2026-03-16T06:57:49.577569",
+    "status": "pending"
+  },
+  {
+    "topic": "Interstellar Travel Time",
+    "topic_family": "travel_time",
+    "hook": "How long would it take to reach the nearest star?",
+    "facts": [
+      "Excluding our Sun, the closest star is Proxima Centauri, 4.24 light-years away.",
+      "That's approximately 40 trillion kilometers (25 trillion miles).",
+      "The fastest human-made object, the Parker Solar Probe, reached a top speed of 635,266 km/h (394,736 mph) relative to the Sun."
+    ],
+    "payoff": "Even at that record-breaking speed, it would still take over 7,000 years to reach Proxima Centauri! The universe is unimaginably vast.",
+    "title": "How Long To Reach The NEAREST STAR? \ud83e\udd2f\ud83d\ude80",
+    "hashtags": [
+      "#SpaceFacts",
+      "#ProximaCentauri",
+      "#Interstellar",
+      "#ParkerSolarProbe",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-03-16T07:20:55.678571",
     "status": "pending"
   }
 ]

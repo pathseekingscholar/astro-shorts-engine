@@ -1,0 +1,84 @@
+{
+  "idea": {
+    "topic": "Journey to the Nearest Star",
+    "topic_family": "travel_time",
+    "hook": "How long would it take to reach the nearest star?",
+    "facts": [
+      "The nearest star to our Sun is Proxima Centauri, 4.24 light-years (or ~40 trillion km) away.",
+      "The fastest human-made object ever recorded is NASA's Parker Solar Probe, which can reach speeds of 690,000 km/h (430,000 mph).",
+      "At that record-breaking speed, how long would it take to reach Proxima Centauri?"
+    ],
+    "payoff": "It would still take over 6,600 years to get there! Our cosmic neighborhood is truly vast.",
+    "title": "Journey to the Nearest Star: How Long?! \ud83d\ude80\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceTravel",
+      "#ProximaCentauri",
+      "#LightYears",
+      "#ParkerSolarProbe",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-03-16T06:04:58.485339",
+    "status": "pending"
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How long to reach the nearest star?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A vast, dark space background with subtle distant stars twinkling. A single, bright star might appear briefly in the distance.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Nearest star: Proxima Centauri, 4.24 light-years (40 trillion km) away.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A graphic depicting two stars: one representing our Sun (yellow-white) and a smaller, reddish star representing Proxima Centauri, with a curved dotted line indicating the vast distance between them.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Fastest ever: NASA's Parker Solar Probe at 690,000 km/h!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A sleek, stylized animation of the Parker Solar Probe speeding across the screen with motion lines, against a backdrop of distant stars.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "At that speed, how long to Proxima Centauri?",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A conceptual timeline or progress bar. A small indicator icon (like a tiny spaceship) rapidly moves along a very long line, representing the journey, with a large, animated question mark appearing prominently.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Over 6,600 YEARS! Our cosmic neighborhood is truly VAST.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "An awe-inspiring shot of a spiral galaxy or a dense star field, emphasizing the immense scale of space. The text appears dynamically, with '6,600 YEARS!' being very prominent."
+      }
+    ],
+    "thumbnail_text": "6,600 Years to the Stars!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-03-16T07:21:04.304355",
+  "status": "rendered",
+  "rendered_at": "2026-03-16T07:22:42.359236",
+  "video_path": "videos_output/journey_to_the_nearest_star_20260316_072104.mp4"
+}
