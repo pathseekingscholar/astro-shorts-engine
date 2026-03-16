@@ -18,11 +18,19 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install dependencies
+      - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get install -y ffmpeg imagemagick
+          # Fix ImageMagick policy for MoviePy text rendering
+          sudo sed -i 's/rights="none" pattern="@\*"/rights="read|write" pattern="@*"/' /etc/ImageMagick-6/policy.xml || true
+          sudo sed -i '/<policy domain="path" rights="none" pattern="@\*"/d' /etc/ImageMagick-6/policy.xml || true
+      
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
           pip install requests Pillow numpy
+          pip install moviepy==1.0.3
       
       - name: Generate idea
         env:
