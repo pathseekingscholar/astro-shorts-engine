@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Monster Black Hole vs. Solar System",
+    "topic_family": "scale_comparison",
+    "hook": "Our entire solar system? Not even close.",
+    "facts": [
+      "The distance from our Sun to the heliopause (the edge of the Solar System's influence) is roughly 18 billion kilometers.",
+      "The supermassive black hole TON 618 has a mass equivalent to 66 BILLION Suns.",
+      "Its event horizon, the point of no return, measures an astounding 390 BILLION kilometers in diameter."
+    ],
+    "payoff": "Our entire Solar System would be a tiny speck, lost deep within TON 618's gravitational shadow.",
+    "title": "BLACK HOLE vs. Solar System \ud83e\udd2f",
+    "hashtags": [
+      "#Astrophysics",
+      "#BlackHole",
+      "#SpaceFacts",
+      "#ScaleComparison",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-03-17T02:27:37.348440",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "OUR SOLAR SYSTEM?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A vibrant, rotating 3D model of the Solar System (Sun, planets, asteroid belt, Kuiper Belt) slowly zooms out.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "18 BILLION km: Solar System's Edge.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "The Solar System model continues to shrink, a faint blue line appears, marking the heliopause. The scale numbers '18 BILLION km' appear next to it.",
+        "animation": "zoom_out"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "TON 618: 66 BILLION Suns!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Quick transition to a dark, swirling image of a supermassive black hole accretion disk. Numbers '66 BILLION SUNS' flash, illustrating immense mass.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Event Horizon: 390 BILLION km Diameter.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "The black hole image centers, with a glowing orange ring clearly defining the event horizon. A measurement line with '390 BILLION km' appears across it.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Our Solar System: A TINY SPECK, lost in TON 618.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The Solar System from Scene 2 appears as an almost invisible, tiny pixel, then rapidly gets sucked into the vast darkness of TON 618's event horizon, disappearing entirely.",
+        "visual_details": "The scale contrast is extreme. The tiny speck represents the entire 18-billion-km Solar System."
+      }
+    ],
+    "thumbnail_text": "TON 618 vs. Solar System",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-17T02:27:46.453701",
+  "status": "uploaded",
+  "rendered_at": "2026-03-17T02:28:46.755226",
+  "video_path": "videos_output/monster_black_hole_vs_solar_sy_20260317_022746.mp4",
+  "uploaded_at": "2026-03-17T02:28:48.840856",
+  "youtube": {
+    "video_id": "qEiMxBmMLpQ",
+    "url": "https://youtube.com/shorts/qEiMxBmMLpQ",
+    "title": "BLACK HOLE vs. Solar System \ud83e\udd2f",
+    "uploaded_at": "2026-03-17T02:28:48.840686"
+  }
+}
