@@ -137,5 +137,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-19T08:31:23.807007"
+  },
+  {
+    "topic": "Cosmic Scale Ladder",
+    "topic_family": "scale_comparison",
+    "hook": "Our Solar System is HUGE, right? Think again.",
+    "facts": [
+      "The Oort Cloud, our Solar System's true edge, spans 2 light-years across.",
+      "That's still less than half the distance to Proxima Centauri, our nearest star, 4.2 light-years away!",
+      "Now imagine the 'small' Orion Nebula. It's 24 light-years wide \u2013 enough space for *six* distances to Proxima Centauri end-to-end!"
+    ],
+    "payoff": "Yet, this entire nebula would be just a tiny speck within our 100,000 light-year wide Milky Way galaxy!",
+    "title": "\ud83e\udd2f Our Solar System is TINY! (Cosmic Scale)",
+    "hashtags": [
+      "#space",
+      "#astronomy",
+      "#universe",
+      "#scale",
+      "#mindblown"
+    ],
+    "generated_at": "2026-03-19T16:46:58.855387",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-19T16:47:14.132340"
   }
 ]

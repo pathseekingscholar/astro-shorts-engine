@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Cosmic Scale Ladder",
+    "topic_family": "scale_comparison",
+    "hook": "Our Solar System is HUGE, right? Think again.",
+    "facts": [
+      "The Oort Cloud, our Solar System's true edge, spans 2 light-years across.",
+      "That's still less than half the distance to Proxima Centauri, our nearest star, 4.2 light-years away!",
+      "Now imagine the 'small' Orion Nebula. It's 24 light-years wide \u2013 enough space for *six* distances to Proxima Centauri end-to-end!"
+    ],
+    "payoff": "Yet, this entire nebula would be just a tiny speck within our 100,000 light-year wide Milky Way galaxy!",
+    "title": "\ud83e\udd2f Our Solar System is TINY! (Cosmic Scale)",
+    "hashtags": [
+      "#space",
+      "#astronomy",
+      "#universe",
+      "#scale",
+      "#mindblown"
+    ],
+    "generated_at": "2026-03-19T16:46:58.855387",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "You think our Solar System is HUGE?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A dynamic shot zooming out from Earth to encompass the entire Solar System with its planets and orbits. Stars twinkle in the background.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Oort Cloud: 2 light-years across.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A conceptual diagram showing the Solar System as a tiny dot at the center, enveloped by a vast, spherical, icy 'Oort Cloud' labeled with '2 Light-Years' across its diameter.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Proxima Centauri: 4.2 LY. Oort Cloud < HALF this!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Two parallel lines representing distances. One shorter, labeled 'Oort Cloud (2 LY)', and a second, longer line next to it, labeled 'Proxima Centauri (4.2 LY)', visually illustrating the comparison.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Orion Nebula: 24 LY wide. SIX Proxima Centauri lengths!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A breathtaking image of the Orion Nebula. Overlayed are six small, stacked bars, each representing the 'Proxima Centauri distance' to show scale within the nebula.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Orion Nebula? A TINY speck in our 100,000 LY Milky Way!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A majestic, rotating full view of the spiral Milky Way galaxy. A single, almost imperceptible pixel or small dot blinks faintly in one of its arms, labeled 'Orion Nebula', emphasizing its minuscule size in the grand scale."
+      }
+    ],
+    "thumbnail_text": "Cosmic Scale: Mind Blown!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-19T16:47:14.132117",
+  "status": "uploaded",
+  "rendered_at": "2026-03-19T16:48:11.388641",
+  "video_path": "videos_output/cosmic_scale_ladder_20260319_164714.mp4",
+  "uploaded_at": "2026-03-19T16:48:13.966936",
+  "youtube": {
+    "video_id": "58Gzc6fDwx8",
+    "url": "https://youtube.com/shorts/58Gzc6fDwx8",
+    "title": "\ud83e\udd2f Our Solar System is TINY! (Cosmic Scale)",
+    "uploaded_at": "2026-03-19T16:48:13.966773"
+  }
+}
