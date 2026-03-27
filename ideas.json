@@ -689,5 +689,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-27T01:19:43.164179"
+  },
+  {
+    "topic": "WASP-12b Exoplanet",
+    "topic_family": "extreme_conditions",
+    "hook": "Think Venus is scorching hot?",
+    "facts": [
+      "Venus, the hottest planet in our solar system, has a surface temperature of 462\u00b0C (864\u00b0F).",
+      "But meet exoplanet WASP-12b, orbiting a star 1400 light-years away. Its dayside reaches an incredible 2500\u00b0C (4530\u00b0F)! Hotter than many stars!",
+      "WASP-12b is tidally locked and so close to its star, it's distorted into an egg-shape by immense gravitational forces."
+    ],
+    "payoff": "This 'hot Jupiter' exoplanet is literally being ripped apart and devoured by its own star!",
+    "title": "Planet of Fire! \ud83d\udd25\ud83e\udd2f",
+    "hashtags": [
+      "exoplanet",
+      "WASP12b",
+      "extremeheat",
+      "astrophysics",
+      "space"
+    ],
+    "generated_at": "2026-03-27T08:40:45.483159",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-27T08:40:54.373384"
   }
 ]

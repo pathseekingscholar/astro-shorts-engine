@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "WASP-12b Exoplanet",
+    "topic_family": "extreme_conditions",
+    "hook": "Think Venus is scorching hot?",
+    "facts": [
+      "Venus, the hottest planet in our solar system, has a surface temperature of 462\u00b0C (864\u00b0F).",
+      "But meet exoplanet WASP-12b, orbiting a star 1400 light-years away. Its dayside reaches an incredible 2500\u00b0C (4530\u00b0F)! Hotter than many stars!",
+      "WASP-12b is tidally locked and so close to its star, it's distorted into an egg-shape by immense gravitational forces."
+    ],
+    "payoff": "This 'hot Jupiter' exoplanet is literally being ripped apart and devoured by its own star!",
+    "title": "Planet of Fire! \ud83d\udd25\ud83e\udd2f",
+    "hashtags": [
+      "exoplanet",
+      "WASP12b",
+      "extremeheat",
+      "astrophysics",
+      "space"
+    ],
+    "generated_at": "2026-03-27T08:40:45.483159",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Think Venus is scorching hot?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A visually striking, fiery representation of Venus's surface, with lava flows and extreme heat haze.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Venus: 462\u00b0C (864\u00b0F) surface temp.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A close-up of Venus, subtly showing a temperature gauge rising. Text appears clearly over the planet image.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Meet WASP-12b: Dayside hits 2500\u00b0C! Hotter than stars!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A vibrant, extremely hot exoplanet (WASP-12b) with a visible, glowing atmosphere, orbiting a much larger, brighter star in the background. The exoplanet is intensely bright on its dayside.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Tidally locked & egg-shaped by star's gravity.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A dynamic shot showing WASP-12b clearly distorted into an egg-shape due to extreme proximity and gravitational forces from its nearby star. Gravitational pull lines can be subtly visualized.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "WASP-12b: RIPPED APART & DEVOURED by its star!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A dramatic, intense visual of WASP-12b actively being stripped of its material, with streams of glowing gas spiraling into its host star. A truly destructive and impactful scene."
+      }
+    ],
+    "thumbnail_text": "WASP-12b: The Planet Being Eaten!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-27T08:40:54.373165",
+  "status": "uploaded",
+  "rendered_at": "2026-03-27T08:41:50.698334",
+  "video_path": "videos_output/wasp12b_exoplanet_20260327_084054.mp4",
+  "uploaded_at": "2026-03-27T08:41:52.711555",
+  "youtube": {
+    "video_id": "oS7ULyG_Sks",
+    "url": "https://youtube.com/shorts/oS7ULyG_Sks",
+    "title": "Planet of Fire! \ud83d\udd25\ud83e\udd2f",
+    "uploaded_at": "2026-03-27T08:41:52.711413"
+  }
+}
