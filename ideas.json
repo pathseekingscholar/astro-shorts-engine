@@ -666,5 +666,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-26T16:53:59.018729"
+  },
+  {
+    "topic": "Neptune's Extreme Winds",
+    "topic_family": "planetary_facts",
+    "hook": "Which planet in our solar system has the craziest, fastest weather?",
+    "facts": [
+      "Neptune, the outermost gas giant, holds the record for the fastest known winds in our Solar System.",
+      "These incredibly powerful atmospheric currents can reach speeds exceeding 2,100 kilometers per hour (1,300 mph).",
+      "For comparison, that's nearly twice the speed of sound on Earth (approx. 1,235 km/h or 767 mph)!"
+    ],
+    "payoff": "Imagine a world where storms are literally supersonic, faster than a jet plane!",
+    "title": "Neptune: Supersonic Storms! \ud83d\udca8\ud83e\udd2f",
+    "hashtags": [
+      "#Neptune",
+      "#SpaceFacts",
+      "#SolarSystem",
+      "#Astronomy",
+      "#Planets"
+    ],
+    "generated_at": "2026-03-27T01:19:33.047846",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-27T01:19:43.164179"
   }
 ]
