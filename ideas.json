@@ -735,5 +735,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-27T16:43:25.426247"
+  },
+  {
+    "topic": "Black Hole Scale Comparison",
+    "topic_family": "scale_comparison",
+    "hook": "Think all black holes are the same size? Prepare for a mind-bending scale comparison!",
+    "facts": [
+      "The smallest known stellar-mass black holes, formed from collapsed stars, have an event horizon only ~30 km across \u2013 roughly the size of a city!",
+      "Our Milky Way's supermassive black hole, Sagittarius A*, is 4.3 million times the Sun's mass. Its event horizon spans 26 million km \u2013 large enough to fit dozens of Suns inside!",
+      "But the record-holder, TON 618, is 66 BILLION times the Sun's mass. Its event horizon stretches an unimaginable 390 BILLION km, easily swallowing Pluto's entire orbit over 30 times!"
+    ],
+    "payoff": "From city-sized to larger than entire solar systems \u2013 the universe's black holes span an incomprehensible range of sizes!",
+    "title": "Black Hole Sizes: From City to Cosmos! \u26ab\ufe0f\ud83c\udf0c",
+    "hashtags": [
+      "BlackHoles",
+      "Space",
+      "Astrophysics",
+      "CosmicScale",
+      "Universe"
+    ],
+    "generated_at": "2026-03-28T01:14:25.134262",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-28T01:14:34.859160"
   }
 ]
