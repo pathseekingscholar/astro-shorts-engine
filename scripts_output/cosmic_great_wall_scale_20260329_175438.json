@@ -1,0 +1,88 @@
+{
+  "idea": {
+    "topic": "Cosmic Great Wall Scale",
+    "topic_family": "scale_comparison",
+    "hook": "You think our Milky Way galaxy is HUGE?",
+    "facts": [
+      "Our Milky Way galaxy is ~100,000 light-years across.",
+      "Our Local Group of galaxies (including Andromeda) stretches ~10 million light-years.",
+      "The Hercules\u2013Corona Borealis Great Wall, the largest known structure in the universe, is over 10 BILLION light-years long!"
+    ],
+    "payoff": "This single cosmic wall is so vast it could contain 100,000 Milky Ways end-to-end and spans over 1/10th of the ENTIRE observable universe!",
+    "title": "The Universe's Giga-Wall! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Space #Astrophysics #CosmicScale #Universe #GreatWall"
+    ],
+    "generated_at": "2026-03-29T17:54:28.766609",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Think our Milky Way galaxy is HUGE?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Starts with a stunning, detailed image of the Milky Way galaxy, subtly zooming out.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Our Milky Way: ~100,000 light-years across.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A visual representation of the Milky Way, with a faint overlaid graphic indicating its diameter.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Local Group: ~10 MILLION light-years.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Pans out to show the Local Group of galaxies (Milky Way, Andromeda, Triangulum), with a much larger scale bar.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Hercules-Corona Borealis Great Wall: 10+ BILLION light-years!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An artistic rendering of the filamentary Hercules-Corona Borealis Great Wall, showing its immense structure spanning the screen, with galaxies as tiny points.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "This Wall: 100,000 Milky Ways! Over 1/10th of the ENTIRE Observable Universe!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "An extreme wide shot of the cosmic web, with the Great Wall highlighted as an unbelievably vast structure, emphasizing its scale against the observable universe's boundary. Faint overlay showing tiny Milky Ways."
+      }
+    ],
+    "thumbnail_text": "Cosmic Wall Scale!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-29T17:54:38.106558",
+  "status": "uploaded",
+  "rendered_at": "2026-03-29T17:55:36.954503",
+  "video_path": "videos_output/cosmic_great_wall_scale_20260329_175438.mp4",
+  "uploaded_at": "2026-03-29T17:55:41.615389",
+  "youtube": {
+    "video_id": "k-QOqm4n3Z8",
+    "url": "https://youtube.com/shorts/k-QOqm4n3Z8",
+    "title": "The Universe's Giga-Wall! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-03-29T17:55:41.615280"
+  }
+}

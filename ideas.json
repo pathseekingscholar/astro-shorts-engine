@@ -875,5 +875,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-29T16:24:51.306561"
+  },
+  {
+    "topic": "Cosmic Great Wall Scale",
+    "topic_family": "scale_comparison",
+    "hook": "You think our Milky Way galaxy is HUGE?",
+    "facts": [
+      "Our Milky Way galaxy is ~100,000 light-years across.",
+      "Our Local Group of galaxies (including Andromeda) stretches ~10 million light-years.",
+      "The Hercules\u2013Corona Borealis Great Wall, the largest known structure in the universe, is over 10 BILLION light-years long!"
+    ],
+    "payoff": "This single cosmic wall is so vast it could contain 100,000 Milky Ways end-to-end and spans over 1/10th of the ENTIRE observable universe!",
+    "title": "The Universe's Giga-Wall! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Space #Astrophysics #CosmicScale #Universe #GreatWall"
+    ],
+    "generated_at": "2026-03-29T17:54:28.766609",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-29T17:54:38.106771"
   }
 ]
