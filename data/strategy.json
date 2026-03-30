@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-03-29T07:02:43.849416",
+  "generated_at": "2026-03-30T07:26:32.409471",
   "top_performing_topics": [
     {
+      "topic": "planetary_facts",
+      "avg_score": 0.817,
+      "videos_count": 7
+    },
+    {
       "topic": "travel_time",
-      "avg_score": 0.758,
-      "videos_count": 17
+      "avg_score": 0.74,
+      "videos_count": 18
     },
     {
       "topic": "scale_comparison",
-      "avg_score": 0.674,
-      "videos_count": 10
-    },
-    {
-      "topic": "planetary_facts",
-      "avg_score": 0.633,
-      "videos_count": 7
+      "avg_score": 0.641,
+      "videos_count": 11
     }
   ],
   "avoid_topics": [
@@ -25,12 +25,12 @@
     }
   ],
   "suggested_next": [
+    "planetary_facts",
     "travel_time",
-    "scale_comparison",
-    "planetary_facts"
+    "scale_comparison"
   ],
   "insights": [
-    "'travel_time' is your best performing format (score: 0.758)",
-    "Analyzed 60 videos across 6 topic types"
+    "'planetary_facts' is your best performing format (score: 0.817)",
+    "Analyzed 65 videos across 6 topic types"
   ]
 }

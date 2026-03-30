@@ -649,7 +649,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.007,
-    "analyzed_at": "2026-03-29T07:02:43.144947"
+    "analyzed_at": "2026-03-30T07:26:31.866097"
   },
   {
     "video_id": "s3rmzotBqto",
@@ -664,7 +664,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.092,
-    "analyzed_at": "2026-03-29T07:02:43.250155"
+    "analyzed_at": "2026-03-30T07:26:32.140402"
   },
   {
     "video_id": "9MJB2POT9qo",
@@ -679,7 +679,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-29T07:02:43.351655"
+    "analyzed_at": "2026-03-30T07:26:32.409397"
   },
   {
     "video_id": "kQsHor0UVfE",
@@ -694,7 +694,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-03-29T07:02:42.845996"
+    "analyzed_at": "2026-03-30T07:26:31.146266"
   },
   {
     "video_id": "IeU8xaBcSFs",
@@ -709,7 +709,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.11,
-    "analyzed_at": "2026-03-29T07:02:42.948185"
+    "analyzed_at": "2026-03-30T07:26:31.387287"
   },
   {
     "video_id": "TgyGBuUVZnY",
@@ -724,7 +724,7 @@
       "avg_view_duration_seconds": 10
     },
     "performance_score": 1.94,
-    "analyzed_at": "2026-03-29T07:02:43.048946"
+    "analyzed_at": "2026-03-30T07:26:31.627805"
   },
   {
     "video_id": "UdvIrAJKmZY",
@@ -732,14 +732,14 @@
     "published_at": "2026-03-27T01:20:59Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 9,
+      "views": 166,
       "likes": 1,
       "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 5
+      "watch_time_minutes": 19,
+      "avg_view_duration_seconds": 26
     },
-    "performance_score": 0.143,
-    "analyzed_at": "2026-03-29T07:02:42.533840"
+    "performance_score": 1.43,
+    "analyzed_at": "2026-03-30T07:26:30.362656"
   },
   {
     "video_id": "vK9c54g1LYo",
@@ -754,7 +754,7 @@
       "avg_view_duration_seconds": 12
     },
     "performance_score": 0.273,
-    "analyzed_at": "2026-03-29T07:02:42.647848"
+    "analyzed_at": "2026-03-30T07:26:30.596632"
   },
   {
     "video_id": "fYsWwFpuvPE",
@@ -769,7 +769,7 @@
       "avg_view_duration_seconds": 10
     },
     "performance_score": 0.61,
-    "analyzed_at": "2026-03-29T07:02:42.743243"
+    "analyzed_at": "2026-03-30T07:26:30.882718"
   },
   {
     "video_id": "Q-YHQ4OiAO4",
@@ -777,12 +777,14 @@
     "published_at": "2026-03-28T01:16:31Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 368,
-      "likes": 5,
-      "comments": 0
+      "views": 202,
+      "likes": 3,
+      "comments": 0,
+      "watch_time_minutes": 14,
+      "avg_view_duration_seconds": 12
     },
-    "performance_score": 0.85,
-    "analyzed_at": "2026-03-29T07:02:42.250963"
+    "performance_score": 1.155,
+    "analyzed_at": "2026-03-30T07:26:29.205112"
   },
   {
     "video_id": "jGMdPUj6Y9U",
@@ -790,12 +792,14 @@
     "published_at": "2026-03-27T16:44:50Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 157,
+      "views": 117,
       "likes": 1,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 7,
+      "avg_view_duration_seconds": 18
     },
-    "performance_score": 0.413,
-    "analyzed_at": "2026-03-29T07:02:42.344011"
+    "performance_score": 0.847,
+    "analyzed_at": "2026-03-30T07:26:29.670398"
   },
   {
     "video_id": "oS7ULyG_Sks",
@@ -803,12 +807,14 @@
     "published_at": "2026-03-27T08:42:13Z",
     "topic_family": "general",
     "metrics": {
-      "views": 528,
+      "views": 327,
       "likes": 5,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 20,
+      "avg_view_duration_seconds": 11
     },
-    "performance_score": 0.85,
-    "analyzed_at": "2026-03-29T07:02:42.450117"
+    "performance_score": 1.57,
+    "analyzed_at": "2026-03-30T07:26:29.894419"
   },
   {
     "video_id": "-JUAF4gX6zo",
@@ -821,7 +827,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-29T07:02:41.978305"
+    "analyzed_at": "2026-03-30T07:26:28.502118"
   },
   {
     "video_id": "4I3XUyR-VZg",
@@ -834,7 +840,7 @@
       "comments": 0
     },
     "performance_score": 0.025,
-    "analyzed_at": "2026-03-29T07:02:42.062476"
+    "analyzed_at": "2026-03-30T07:26:28.717808"
   },
   {
     "video_id": "I-LgFyfWZ8k",
@@ -847,6 +853,71 @@
       "comments": 0
     },
     "performance_score": 0.023,
-    "analyzed_at": "2026-03-29T07:02:42.158151"
+    "analyzed_at": "2026-03-30T07:26:28.950057"
+  },
+  {
+    "video_id": "I0m-PhrcAqo",
+    "title": "A Teaspoon Weighs WHAT?! \ud83e\udd2f\ud83d\udcab",
+    "published_at": "2026-03-30T01:25:27Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-03-30T07:26:27.109381"
+  },
+  {
+    "video_id": "oN64aA9Jq4Y",
+    "title": "Why the Sun Looks Orange \ud83c\udf05\ud83e\udd2f",
+    "published_at": "2026-03-29T21:51:29Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 2,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.025,
+    "analyzed_at": "2026-03-30T07:26:27.330105"
+  },
+  {
+    "video_id": "k-QOqm4n3Z8",
+    "title": "The Universe's Giga-Wall! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-03-29T17:56:00Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 7,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.038,
+    "analyzed_at": "2026-03-30T07:26:27.546325"
+  },
+  {
+    "video_id": "fwozI9xzIa0",
+    "title": "Pluto: How Long To Get There?! \ud83d\udeb6\u200d\u2640\ufe0f\ud83d\ude80",
+    "published_at": "2026-03-29T16:26:08Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 3,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.007,
+    "analyzed_at": "2026-03-30T07:26:27.793234"
+  },
+  {
+    "video_id": "JkhAwpihcZs",
+    "title": "Our Solar System Swallowed Whole! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-03-29T08:32:07Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.005,
+    "analyzed_at": "2026-03-30T07:26:28.268319"
   }
 ]
