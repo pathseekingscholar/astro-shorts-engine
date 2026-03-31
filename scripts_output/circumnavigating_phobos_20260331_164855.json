@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Circumnavigating Phobos",
+    "topic_family": "planetary_facts",
+    "hook": "How small is Mars's moon Phobos?",
+    "facts": [
+      "Phobos, Mars's largest moon, is an irregular, potato-shaped rock.",
+      "Its average diameter is only about 22.5 kilometers (14 miles).",
+      "If you could drive a car at a leisurely 10 km/h (6 mph) across its surface..."
+    ],
+    "payoff": "...you could circumnavigate the entire moon in less than 7.5 hours!",
+    "title": "You Could DRIVE Around THIS Moon! \ud83d\ude97\ud83c\udf15",
+    "hashtags": [
+      "#Phobos",
+      "#MarsMoon",
+      "#SpaceFacts",
+      "#TinyMoon",
+      "#SolarSystem"
+    ],
+    "generated_at": "2026-03-31T16:48:46.700204",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How small is Mars's moon Phobos?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A stylized animation of Mars in the background, with a tiny Phobos orbiting it. Camera slowly zooms out to emphasize the smallness of Phobos.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Phobos: Mars's potato-shaped moon.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A detailed 3D render of Phobos slowly rotating, highlighting its irregular, non-spherical shape. Stars twinkle in the background.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Avg. diameter: just 22.5 km (14 miles)",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Phobos shown next to a graphic representation of a small city or town (e.g., 14 miles across) for scale. A measurement line across Phobos indicates its diameter.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Drive a car at 10 km/h (6 mph) across its surface...",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An animated rover-like car driving slowly across a rugged, cratered surface resembling Phobos. A speedometer graphic shows '10 km/h'.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "...circumnavigate Phobos in < 7.5 hours!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The car animation speeds up, showing it quickly completing a full loop around the entire Phobos surface. A digital clock displays '7:29' and then quickly ticks down to '<7.5 hours' with a flourish.",
+        "fade_out": true
+      }
+    ],
+    "thumbnail_text": "Circumnavigate Phobos in 7.5 hours!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-03-31T16:48:55.040665",
+  "status": "uploaded",
+  "rendered_at": "2026-03-31T16:49:53.868493",
+  "video_path": "videos_output/circumnavigating_phobos_20260331_164855.mp4",
+  "uploaded_at": "2026-03-31T16:49:56.444644",
+  "youtube": {
+    "video_id": "vdUMLcy2xqI",
+    "url": "https://youtube.com/shorts/vdUMLcy2xqI",
+    "title": "You Could DRIVE Around THIS Moon! \ud83d\ude97\ud83c\udf15",
+    "uploaded_at": "2026-03-31T16:49:56.444466"
+  }
+}

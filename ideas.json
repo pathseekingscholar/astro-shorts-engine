@@ -1009,5 +1009,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-31T08:47:10.255926"
+  },
+  {
+    "topic": "Circumnavigating Phobos",
+    "topic_family": "planetary_facts",
+    "hook": "How small is Mars's moon Phobos?",
+    "facts": [
+      "Phobos, Mars's largest moon, is an irregular, potato-shaped rock.",
+      "Its average diameter is only about 22.5 kilometers (14 miles).",
+      "If you could drive a car at a leisurely 10 km/h (6 mph) across its surface..."
+    ],
+    "payoff": "...you could circumnavigate the entire moon in less than 7.5 hours!",
+    "title": "You Could DRIVE Around THIS Moon! \ud83d\ude97\ud83c\udf15",
+    "hashtags": [
+      "#Phobos",
+      "#MarsMoon",
+      "#SpaceFacts",
+      "#TinyMoon",
+      "#SolarSystem"
+    ],
+    "generated_at": "2026-03-31T16:48:46.700204",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-31T16:48:55.040892"
   }
 ]
