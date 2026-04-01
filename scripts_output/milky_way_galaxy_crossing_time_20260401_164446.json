@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Milky Way Galaxy Crossing Time",
+    "topic_family": "travel_time",
+    "hook": "How long to cross our HOME GALAXY?",
+    "facts": [
+      "Our Milky Way galaxy spans about 100,000 light-years across.",
+      "Traveling at the speed of light (299,792 km/s), this journey would still take 100,000 years.",
+      "The fastest human-made object, Voyager 1 (approx. 17 km/s), would take over 1.7 BILLION years!"
+    ],
+    "payoff": "Even at light speed, our galaxy is an UNIMAGINABLY VAST place. We're just a tiny speck!",
+    "title": "Milky Way Crossing: LIGHT YEARS Ahead! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#MilkyWay",
+      "#SpaceTravel",
+      "#LightSpeed",
+      "#Astrophysics",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-04-01T16:44:37.635375",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How long to cross our HOME GALAXY?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Smooth zoom out from Earth to show the solar system, then quickly reveal a stylized, awe-inspiring view of the Milky Way galaxy.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Milky Way: 100,000 LIGHT-YEARS across.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animated infographic of a spiral galaxy with a visible measurement line stretching across its diameter, labeling '100,000 Light-Years'. Stars twinkle gently.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Speed of Light (299,792 km/s): Takes 100,000 YEARS!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A bright light beam rapidly traverses the galaxy from one end to the other, but a digital counter dramatically displays '100,000 Years' next to it.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Fastest Human-Made: Voyager 1 (17 km/s) = 1.7 BILLION YEARS!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An animated graphic of a small Voyager probe icon slowly moving across the galaxy, leaving a very faint, long trail, visually emphasizing the glacial pace compared to light.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Our galaxy is UNIMAGINABLY VAST. We are a tiny speck.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A breathtaking, slow, continuous zoom-out from the entire Milky Way, making it gradually shrink within a larger canvas of countless other galaxies, highlighting our cosmic scale."
+      }
+    ],
+    "thumbnail_text": "Milky Way: How long to cross?",
+    "background_style": "space_nebula"
+  },
+  "formatted_at": "2026-04-01T16:44:46.874490",
+  "status": "uploaded",
+  "rendered_at": "2026-04-01T16:45:43.059190",
+  "video_path": "videos_output/milky_way_galaxy_crossing_time_20260401_164447.mp4",
+  "uploaded_at": "2026-04-01T16:45:46.307285",
+  "youtube": {
+    "video_id": "LKEOf6qK8QM",
+    "url": "https://youtube.com/shorts/LKEOf6qK8QM",
+    "title": "Milky Way Crossing: LIGHT YEARS Ahead! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-04-01T16:45:46.307185"
+  }
+}
