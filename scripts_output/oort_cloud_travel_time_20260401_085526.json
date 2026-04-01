@@ -1,0 +1,94 @@
+{
+  "idea": {
+    "topic": "Oort Cloud Travel Time",
+    "topic_family": "travel_time",
+    "hook": "How long does it take to *really* leave our Solar System?",
+    "facts": [
+      "The Oort Cloud, our Solar System's icy outer shell, begins ~300 billion km away.",
+      "Our fastest spacecraft, Voyager 1, travels at ~17 km/s.",
+      "At this speed, reaching the *inner* Oort Cloud would take over 550 years.",
+      "Crossing its full 15-trillion-km expanse (up to 100,000 AU) would take over 28,000 years!",
+      "Even at the speed of light, traversing the *entire* Oort Cloud takes over 1.5 years!"
+    ],
+    "payoff": "Our cosmic neighborhood is vastly larger than we imagine, even for light!",
+    "title": "Leaving Our Solar System's TRUE Edge! \ud83d\ude80\u23f3",
+    "hashtags": [
+      "#SpaceTravel",
+      "#OortCloud",
+      "#SolarSystem",
+      "#CosmicDistances",
+      "#Voyager1"
+    ],
+    "generated_at": "2026-04-01T08:55:09.037741",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How long to REALLY leave our Solar System?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A stylized sun and planets shrink, replaced by a vast, starry expanse with a large, animated '?' appearing.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Oort Cloud: Starts ~300 BILLION km out.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animation zooms out from a familiar solar system, revealing a faint, vast, spherical cloud of icy bodies surrounding it. The distance '300 BILLION km' is highlighted.",
+        "animation": "zoom_out"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Voyager 1 (17 km/s) to INNER Oort: 550+ YEARS!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A small, stylized spacecraft (like Voyager) slowly moves across the screen from left to right against a dark, star-speckled background. A digital counter rapidly increments, settling on '550+ YEARS'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Crossing the FULL Oort Cloud: 28,000+ YEARS!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "The Voyager icon continues its journey, now appearing even smaller against an infinitely vast, darker expanse. The counter accelerates dramatically and displays '28,000+ YEARS'.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Even LIGHT takes 1.5 YEARS to cross! Our neighborhood is VAST.",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A bright, fast beam of light streaks across the dark, icy Oort Cloud, quickly traversing the immense distance. The scene then transitions to a mesmerizing view of a distant, beautiful galaxy, emphasizing cosmic scale.",
+        "animation": "pulse"
+      }
+    ],
+    "thumbnail_text": "Leave Our Solar System? Think Again!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-01T08:55:26.009468",
+  "status": "uploaded",
+  "rendered_at": "2026-04-01T08:56:20.533765",
+  "video_path": "videos_output/oort_cloud_travel_time_20260401_085526.mp4",
+  "uploaded_at": "2026-04-01T08:56:23.739275",
+  "youtube": {
+    "video_id": "QDMaobWDv8g",
+    "url": "https://youtube.com/shorts/QDMaobWDv8g",
+    "title": "Leaving Our Solar System's TRUE Edge! \ud83d\ude80\u23f3",
+    "uploaded_at": "2026-04-01T08:56:23.739170"
+  }
+}

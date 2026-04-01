@@ -1055,5 +1055,30 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-01T01:28:17.705322"
+  },
+  {
+    "topic": "Oort Cloud Travel Time",
+    "topic_family": "travel_time",
+    "hook": "How long does it take to *really* leave our Solar System?",
+    "facts": [
+      "The Oort Cloud, our Solar System's icy outer shell, begins ~300 billion km away.",
+      "Our fastest spacecraft, Voyager 1, travels at ~17 km/s.",
+      "At this speed, reaching the *inner* Oort Cloud would take over 550 years.",
+      "Crossing its full 15-trillion-km expanse (up to 100,000 AU) would take over 28,000 years!",
+      "Even at the speed of light, traversing the *entire* Oort Cloud takes over 1.5 years!"
+    ],
+    "payoff": "Our cosmic neighborhood is vastly larger than we imagine, even for light!",
+    "title": "Leaving Our Solar System's TRUE Edge! \ud83d\ude80\u23f3",
+    "hashtags": [
+      "#SpaceTravel",
+      "#OortCloud",
+      "#SolarSystem",
+      "#CosmicDistances",
+      "#Voyager1"
+    ],
+    "generated_at": "2026-04-01T08:55:09.037741",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-01T08:55:26.009788"
   }
 ]
