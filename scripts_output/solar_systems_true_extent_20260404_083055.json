@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Solar System's True Extent",
+    "topic_family": "scale_comparison",
+    "hook": "Our Solar System is VASTLY bigger than you think!",
+    "facts": [
+      "The inner Solar System, home to all 8 planets, spans only ~30 Astronomical Units (AU) from the Sun. That's 4.5 BILLION km.",
+      "The Kuiper Belt, a ring of icy objects beyond Neptune, extends out to ~50 AU (7.5 BILLION km).",
+      "The Oort Cloud, our true outer boundary, BEGINS at 2,000 AU (0.03 Light-Years) and reaches a staggering 100,000 AU (1.5 Light-Years!) from the Sun."
+    ],
+    "payoff": "The familiar planets are just a tiny, central speck within a truly immense, distant, icy sphere that makes up the *vast majority* of our cosmic home!",
+    "title": "Solar System's REAL Size! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#SolarSystem",
+      "#OortCloud",
+      "#SpaceFacts",
+      "#Astrophysics",
+      "#Scale"
+    ],
+    "generated_at": "2026-04-04T08:30:45.729998",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Your Solar System is VASTLY bigger than you think!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A vibrant, animated visualization of the inner Solar System (Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune) with their orbits clearly defined. The view is relatively close-up, showing the planets moving.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "All 8 Planets are in the INNER SYSTEM: 30 AU (4.5 Billion km)",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "The camera quickly zooms out, showing the 8 planets and their orbits becoming a smaller, central point. A clear, labeled ring indicating '30 AU' appears around Neptune's orbit, with '4.5 BILLION KM' next to it. The background darkens, showing more distant stars.",
+        "animation": "zoom_out"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Kuiper Belt: 50 AU (7.5 Billion km) beyond Neptune.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "The view continues to expand outwards. The inner Solar System is now a very small dot in the center. A much wider, denser ring of small icy objects (the Kuiper Belt) becomes visible, extending to a labeled '50 AU' ring. '7.5 BILLION KM' appears next to it. The background is mostly dark space with sparse stars.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Oort Cloud BEGINS at 2,000 AU & reaches 100,000 AU (1.5 Light-Years!)",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "A massive, spherical cloud of tiny icy dots (the Oort Cloud) rapidly forms around the now-microscopic inner system and Kuiper Belt. The scale is immense. A labeled inner boundary '2,000 AU' and an outer boundary '100,000 AU (1.5 Light-Years!)' are shown. The entire screen is filled with the vastness of space and this huge cloud.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Our planets are a tiny speck in an IMMENSE, icy cosmic home!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A final, wide shot emphasizing the overwhelming scale. The entire Solar System (including the Oort Cloud) is shown as a vast, hazy sphere against a backdrop of distant galaxies or a dense star field. The central dot representing the planets is barely discernible, highlighting the true extent.",
+        "animation": "pulse"
+      }
+    ],
+    "thumbnail_text": "Solar System: Beyond the Planets!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-04T08:30:55.292869",
+  "status": "uploaded",
+  "rendered_at": "2026-04-04T08:31:51.044574",
+  "video_path": "videos_output/solar_systems_true_extent_20260404_083055.mp4",
+  "uploaded_at": "2026-04-04T08:31:53.846389",
+  "youtube": {
+    "video_id": "2xeXZAFQS80",
+    "url": "https://youtube.com/shorts/2xeXZAFQS80",
+    "title": "Solar System's REAL Size! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-04-04T08:31:53.846263"
+  }
+}

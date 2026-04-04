@@ -1265,5 +1265,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-04T01:15:33.657501"
+  },
+  {
+    "topic": "Solar System's True Extent",
+    "topic_family": "scale_comparison",
+    "hook": "Our Solar System is VASTLY bigger than you think!",
+    "facts": [
+      "The inner Solar System, home to all 8 planets, spans only ~30 Astronomical Units (AU) from the Sun. That's 4.5 BILLION km.",
+      "The Kuiper Belt, a ring of icy objects beyond Neptune, extends out to ~50 AU (7.5 BILLION km).",
+      "The Oort Cloud, our true outer boundary, BEGINS at 2,000 AU (0.03 Light-Years) and reaches a staggering 100,000 AU (1.5 Light-Years!) from the Sun."
+    ],
+    "payoff": "The familiar planets are just a tiny, central speck within a truly immense, distant, icy sphere that makes up the *vast majority* of our cosmic home!",
+    "title": "Solar System's REAL Size! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#SolarSystem",
+      "#OortCloud",
+      "#SpaceFacts",
+      "#Astrophysics",
+      "#Scale"
+    ],
+    "generated_at": "2026-04-04T08:30:45.729998",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-04T08:30:55.293079"
   }
 ]
