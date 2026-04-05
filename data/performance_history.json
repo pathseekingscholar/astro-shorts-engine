@@ -870,7 +870,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-04T07:00:13.705744"
+    "analyzed_at": "2026-04-05T07:05:21.182924"
   },
   {
     "video_id": "oN64aA9Jq4Y",
@@ -885,7 +885,7 @@
       "avg_view_duration_seconds": 12
     },
     "performance_score": 0.305,
-    "analyzed_at": "2026-04-04T07:00:13.870171"
+    "analyzed_at": "2026-04-05T07:05:21.305600"
   },
   {
     "video_id": "k-QOqm4n3Z8",
@@ -945,7 +945,7 @@
       "avg_view_duration_seconds": 20
     },
     "performance_score": 0.427,
-    "analyzed_at": "2026-04-04T07:00:13.349957"
+    "analyzed_at": "2026-04-05T07:05:20.802341"
   },
   {
     "video_id": "-eZjMf5DueM",
@@ -958,7 +958,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-04T07:00:13.464180"
+    "analyzed_at": "2026-04-05T07:05:20.926399"
   },
   {
     "video_id": "AM6k-iDLgP0",
@@ -973,7 +973,7 @@
       "avg_view_duration_seconds": 11
     },
     "performance_score": 0.227,
-    "analyzed_at": "2026-04-04T07:00:13.597387"
+    "analyzed_at": "2026-04-05T07:05:21.060422"
   },
   {
     "video_id": "vxklPOSekAQ",
@@ -981,14 +981,14 @@
     "published_at": "2026-04-01T01:29:54Z",
     "topic_family": "general",
     "metrics": {
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 11
     },
-    "performance_score": 0.237,
-    "analyzed_at": "2026-04-04T07:00:12.909172"
+    "performance_score": 0.24,
+    "analyzed_at": "2026-04-05T07:05:20.375783"
   },
   {
     "video_id": "vdUMLcy2xqI",
@@ -1003,7 +1003,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-04T07:00:13.059116"
+    "analyzed_at": "2026-04-05T07:05:20.515266"
   },
   {
     "video_id": "x8aVQAQoXDE",
@@ -1011,14 +1011,14 @@
     "published_at": "2026-03-31T08:48:47Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 19
     },
-    "performance_score": 0.385,
-    "analyzed_at": "2026-04-04T07:00:13.201560"
+    "performance_score": 0.39,
+    "analyzed_at": "2026-04-05T07:05:20.656497"
   },
   {
     "video_id": "EMH3QvnM4C0",
@@ -1026,14 +1026,14 @@
     "published_at": "2026-04-02T01:19:56Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 6
     },
-    "performance_score": 0.128,
-    "analyzed_at": "2026-04-04T07:00:12.458482"
+    "performance_score": 0.133,
+    "analyzed_at": "2026-04-05T07:05:19.971279"
   },
   {
     "video_id": "LKEOf6qK8QM",
@@ -1041,14 +1041,14 @@
     "published_at": "2026-04-01T16:54:37Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 4,
+      "views": 5,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 15
+      "avg_view_duration_seconds": 16
     },
-    "performance_score": 0.33,
-    "analyzed_at": "2026-04-04T07:00:12.606291"
+    "performance_score": 0.353,
+    "analyzed_at": "2026-04-05T07:05:20.110917"
   },
   {
     "video_id": "QDMaobWDv8g",
@@ -1063,7 +1063,7 @@
       "avg_view_duration_seconds": 20
     },
     "performance_score": 0.405,
-    "analyzed_at": "2026-04-04T07:00:12.747855"
+    "analyzed_at": "2026-04-05T07:05:20.246427"
   },
   {
     "video_id": "fv2T7Z91BxM",
@@ -1071,12 +1071,14 @@
     "published_at": "2026-04-03T01:22:39Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 6,
+      "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 6
     },
-    "performance_score": 0.015,
-    "analyzed_at": "2026-04-04T07:00:12.085408"
+    "performance_score": 0.122,
+    "analyzed_at": "2026-04-05T07:05:19.562757"
   },
   {
     "video_id": "oqtQRkIBq6E",
@@ -1086,10 +1088,12 @@
     "metrics": {
       "views": 5,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 1,
+      "avg_view_duration_seconds": 17
     },
-    "performance_score": 0.013,
-    "analyzed_at": "2026-04-04T07:00:12.198114"
+    "performance_score": 0.377,
+    "analyzed_at": "2026-04-05T07:05:19.700375"
   },
   {
     "video_id": "_NgNAQIzTrg",
@@ -1099,10 +1103,12 @@
     "metrics": {
       "views": 11,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 5
     },
-    "performance_score": 0.028,
-    "analyzed_at": "2026-04-04T07:00:12.318609"
+    "performance_score": 0.128,
+    "analyzed_at": "2026-04-05T07:05:19.843268"
   },
   {
     "video_id": "4LbTBtHWGBs",
@@ -1115,7 +1121,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-04T07:00:11.674878"
+    "analyzed_at": "2026-04-05T07:05:19.191780"
   },
   {
     "video_id": "zBbSwKt3Q-U",
@@ -1123,12 +1129,12 @@
     "published_at": "2026-04-03T16:33:08Z",
     "topic_family": "hypothetical",
     "metrics": {
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-04-04T07:00:11.845935"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-05T07:05:19.308183"
   },
   {
     "video_id": "PyrEN8rxXT8",
@@ -1141,6 +1147,45 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-04T07:00:11.965914"
+    "analyzed_at": "2026-04-05T07:05:19.421952"
+  },
+  {
+    "video_id": "PIzsp3VY3U8",
+    "title": "TRAPPIST-1: SO TIGHT! \ud83e\udd2f\ud83e\ude90",
+    "published_at": "2026-04-05T01:26:00Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-05T07:05:18.823646"
+  },
+  {
+    "video_id": "52itjqlV3a8",
+    "title": "Europa: Hidden Ocean, More Water Than Earth! \ud83c\udf0a\ud83d\udd2c",
+    "published_at": "2026-04-04T16:27:01Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 1,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.023,
+    "analyzed_at": "2026-04-05T07:05:18.940286"
+  },
+  {
+    "video_id": "2xeXZAFQS80",
+    "title": "Solar System's REAL Size! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-04T08:32:18Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 17,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.043,
+    "analyzed_at": "2026-04-05T07:05:19.075765"
   }
 ]
