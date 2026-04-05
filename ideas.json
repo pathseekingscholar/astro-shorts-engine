@@ -1311,5 +1311,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-04T16:24:56.101217"
+  },
+  {
+    "topic": "Exoplanet System Compactness",
+    "topic_family": "scale_comparison",
+    "hook": "How tightly packed can an alien solar system be?",
+    "facts": [
+      "Our Solar System: Mercury, our innermost planet, orbits the Sun at ~58 million km (0.39 AU).",
+      "The TRAPPIST-1 system has 7 Earth-sized planets, all orbiting a cool red dwarf star.",
+      "The outermost planet, TRAPPIST-1h, orbits its star at just ~9 million km (0.06 AU)."
+    ],
+    "payoff": "The ENTIRE TRAPPIST-1 system, with 7 planets, could easily fit inside Mercury's orbit!",
+    "title": "TRAPPIST-1: SO TIGHT! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Trappist1",
+      "#Exoplanets",
+      "#SolarSystem",
+      "#SpaceScale",
+      "#CosmicFacts"
+    ],
+    "generated_at": "2026-04-05T01:24:39.836899",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-05T01:24:48.225135"
   }
 ]

@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Exoplanet System Compactness",
+    "topic_family": "scale_comparison",
+    "hook": "How tightly packed can an alien solar system be?",
+    "facts": [
+      "Our Solar System: Mercury, our innermost planet, orbits the Sun at ~58 million km (0.39 AU).",
+      "The TRAPPIST-1 system has 7 Earth-sized planets, all orbiting a cool red dwarf star.",
+      "The outermost planet, TRAPPIST-1h, orbits its star at just ~9 million km (0.06 AU)."
+    ],
+    "payoff": "The ENTIRE TRAPPIST-1 system, with 7 planets, could easily fit inside Mercury's orbit!",
+    "title": "TRAPPIST-1: SO TIGHT! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Trappist1",
+      "#Exoplanets",
+      "#SolarSystem",
+      "#SpaceScale",
+      "#CosmicFacts"
+    ],
+    "generated_at": "2026-04-05T01:24:39.836899",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How TIGHTLY PACKED can an alien solar system be?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A vast, dark space background with distant stars. A subtle question mark icon might appear briefly.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Our Solar System: Mercury's orbit is ~58 Million km (0.39 AU).",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "The Sun appears in the center. An animated orbit ring for Mercury fades in, then Mercury itself appears on the orbit.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "The TRAPPIST-1 system has 7 Earth-sized planets around a Red Dwarf.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Transition to a small, cool red dwarf star. Faint, close-in orbital paths for 7 planets appear around it.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "TRAPPIST-1h (outermost) orbits at just ~9 Million km (0.06 AU).",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Zoom in slightly on the TRAPPIST-1 system. The outermost orbit (TRAPPIST-1h) is highlighted, with the planet visible.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "The ENTIRE TRAPPIST-1 system fits INSIDE Mercury's orbit!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Mercury's orbit (from Scene 2) reappears as a large, transparent ring. Inside it, the entire TRAPPIST-1 system (star and all 7 orbits) is shown, visibly tiny, floating within Mercury's orbit. An arrow points from Mercury's orbit to the TRAPPIST-1 system."
+      }
+    ],
+    "thumbnail_text": "TRAPPIST-1 vs. Mercury: Size Shock!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-05T01:24:48.224927",
+  "status": "uploaded",
+  "rendered_at": "2026-04-05T01:25:45.228600",
+  "video_path": "videos_output/exoplanet_system_compactness_20260405_012448.mp4",
+  "uploaded_at": "2026-04-05T01:25:48.611421",
+  "youtube": {
+    "video_id": "PIzsp3VY3U8",
+    "url": "https://youtube.com/shorts/PIzsp3VY3U8",
+    "title": "TRAPPIST-1: SO TIGHT! \ud83e\udd2f\ud83e\ude90",
+    "uploaded_at": "2026-04-05T01:25:48.611335"
+  }
+}
