@@ -1427,5 +1427,30 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-06T09:01:51.979859"
+  },
+  {
+    "topic": "Matter-Antimatter Asymmetry",
+    "topic_family": "cosmic_mystery",
+    "hook": "If the Big Bang made matter, it also made ANTI-MATTER.",
+    "facts": [
+      "For every 1,000,000,000 particles of matter, there should've been 1,000,000,000 particles of antimatter.",
+      "When matter and antimatter meet, they instantly ANNIHILATE into pure energy.",
+      "A perfectly balanced universe would be completely EMPTY \u2013 just light and no stars, planets, or YOU.",
+      "Yet, our observable universe is overwhelmingly made of matter, with virtually no primordial antimatter.",
+      "This implies a tiny 1-in-a-billion excess of matter survived the early universe."
+    ],
+    "payoff": "That microscopic imbalance is why ANYTHING exists at all!",
+    "title": "Why is there MATTER at all?! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "CosmicMystery",
+      "BigBang",
+      "Antimatter",
+      "ParticlePhysics",
+      "Universe"
+    ],
+    "generated_at": "2026-04-06T16:37:29.818297",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-06T16:37:45.711792"
   }
 ]
