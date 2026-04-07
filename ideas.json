@@ -1498,5 +1498,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T08:54:12.363621"
+  },
+  {
+    "topic": "Haumea's Extreme Spin",
+    "topic_family": "planetary_facts",
+    "hook": "This Dwarf Planet Spins So Fast...",
+    "facts": [
+      "Haumea, a dwarf planet in the Kuiper Belt, is shaped like a squashed football.",
+      "It completes a full rotation in just 3.9 hours \u2013 one of the fastest spins in our Solar System for its size.",
+      "This incredible speed distorts its rocky body, flattening it into an ellipsoid about twice as long as it is wide."
+    ],
+    "payoff": "Its rapid spin literally stretches it into a unique, non-spherical cosmic rugby ball!",
+    "title": "Haumea: The Cosmic Football! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Haumea",
+      "#DwarfPlanet",
+      "#SpaceFacts",
+      "#Astrophysics",
+      "#KuiperBelt"
+    ],
+    "generated_at": "2026-04-07T16:47:14.749184",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-07T16:47:29.992917"
   }
 ]

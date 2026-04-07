@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Haumea's Extreme Spin",
+    "topic_family": "planetary_facts",
+    "hook": "This Dwarf Planet Spins So Fast...",
+    "facts": [
+      "Haumea, a dwarf planet in the Kuiper Belt, is shaped like a squashed football.",
+      "It completes a full rotation in just 3.9 hours \u2013 one of the fastest spins in our Solar System for its size.",
+      "This incredible speed distorts its rocky body, flattening it into an ellipsoid about twice as long as it is wide."
+    ],
+    "payoff": "Its rapid spin literally stretches it into a unique, non-spherical cosmic rugby ball!",
+    "title": "Haumea: The Cosmic Football! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Haumea",
+      "#DwarfPlanet",
+      "#SpaceFacts",
+      "#Astrophysics",
+      "#KuiperBelt"
+    ],
+    "generated_at": "2026-04-07T16:47:14.749184",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "This Dwarf Planet Spins So Fast...",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Dark cosmic background with distant stars. A faint, blurry streak or rapidly spinning abstract light appears, hinting at extreme speed.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Meet Haumea: A dwarf planet in the Kuiper Belt.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "A detailed 3D model of Haumea appears, initially looking somewhat spherical but slightly squashed, slowly rotating against a background of faint, icy Kuiper Belt objects.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Full rotation in just 3.9 hours!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Haumea spins rapidly on its axis. A circular arrow graphic animates around it, indicating fast rotation. The text '3.9 hours' flashes prominently.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "This speed flattens it: Twice as long as it is wide!",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Haumea's model visibly stretches and flattens into a distinct ellipsoid shape while continuing its rapid spin. On-screen text or graphic indicators visually demonstrate the '2x long as 1x wide' ratio.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "A unique, non-spherical cosmic rugby ball!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The final, highly elongated, rugby-ball-shaped Haumea spins dramatically, showcasing its unique form. Subtle light glints off its icy surface, highlighting its contours."
+      }
+    ],
+    "thumbnail_text": "Haumea: The Cosmic Rugby Ball!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-07T16:47:29.992723",
+  "status": "uploaded",
+  "rendered_at": "2026-04-07T16:48:24.297342",
+  "video_path": "videos_output/haumeas_extreme_spin_20260407_164730.mp4",
+  "uploaded_at": "2026-04-07T16:48:28.088614",
+  "youtube": {
+    "video_id": "K-Rw0Z5QT1k",
+    "url": "https://youtube.com/shorts/K-Rw0Z5QT1k",
+    "title": "Haumea: The Cosmic Football! \ud83e\udd2f\ud83e\ude90",
+    "uploaded_at": "2026-04-07T16:48:28.088513"
+  }
+}
