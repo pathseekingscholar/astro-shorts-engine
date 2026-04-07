@@ -1475,5 +1475,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T01:22:32.252945"
+  },
+  {
+    "topic": "Mercury's Extreme Temperatures",
+    "topic_family": "planetary_facts",
+    "hook": "Hottest and coldest place... on the SAME planet!?",
+    "facts": [
+      "During its long 59-Earth-day 'day,' Mercury's sun-facing side bakes at 430\u00b0C (800\u00b0F) \u2013 hot enough to melt lead!",
+      "With no atmosphere to hold heat, its night side plunges to -180\u00b0C (-290\u00b0F), colder than anywhere on Earth.",
+      "This incredible 610\u00b0C (1090\u00b0F) daily temperature swing is the most extreme of any planet in our Solar System."
+    ],
+    "payoff": "Mercury isn't just hot OR cold... it's BOTH to an unimaginable extreme!",
+    "title": "Mercury's EXTREME Temperature Swings! \ud83d\udd25\u2744\ufe0f",
+    "hashtags": [
+      "#Mercury",
+      "#SpaceFacts",
+      "#Planets",
+      "#SolarSystem",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-07T08:53:47.883965",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-07T08:54:12.363621"
   }
 ]
