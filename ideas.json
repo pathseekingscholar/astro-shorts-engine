@@ -1521,5 +1521,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T16:47:29.992917"
+  },
+  {
+    "topic": "Uranus's Extreme Tilt",
+    "topic_family": "planetary_facts",
+    "hook": "One giant planet is spinning... SIDEWAYS?!",
+    "facts": [
+      "Most planets in our solar system spin relatively upright to their orbit, like Earth (23.5\u00b0 axial tilt).",
+      "But Uranus spins on its side, with an astounding axial tilt of 97.8 degrees!",
+      "This means its poles face the Sun for 42 Earth years at a time, causing extreme, decades-long seasons."
+    ],
+    "payoff": "Scientists believe a massive, ancient collision early in its history literally knocked Uranus over!",
+    "title": "Uranus's Sideways Spin! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Uranus",
+      "#SpaceFacts",
+      "#Astronomy",
+      "#SolarSystem",
+      "#Planets"
+    ],
+    "generated_at": "2026-04-08T01:23:57.215785",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-08T01:24:06.740196"
   }
 ]
