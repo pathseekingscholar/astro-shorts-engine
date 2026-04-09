@@ -1026,14 +1026,14 @@
     "published_at": "2026-04-02T01:19:56Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 5,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 6
+      "avg_view_duration_seconds": 18
     },
-    "performance_score": 0.133,
-    "analyzed_at": "2026-04-08T07:18:20.997838"
+    "performance_score": 0.37,
+    "analyzed_at": "2026-04-09T07:21:15.121485"
   },
   {
     "video_id": "LKEOf6qK8QM",
@@ -1078,7 +1078,7 @@
       "avg_view_duration_seconds": 13
     },
     "performance_score": 0.275,
-    "analyzed_at": "2026-04-08T07:18:20.627045"
+    "analyzed_at": "2026-04-09T07:21:14.608324"
   },
   {
     "video_id": "oqtQRkIBq6E",
@@ -1093,7 +1093,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.377,
-    "analyzed_at": "2026-04-08T07:18:20.752844"
+    "analyzed_at": "2026-04-09T07:21:14.765078"
   },
   {
     "video_id": "_NgNAQIzTrg",
@@ -1108,7 +1108,7 @@
       "avg_view_duration_seconds": 5
     },
     "performance_score": 0.128,
-    "analyzed_at": "2026-04-08T07:18:20.869623"
+    "analyzed_at": "2026-04-09T07:21:14.948224"
   },
   {
     "video_id": "4LbTBtHWGBs",
@@ -1121,7 +1121,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-08T07:18:20.243704"
+    "analyzed_at": "2026-04-09T07:21:14.102343"
   },
   {
     "video_id": "zBbSwKt3Q-U",
@@ -1136,7 +1136,7 @@
       "avg_view_duration_seconds": 7
     },
     "performance_score": 0.145,
-    "analyzed_at": "2026-04-08T07:18:20.369883"
+    "analyzed_at": "2026-04-09T07:21:14.273842"
   },
   {
     "video_id": "PyrEN8rxXT8",
@@ -1151,7 +1151,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-08T07:18:20.510948"
+    "analyzed_at": "2026-04-09T07:21:14.434534"
   },
   {
     "video_id": "PIzsp3VY3U8",
@@ -1166,7 +1166,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-08T07:18:19.860914"
+    "analyzed_at": "2026-04-09T07:21:13.623461"
   },
   {
     "video_id": "52itjqlV3a8",
@@ -1181,7 +1181,7 @@
       "avg_view_duration_seconds": 15
     },
     "performance_score": 0.323,
-    "analyzed_at": "2026-04-08T07:18:20.011538"
+    "analyzed_at": "2026-04-09T07:21:13.784515"
   },
   {
     "video_id": "2xeXZAFQS80",
@@ -1189,14 +1189,14 @@
     "published_at": "2026-04-04T08:32:18Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 17,
+      "views": 19,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 1,
-      "avg_view_duration_seconds": 19
+      "avg_view_duration_seconds": 17
     },
-    "performance_score": 0.447,
-    "analyzed_at": "2026-04-08T07:18:20.131619"
+    "performance_score": 0.412,
+    "analyzed_at": "2026-04-09T07:21:13.957246"
   },
   {
     "video_id": "QYFiApc1Oks",
@@ -1204,14 +1204,14 @@
     "published_at": "2026-04-06T01:27:16Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 0,
-      "likes": 0,
+      "views": 2,
+      "likes": 1,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-04-08T07:18:19.496796"
+    "performance_score": 0.025,
+    "analyzed_at": "2026-04-09T07:21:13.082251"
   },
   {
     "video_id": "fUIYfSTuDMY",
@@ -1226,7 +1226,7 @@
       "avg_view_duration_seconds": 6
     },
     "performance_score": 0.125,
-    "analyzed_at": "2026-04-08T07:18:19.613545"
+    "analyzed_at": "2026-04-09T07:21:13.242759"
   },
   {
     "video_id": "aN1z67wHBrU",
@@ -1234,14 +1234,14 @@
     "published_at": "2026-04-05T08:35:20Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 0
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-04-08T07:18:19.743085"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-09T07:21:13.428950"
   },
   {
     "video_id": "Nq2ciyBKIQU",
@@ -1254,7 +1254,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-08T07:18:19.108601"
+    "analyzed_at": "2026-04-09T07:21:12.539208"
   },
   {
     "video_id": "8A7brxh0PwY",
@@ -1264,10 +1264,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-08T07:18:19.242957"
+    "analyzed_at": "2026-04-09T07:21:12.731377"
   },
   {
     "video_id": "Qh2NPQeu-3M",
@@ -1277,10 +1279,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-08T07:18:19.355281"
+    "analyzed_at": "2026-04-09T07:21:12.909810"
   },
   {
     "video_id": "sriAjdrtH2Q",
@@ -1288,12 +1292,12 @@
     "published_at": "2026-04-08T01:25:27Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-04-08T07:18:18.761710"
+    "performance_score": 0.007,
+    "analyzed_at": "2026-04-09T07:21:12.045153"
   },
   {
     "video_id": "K-Rw0Z5QT1k",
@@ -1301,12 +1305,12 @@
     "published_at": "2026-04-07T16:48:44Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-04-08T07:18:18.873364"
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-09T07:21:12.207656"
   },
   {
     "video_id": "Wh5L3MSoabI",
@@ -1314,11 +1318,24 @@
     "published_at": "2026-04-07T08:55:32Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.02,
-    "analyzed_at": "2026-04-08T07:18:18.992637"
+    "performance_score": 0.022,
+    "analyzed_at": "2026-04-09T07:21:12.382098"
+  },
+  {
+    "video_id": "iotWOoVNbbg",
+    "title": "Solar System's Secret Size! \ud83e\udd2f",
+    "published_at": "2026-04-09T01:15:40Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-09T07:21:11.882971"
   }
 ]
