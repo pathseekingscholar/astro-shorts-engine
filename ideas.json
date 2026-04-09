@@ -1544,5 +1544,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-08T01:24:06.740196"
+  },
+  {
+    "topic": "Oort Cloud Scale",
+    "topic_family": "scale_comparison",
+    "hook": "Where does our Solar System *actually* end?",
+    "facts": [
+      "From the Sun to Neptune (our outermost major planet) is about 30 Astronomical Units (AU).",
+      "The *inner edge* of the Oort Cloud, where billions of icy objects reside, begins around 2,000 AU from the Sun.",
+      "The *outer edge* of the Oort Cloud extends up to a staggering 100,000 AU (over 1.5 light-years) from the Sun."
+    ],
+    "payoff": "The familiar planetary system is just a tiny speck at the very heart of our colossal Solar System!",
+    "title": "Solar System's Secret Size! \ud83e\udd2f",
+    "hashtags": [
+      "#SpaceScale",
+      "#OortCloud",
+      "#SolarSystem",
+      "#Astrophysics",
+      "#CosmicFacts"
+    ],
+    "generated_at": "2026-04-09T01:14:05.886714",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-09T01:14:22.479685"
   }
 ]
