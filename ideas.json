@@ -1590,5 +1590,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-10T01:24:59.913214"
+  },
+  {
+    "topic": "Travel to Andromeda Galaxy",
+    "topic_family": "travel_time",
+    "hook": "Want to visit our colossal neighboring galaxy, Andromeda?",
+    "facts": [
+      "Andromeda is approximately 2.537 million light-years away from the Milky Way.",
+      "Even traveling at the speed of light (300,000 km/s), it would take you 2.537 million years to reach it.",
+      "Our fastest spacecraft, the Parker Solar Probe, would take nearly 4 billion years to cover that distance!"
+    ],
+    "payoff": "Good news: you don't have to! Andromeda is already hurtling towards us for a spectacular galactic collision in just 4.5 billion years!",
+    "title": "Our Galactic Road Trip: Andromeda! \ud83d\ude80\ud83c\udf0c",
+    "hashtags": [
+      "#AndromedaGalaxy",
+      "#MilkyWay",
+      "#SpaceTravel",
+      "#CosmicCollision",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-10T16:42:05.314908",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-10T16:42:19.152409"
   }
 ]

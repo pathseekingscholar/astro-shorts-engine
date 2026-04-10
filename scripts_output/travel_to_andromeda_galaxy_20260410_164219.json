@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Travel to Andromeda Galaxy",
+    "topic_family": "travel_time",
+    "hook": "Want to visit our colossal neighboring galaxy, Andromeda?",
+    "facts": [
+      "Andromeda is approximately 2.537 million light-years away from the Milky Way.",
+      "Even traveling at the speed of light (300,000 km/s), it would take you 2.537 million years to reach it.",
+      "Our fastest spacecraft, the Parker Solar Probe, would take nearly 4 billion years to cover that distance!"
+    ],
+    "payoff": "Good news: you don't have to! Andromeda is already hurtling towards us for a spectacular galactic collision in just 4.5 billion years!",
+    "title": "Our Galactic Road Trip: Andromeda! \ud83d\ude80\ud83c\udf0c",
+    "hashtags": [
+      "#AndromedaGalaxy",
+      "#MilkyWay",
+      "#SpaceTravel",
+      "#CosmicCollision",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-10T16:42:05.314908",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Want to visit our colossal neighbor, Andromeda?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Stunning CGI shot of the Milky Way galaxy with the faint spiral of the Andromeda galaxy visible in the distance, bathed in stars.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Andromeda is 2.537 MILLION light-years away!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Stylized icons of the Milky Way and Andromeda galaxies with a massive, glowing distance line spanning between them. Starfield background.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Even at light speed (300,000 km/s), it'd take 2.537 MILLION years!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A vibrant light beam traveling rapidly across the screen from a Milky Way icon on the left to an Andromeda icon on the right, with a clock icon ticking rapidly.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Our fastest probe, Parker Solar, would take ~4 BILLION years!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A tiny, barely perceptible spacecraft icon (Parker Solar Probe) moving incredibly slowly from a Milky Way icon towards an Andromeda icon, emphasizing the immense scale and time.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Good news: You don't have to! Andromeda is coming to US in ~4.5 Billion Years!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Dramatic animation showing the Andromeda galaxy rapidly growing larger and closer, hurtling towards the Milky Way. Ends with a beautiful, stylized galactic collision/merger."
+      }
+    ],
+    "thumbnail_text": "Andromeda is Coming!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-10T16:42:19.152212",
+  "status": "uploaded",
+  "rendered_at": "2026-04-10T16:43:52.913386",
+  "video_path": "videos_output/travel_to_andromeda_galaxy_20260410_164219.mp4",
+  "uploaded_at": "2026-04-10T16:43:57.832106",
+  "youtube": {
+    "video_id": "08KuKUr20tA",
+    "url": "https://youtube.com/shorts/08KuKUr20tA",
+    "title": "Our Galactic Road Trip: Andromeda! \ud83d\ude80\ud83c\udf0c",
+    "uploaded_at": "2026-04-10T16:43:57.832009"
+  }
+}
