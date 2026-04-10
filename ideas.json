@@ -1567,5 +1567,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-09T01:14:22.479685"
+  },
+  {
+    "topic": "Magnetar's Extreme Magnetic Field",
+    "topic_family": "extreme_conditions",
+    "hook": "Could a magnet TEAR YOU APART? \ud83e\uddf2",
+    "facts": [
+      "Your average fridge magnet has a field of ~100 Gauss.",
+      "Earth's magnetic field is a gentle ~0.5 Gauss.",
+      "Magnetars are neutron stars with magnetic fields up to 10\u00b9\u2075 Gauss (1,000,000,000,000,000 Gauss!) \u2013 the strongest in the Universe."
+    ],
+    "payoff": "Even 1,000 km away, a magnetar's field would rip the electrons from your atoms, instantly disintegrating your body!",
+    "title": "This Magnet Would DISINTEGRATE You! \ud83e\uddf2\ud83d\udc80",
+    "hashtags": [
+      "magnetar",
+      "magneticfield",
+      "neutronstar",
+      "astrophysics",
+      "extremespace"
+    ],
+    "generated_at": "2026-04-10T01:24:52.234401",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-10T01:24:59.913214"
   }
 ]
