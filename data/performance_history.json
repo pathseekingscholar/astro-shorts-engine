@@ -1071,14 +1071,12 @@
     "published_at": "2026-04-03T01:22:39Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 5,
+      "views": 6,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 20
+      "comments": 0
     },
-    "performance_score": 0.412,
-    "analyzed_at": "2026-04-10T07:26:52.900851"
+    "performance_score": 0.015,
+    "analyzed_at": "2026-04-11T07:00:23.819676"
   },
   {
     "video_id": "oqtQRkIBq6E",
@@ -1117,7 +1115,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-10T07:26:52.445181"
+    "analyzed_at": "2026-04-11T07:00:23.497858"
   },
   {
     "video_id": "zBbSwKt3Q-U",
@@ -1125,14 +1123,14 @@
     "published_at": "2026-04-03T16:33:08Z",
     "topic_family": "hypothetical",
     "metrics": {
-      "views": 2,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 7
+      "avg_view_duration_seconds": 8
     },
-    "performance_score": 0.145,
-    "analyzed_at": "2026-04-10T07:26:52.585826"
+    "performance_score": 0.163,
+    "analyzed_at": "2026-04-11T07:00:23.598868"
   },
   {
     "video_id": "PyrEN8rxXT8",
@@ -1142,12 +1140,10 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-10T07:26:52.754800"
+    "analyzed_at": "2026-04-11T07:00:23.716078"
   },
   {
     "video_id": "PIzsp3VY3U8",
@@ -1162,7 +1158,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-10T07:26:51.994062"
+    "analyzed_at": "2026-04-11T07:00:23.182499"
   },
   {
     "video_id": "52itjqlV3a8",
@@ -1177,7 +1173,7 @@
       "avg_view_duration_seconds": 15
     },
     "performance_score": 0.323,
-    "analyzed_at": "2026-04-10T07:26:52.152064"
+    "analyzed_at": "2026-04-11T07:00:23.295253"
   },
   {
     "video_id": "2xeXZAFQS80",
@@ -1192,7 +1188,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.412,
-    "analyzed_at": "2026-04-10T07:26:52.299649"
+    "analyzed_at": "2026-04-11T07:00:23.400795"
   },
   {
     "video_id": "QYFiApc1Oks",
@@ -1207,7 +1203,7 @@
       "avg_view_duration_seconds": 5
     },
     "performance_score": 0.128,
-    "analyzed_at": "2026-04-10T07:26:51.536074"
+    "analyzed_at": "2026-04-11T07:00:22.868528"
   },
   {
     "video_id": "fUIYfSTuDMY",
@@ -1222,7 +1218,7 @@
       "avg_view_duration_seconds": 6
     },
     "performance_score": 0.125,
-    "analyzed_at": "2026-04-10T07:26:51.695675"
+    "analyzed_at": "2026-04-11T07:00:22.973693"
   },
   {
     "video_id": "aN1z67wHBrU",
@@ -1237,7 +1233,7 @@
       "avg_view_duration_seconds": 10
     },
     "performance_score": 0.207,
-    "analyzed_at": "2026-04-10T07:26:51.852152"
+    "analyzed_at": "2026-04-11T07:00:23.088546"
   },
   {
     "video_id": "Nq2ciyBKIQU",
@@ -1252,7 +1248,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-10T07:26:51.116704"
+    "analyzed_at": "2026-04-11T07:00:22.550142"
   },
   {
     "video_id": "8A7brxh0PwY",
@@ -1267,7 +1263,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-10T07:26:51.252979"
+    "analyzed_at": "2026-04-11T07:00:22.650194"
   },
   {
     "video_id": "Qh2NPQeu-3M",
@@ -1282,7 +1278,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-10T07:26:51.401997"
+    "analyzed_at": "2026-04-11T07:00:22.754665"
   },
   {
     "video_id": "sriAjdrtH2Q",
@@ -1290,14 +1286,14 @@
     "published_at": "2026-04-08T01:25:27Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "avg_view_duration_seconds": 14
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-04-10T07:26:50.676575"
+    "performance_score": 0.287,
+    "analyzed_at": "2026-04-11T07:00:22.214888"
   },
   {
     "video_id": "K-Rw0Z5QT1k",
@@ -1305,14 +1301,14 @@
     "published_at": "2026-04-07T16:48:44Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-04-10T07:26:50.831455"
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-11T07:00:22.329336"
   },
   {
     "video_id": "Wh5L3MSoabI",
@@ -1320,14 +1316,14 @@
     "published_at": "2026-04-07T08:55:32Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 9
     },
-    "performance_score": 0.2,
-    "analyzed_at": "2026-04-10T07:26:50.963342"
+    "performance_score": 0.202,
+    "analyzed_at": "2026-04-11T07:00:22.423163"
   },
   {
     "video_id": "iotWOoVNbbg",
@@ -1337,10 +1333,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-10T07:26:50.501770"
+    "analyzed_at": "2026-04-11T07:00:22.095861"
   },
   {
     "video_id": "oksh8afeQDs",
@@ -1348,11 +1346,37 @@
     "published_at": "2026-04-10T01:26:28Z",
     "topic_family": "general",
     "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-11T07:00:21.991276"
+  },
+  {
+    "video_id": "ObLLtAg-w5c",
+    "title": "Cosmic Road Trip: Great Attractor! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-11T01:20:52Z",
+    "topic_family": "travel_time",
+    "metrics": {
       "views": 0,
       "likes": 0,
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-10T07:26:50.370113"
+    "analyzed_at": "2026-04-11T07:00:21.777750"
+  },
+  {
+    "video_id": "08KuKUr20tA",
+    "title": "Our Galactic Road Trip: Andromeda! \ud83d\ude80\ud83c\udf0c",
+    "published_at": "2026-04-10T16:44:15Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-11T07:00:21.888426"
   }
 ]
