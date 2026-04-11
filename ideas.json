@@ -1613,5 +1613,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-10T16:42:19.152409"
+  },
+  {
+    "topic": "Travel to Great Attractor",
+    "topic_family": "travel_time",
+    "hook": "What's the ULTIMATE cosmic road trip?",
+    "facts": [
+      "Our entire Milky Way galaxy, along with its galactic neighbors, is being gravitationally pulled.",
+      "This pull comes from a mysterious region called the Great Attractor, located roughly 250 million light-years away.",
+      "Even if you could travel at the universe's maximum speed \u2014 the speed of light (299,792,458 m/s)..."
+    ],
+    "payoff": "...it would STILL take you 250 MILLION years to reach it! That's longer than dinosaurs walked the Earth.",
+    "title": "Cosmic Road Trip: Great Attractor! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceTravel",
+      "#GreatAttractor",
+      "#LightSpeed",
+      "#Astrophysics",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-04-11T01:18:53.610159",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-11T01:19:06.779910"
   }
 ]

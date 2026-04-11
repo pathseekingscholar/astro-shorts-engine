@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Travel to Great Attractor",
+    "topic_family": "travel_time",
+    "hook": "What's the ULTIMATE cosmic road trip?",
+    "facts": [
+      "Our entire Milky Way galaxy, along with its galactic neighbors, is being gravitationally pulled.",
+      "This pull comes from a mysterious region called the Great Attractor, located roughly 250 million light-years away.",
+      "Even if you could travel at the universe's maximum speed \u2014 the speed of light (299,792,458 m/s)..."
+    ],
+    "payoff": "...it would STILL take you 250 MILLION years to reach it! That's longer than dinosaurs walked the Earth.",
+    "title": "Cosmic Road Trip: Great Attractor! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceTravel",
+      "#GreatAttractor",
+      "#LightSpeed",
+      "#Astrophysics",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-04-11T01:18:53.610159",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "What's the ULTIMATE cosmic road trip?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A vast, deep space background filled with distant galaxies and nebulae, slowly zooming out to reveal more cosmic expanse.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Our Milky Way & neighbors are being gravitationally pulled.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Stylized representation of the Milky Way and several surrounding galaxies, with subtle arrows indicating movement towards an off-screen point.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "This pull comes from the Great Attractor, 250 million light-years away.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "An abstract, dense cosmic region (the Great Attractor) appears, surrounded by a faint web of gravitational distortion. A line with '250 MILLION LIGHT-YEARS' points from a galactic cluster to it.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Even at light speed (299,792,458 m/s)...",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A sleek, futuristic starship or light beam streaks across a starry void, with a graphic displaying 'SPEED OF LIGHT' and its value.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "...it would STILL take 250 MILLION years to reach! Longer than dinosaurs walked Earth.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A swirling cosmic vortex representing the Great Attractor dominates the screen. A timeline graphic compares '250 MILLION YEARS' to 'Dinosaurs (180 MY)' with a fading dinosaur silhouette."
+      }
+    ],
+    "thumbnail_text": "250 Million Year Cosmic Trip!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-11T01:19:06.779684",
+  "status": "uploaded",
+  "rendered_at": "2026-04-11T01:20:02.135004",
+  "video_path": "videos_output/travel_to_great_attractor_20260411_011907.mp4",
+  "uploaded_at": "2026-04-11T01:20:05.597346",
+  "youtube": {
+    "video_id": "ObLLtAg-w5c",
+    "url": "https://youtube.com/shorts/ObLLtAg-w5c",
+    "title": "Cosmic Road Trip: Great Attractor! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-04-11T01:20:05.597224"
+  }
+}
