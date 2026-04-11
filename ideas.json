@@ -1636,5 +1636,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-11T01:19:06.779910"
+  },
+  {
+    "topic": "Ultramassive Black Hole Size",
+    "topic_family": "scale_comparison",
+    "hook": "Our Solar System is VAST... but imagine a single object WIDER than it!",
+    "facts": [
+      "Our Sun's diameter is 1.4 million km.",
+      "Our entire planetary Solar System (out to Neptune's orbit) spans about 9 billion km.",
+      "TON 618, one of the largest known ultramassive black holes, has an event horizon diameter of 390 billion km."
+    ],
+    "payoff": "That means TON 618's event horizon is over 40 times wider than our ENTIRE planetary Solar System!",
+    "title": "Black Hole BIGGER Than Our Solar System?! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#astrophysics",
+      "#space",
+      "#blackhole",
+      "#scale",
+      "#universe"
+    ],
+    "generated_at": "2026-04-11T16:26:49.852704",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-11T16:27:00.113968"
   }
 ]
