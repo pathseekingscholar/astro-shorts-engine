@@ -1706,5 +1706,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-12T08:40:09.361620"
+  },
+  {
+    "topic": "Vesta's Rheasilvia Peak",
+    "topic_family": "planetary_facts",
+    "hook": "The Solar System's MOST EXTREME mountain isn't on Earth!",
+    "facts": [
+      "Earth's highest point, Mount Everest, stands at 8,848 meters (29,032 feet) above sea level.",
+      "The protoplanet Vesta, only about 525 km (326 miles) in diameter, has a colossal central peak in its Rheasilvia crater.",
+      "This peak towers an incredible 22 kilometers (14 miles) from its base to its summit."
+    ],
+    "payoff": "That's a mountain almost 2.5 times taller than Mount Everest, on a body smaller than some states!",
+    "title": "Asteroid's MONSTER Mountain! \ud83c\udfd4\ufe0f\u2604\ufe0f",
+    "hashtags": [
+      "#SpaceFacts",
+      "#Asteroid",
+      "#Vesta",
+      "#Everest",
+      "#SolarSystem"
+    ],
+    "generated_at": "2026-04-12T16:28:06.717523",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-12T16:28:16.982942"
   }
 ]
