@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T07:00:23.819778",
+  "generated_at": "2026-04-12T07:13:17.073742",
   "top_performing_topics": [
     {
       "topic": "travel_time",
@@ -13,19 +13,19 @@
     },
     {
       "topic": "scale_comparison",
-      "avg_score": 0.429,
-      "videos_count": 22
+      "avg_score": 0.38,
+      "videos_count": 24
     }
   ],
   "avoid_topics": [
     {
-      "topic": "hypothetical",
-      "avg_score": 0.124,
+      "topic": "myth_busting",
+      "avg_score": 0.077,
       "reason": "Below average performance"
     },
     {
-      "topic": "myth_busting",
-      "avg_score": 0.077,
+      "topic": "hypothetical",
+      "avg_score": 0.045,
       "reason": "Below average performance"
     }
   ],
@@ -36,6 +36,6 @@
   ],
   "insights": [
     "'travel_time' is your best performing format (score: 0.598)",
-    "Analyzed 96 videos across 6 topic types"
+    "Analyzed 98 videos across 6 topic types"
   ]
 }
