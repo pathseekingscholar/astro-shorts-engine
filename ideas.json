@@ -1682,5 +1682,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-12T01:28:38.323746"
+  },
+  {
+    "topic": "Titan's Liquid Landscape",
+    "topic_family": "planetary_facts",
+    "hook": "A world with liquid lakes, rivers, and rain... but no water?",
+    "facts": [
+      "Saturn's moon, Titan, is the only other body in our Solar System with stable surface liquids.",
+      "Its vast lakes, rivers, and seas are made of liquid methane and ethane, not water.",
+      "Temperatures average -179\u00b0C (-290\u00b0F), where water is rock-hard ice.",
+      "Titan has a complete 'methane cycle' of evaporation, cloud formation, and rain, just like Earth's water cycle!"
+    ],
+    "payoff": "Titan boasts an alien hydrologic cycle, making it a chillingly familiar yet utterly foreign world right in our cosmic backyard!",
+    "title": "The Frozen Rivers of Titan! \u2744\ufe0f\ud83e\ude90",
+    "hashtags": [
+      "#Titan",
+      "#Saturn",
+      "#MoonFacts",
+      "#SpaceExploration",
+      "#PlanetaryScience"
+    ],
+    "generated_at": "2026-04-12T08:39:42.714497",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-12T08:40:09.361620"
   }
 ]
