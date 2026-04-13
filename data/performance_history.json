@@ -1151,12 +1151,10 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:16.467967"
+    "analyzed_at": "2026-04-13T08:02:27.009380"
   },
   {
     "video_id": "52itjqlV3a8",
@@ -1169,7 +1167,7 @@
       "comments": 0
     },
     "performance_score": 0.023,
-    "analyzed_at": "2026-04-12T07:13:16.607951"
+    "analyzed_at": "2026-04-13T08:02:27.157116"
   },
   {
     "video_id": "2xeXZAFQS80",
@@ -1199,7 +1197,7 @@
       "avg_view_duration_seconds": 5
     },
     "performance_score": 0.128,
-    "analyzed_at": "2026-04-12T07:13:15.930803"
+    "analyzed_at": "2026-04-13T08:02:26.581248"
   },
   {
     "video_id": "fUIYfSTuDMY",
@@ -1209,12 +1207,10 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 6
+      "comments": 0
     },
-    "performance_score": 0.125,
-    "analyzed_at": "2026-04-12T07:13:16.113536"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-13T08:02:26.726446"
   },
   {
     "video_id": "aN1z67wHBrU",
@@ -1222,14 +1218,14 @@
     "published_at": "2026-04-05T08:35:20Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 10
     },
-    "performance_score": 0.207,
-    "analyzed_at": "2026-04-12T07:13:16.295904"
+    "performance_score": 0.205,
+    "analyzed_at": "2026-04-13T08:02:26.862435"
   },
   {
     "video_id": "Nq2ciyBKIQU",
@@ -1244,7 +1240,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:15.445885"
+    "analyzed_at": "2026-04-13T08:02:26.046858"
   },
   {
     "video_id": "8A7brxh0PwY",
@@ -1259,7 +1255,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:15.600118"
+    "analyzed_at": "2026-04-13T08:02:26.195344"
   },
   {
     "video_id": "Qh2NPQeu-3M",
@@ -1274,7 +1270,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:15.759119"
+    "analyzed_at": "2026-04-13T08:02:26.436860"
   },
   {
     "video_id": "sriAjdrtH2Q",
@@ -1289,7 +1285,7 @@
       "avg_view_duration_seconds": 14
     },
     "performance_score": 0.287,
-    "analyzed_at": "2026-04-12T07:13:14.883288"
+    "analyzed_at": "2026-04-13T08:02:25.584589"
   },
   {
     "video_id": "K-Rw0Z5QT1k",
@@ -1297,14 +1293,14 @@
     "published_at": "2026-04-07T16:48:44Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 0
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:15.091294"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-13T08:02:25.739976"
   },
   {
     "video_id": "Wh5L3MSoabI",
@@ -1319,7 +1315,7 @@
       "avg_view_duration_seconds": 9
     },
     "performance_score": 0.202,
-    "analyzed_at": "2026-04-12T07:13:15.282073"
+    "analyzed_at": "2026-04-13T08:02:25.896744"
   },
   {
     "video_id": "iotWOoVNbbg",
@@ -1334,7 +1330,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:14.716092"
+    "analyzed_at": "2026-04-13T08:02:25.455955"
   },
   {
     "video_id": "oksh8afeQDs",
@@ -1344,10 +1340,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:14.560528"
+    "analyzed_at": "2026-04-13T08:02:25.274487"
   },
   {
     "video_id": "ObLLtAg-w5c",
@@ -1360,7 +1358,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-12T07:13:14.249351"
+    "analyzed_at": "2026-04-13T08:02:24.870289"
   },
   {
     "video_id": "08KuKUr20tA",
@@ -1373,7 +1371,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-12T07:13:14.402588"
+    "analyzed_at": "2026-04-13T08:02:25.019241"
   },
   {
     "video_id": "NXHtPvJEmz4",
@@ -1381,12 +1379,12 @@
     "published_at": "2026-04-12T01:30:00Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-04-12T07:13:13.946309"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-13T08:02:24.596618"
   },
   {
     "video_id": "aYzxachSyyk",
@@ -1399,6 +1397,45 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-12T07:13:14.098391"
+    "analyzed_at": "2026-04-13T08:02:24.736687"
+  },
+  {
+    "video_id": "_lVFnD-_LTQ",
+    "title": "Hidden Oceans of Our Solar System! \ud83e\udd2f",
+    "published_at": "2026-04-13T01:32:43Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-13T08:02:24.076669"
+  },
+  {
+    "video_id": "o_za_gNNpFA",
+    "title": "Asteroid's MONSTER Mountain! \ud83c\udfd4\ufe0f\u2604\ufe0f",
+    "published_at": "2026-04-12T16:29:43Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-13T08:02:24.327099"
+  },
+  {
+    "video_id": "r_cdLaZU9UA",
+    "title": "The Frozen Rivers of Titan! \u2744\ufe0f\ud83e\ude90",
+    "published_at": "2026-04-12T08:41:30Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-13T08:02:24.457908"
   }
 ]
