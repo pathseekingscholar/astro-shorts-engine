@@ -1729,5 +1729,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-12T16:28:16.982942"
+  },
+  {
+    "topic": "Hidden Solar System Oceans",
+    "topic_family": "planetary_facts",
+    "hook": "Earth isn't the only world with vast oceans! \ud83c\udf0a",
+    "facts": [
+      "Jupiter's moon Europa: Its subsurface ocean contains more than twice the volume of all Earth's oceans combined.",
+      "Saturn's moon Enceladus: Regularly blasts geysers of saltwater from its south pole, hinting at a warm, active ocean beneath its icy crust.",
+      "Dwarf planet Ceres: Data suggests it harbors a significant deep brine reservoir beneath its largest impact basin, potentially over 40 km thick."
+    ],
+    "payoff": "Our Solar System might be teeming with more liquid water than we thought, hidden in unexpected places, potentially harboring life!",
+    "title": "Hidden Oceans of Our Solar System! \ud83e\udd2f",
+    "hashtags": [
+      "SpaceFacts",
+      "OceanWorlds",
+      "Europa",
+      "Enceladus",
+      "Ceres"
+    ],
+    "generated_at": "2026-04-13T01:31:17.047744",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-13T01:31:25.299985"
   }
 ]
