@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Neutron Star vs. City",
+    "topic_family": "scale_comparison",
+    "hook": "What if a *star* was smaller than your city?",
+    "facts": [
+      "The average diameter of a major city, like London or New York, is approximately 50 to 100 kilometers.",
+      "A neutron star, the super-dense remnant of a giant star, typically measures only about 20 to 25 kilometers across.",
+      "Yet, this tiny stellar core contains 1.4 to 2.1 times the mass of our Sun!"
+    ],
+    "payoff": "Imagine an entire star, weighing more than the Sun, fitting within the boundaries of a metropolitan area! Density beyond comprehension.",
+    "title": "Star Smaller Than a City?! \ud83e\udd2f\ud83c\udfd9\ufe0f",
+    "hashtags": [
+      "NeutronStar",
+      "SpaceScale",
+      "CosmicFacts",
+      "Astrophysics",
+      "ScienceShorts"
+    ],
+    "generated_at": "2026-04-14T16:56:28.974861",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "What if a STAR was smaller than your CITY?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Dark cosmic background with a faint, silhouetted city skyline appearing from the bottom. Text fades in over this.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Major City Diameter: 50-100 km (London, NYC)",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animated overhead satellite map view of a major city (e.g., London or New York), with a dynamic measuring line extending across, showing '50-100 km'.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Neutron Star: Only 20-25 km across!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Cosmic background (space_dark). A small, super-dense, glowing neutron star sphere appears, with a measuring line next to it indicating '20-25 km'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "But packs 1.4 - 2.1x the mass of our Sun!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "The neutron star remains, now glowing more intensely. An iconic representation of our Sun appears next to it, with a graphic showing '1.4x - 2.1x' mass comparison.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "A STAR heavier than the Sun... FITS IN YOUR CITY! Density beyond comprehension.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The overhead city map reappears. The tiny, glowing neutron star graphic is superimposed dramatically *within* the city's boundaries, clearly showing its minuscule size relative to the city. Camera slightly pulls back to show the full scale."
+      }
+    ],
+    "thumbnail_text": "Star Smaller Than Your City?",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-14T16:56:46.647578",
+  "status": "uploaded",
+  "rendered_at": "2026-04-14T16:57:44.644909",
+  "video_path": "videos_output/neutron_star_vs_city_20260414_165646.mp4",
+  "uploaded_at": "2026-04-14T16:57:48.966323",
+  "youtube": {
+    "video_id": "NqXnkq_MOQU",
+    "url": "https://youtube.com/shorts/NqXnkq_MOQU",
+    "title": "Star Smaller Than a City?! \ud83e\udd2f\ud83c\udfd9\ufe0f",
+    "uploaded_at": "2026-04-14T16:57:48.966212"
+  }
+}

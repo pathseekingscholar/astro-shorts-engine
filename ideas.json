@@ -1798,5 +1798,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-14T09:10:56.697384"
+  },
+  {
+    "topic": "Neutron Star vs. City",
+    "topic_family": "scale_comparison",
+    "hook": "What if a *star* was smaller than your city?",
+    "facts": [
+      "The average diameter of a major city, like London or New York, is approximately 50 to 100 kilometers.",
+      "A neutron star, the super-dense remnant of a giant star, typically measures only about 20 to 25 kilometers across.",
+      "Yet, this tiny stellar core contains 1.4 to 2.1 times the mass of our Sun!"
+    ],
+    "payoff": "Imagine an entire star, weighing more than the Sun, fitting within the boundaries of a metropolitan area! Density beyond comprehension.",
+    "title": "Star Smaller Than a City?! \ud83e\udd2f\ud83c\udfd9\ufe0f",
+    "hashtags": [
+      "NeutronStar",
+      "SpaceScale",
+      "CosmicFacts",
+      "Astrophysics",
+      "ScienceShorts"
+    ],
+    "generated_at": "2026-04-14T16:56:28.974861",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-14T16:56:46.647786"
   }
 ]
