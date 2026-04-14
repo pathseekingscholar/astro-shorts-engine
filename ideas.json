@@ -1752,5 +1752,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-13T01:31:25.299985"
+  },
+  {
+    "topic": "Travel to Sagittarius A*",
+    "topic_family": "travel_time",
+    "hook": "Thinking of visiting the Milky Way's supermassive black hole?",
+    "facts": [
+      "Sagittarius A* (Sgr A*) is 26,000 light-years away at our galaxy's center.",
+      "Traveling at the speed of light, it would take 26,000 years to reach Sgr A*.",
+      "Our fastest long-distance spacecraft, Voyager 1, cruises at 61,000 km/h (38,000 mph)."
+    ],
+    "payoff": "At Voyager 1's speed, reaching Sgr A* would take over 460,000,000 years \u2014 far longer than humanity has existed!",
+    "title": "Road Trip to Our Galaxy's BLACK HOLE! \ud83d\ude31\ud83c\udf0c",
+    "hashtags": [
+      "SagittariusA",
+      "BlackHole",
+      "MilkyWay",
+      "SpaceTravel",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-14T01:28:30.070352",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-14T01:28:45.702232"
   }
 ]
