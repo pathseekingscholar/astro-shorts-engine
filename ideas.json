@@ -1775,5 +1775,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-14T01:28:45.702232"
+  },
+  {
+    "topic": "Intergalactic Gaps Scale",
+    "topic_family": "scale_comparison",
+    "hook": "How much EMPTY is BETWEEN galaxies?",
+    "facts": [
+      "Our home, the Milky Way galaxy, is an immense disk about 100,000 light-years wide.",
+      "It contains 200-400 BILLION stars!",
+      "But the average distance to our nearest large galactic neighbor (Andromeda) is 2.5 MILLION light-years."
+    ],
+    "payoff": "That means the void between galaxies is 25 TIMES wider than an entire galaxy itself! Space is overwhelmingly empty, even in our cosmic neighborhood.",
+    "title": "Galaxy Gaps: Mostly Empty Space! \ud83d\ude31\ud83c\udf0c",
+    "hashtags": [
+      "#Space",
+      "#Galaxies",
+      "#CosmicScale",
+      "#Universe",
+      "#EmptySpace"
+    ],
+    "generated_at": "2026-04-14T09:10:48.381922",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-14T09:10:56.697384"
   }
 ]
