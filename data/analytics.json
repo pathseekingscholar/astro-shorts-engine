@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-04-13T08:02:27.158921",
+  "last_run": "2026-04-14T07:44:46.008208",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
     "travel_time": {
-      "avg_score": 0.598,
-      "count": 25,
+      "avg_score": 0.574,
+      "count": 26,
       "best": 2.18,
       "worst": 0.0
     },
