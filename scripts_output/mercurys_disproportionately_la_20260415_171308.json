@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Mercury's disproportionately large core",
+    "topic_family": "planetary_facts",
+    "hook": "Mercury's SHOCKING Internal Secret! \ud83e\udd2b",
+    "facts": [
+      "Mercury is the smallest rocky planet, only ~4,879 km (3,032 miles) wide.",
+      "But beneath its thin crust lies an ENORMOUS metallic core, around 3,600 km (2,200 miles) across.",
+      "This means Mercury's core makes up an astonishing ~85% of the planet's total diameter!"
+    ],
+    "payoff": "It's less of a planet and more like a colossal iron heart with a thin rocky shell!",
+    "title": "Mercury: Mostly CORE! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Mercury",
+      "#PlanetFacts",
+      "#SolarSystem",
+      "#Astrophysics",
+      "#Space"
+    ],
+    "generated_at": "2026-04-15T17:12:49.801992",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Mercury's SHOCKING Internal Secret! \ud83e\udd2b",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Full view of Mercury, slowly rotating against a starry background. A subtle, mysterious glow emanates from its center.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Smallest rocky planet: ~4,879 km (3,032 miles) wide.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Mercury (full view) with a measurement line showing its diameter. Faint outline of Earth for size comparison.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "But its core is ~3,600 km (2,200 miles) across!",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Mercury transitions to a cutaway cross-section. The large, metallic core is brightly highlighted in gold/orange, contrasting with the thin grey-brown crust and mantle.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "That's ~85% of Mercury's ENTIRE diameter!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "The Mercury cross-section remains. The core dramatically expands slightly and pulses with a strong glow, with a large, bold '85%' graphic overlaid and integrated visually, emphasizing its proportion.",
+        "animation": "pulse"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Less planet, more colossal iron heart with a thin rocky shell!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "fade_in",
+        "visual": "A simplified, highly dramatic cross-section of Mercury. The core dominates the screen, glowing intensely like a massive heart, with only a very thin, almost fragile-looking rocky outer shell visible. The core pulsates gently."
+      }
+    ],
+    "thumbnail_text": "Mercury: ALL CORE!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-15T17:13:08.565637",
+  "status": "uploaded",
+  "rendered_at": "2026-04-15T17:14:06.709069",
+  "video_path": "videos_output/mercurys_disproportionately_la_20260415_171308.mp4",
+  "uploaded_at": "2026-04-15T17:14:14.531003",
+  "youtube": {
+    "video_id": "FshpWKDsCy8",
+    "url": "https://youtube.com/shorts/FshpWKDsCy8",
+    "title": "Mercury: Mostly CORE! \ud83e\udd2f\ud83e\ude90",
+    "uploaded_at": "2026-04-15T17:14:14.530839"
+  }
+}

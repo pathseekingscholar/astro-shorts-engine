@@ -1844,5 +1844,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-15T01:25:14.654547"
+  },
+  {
+    "topic": "Mercury's disproportionately large core",
+    "topic_family": "planetary_facts",
+    "hook": "Mercury's SHOCKING Internal Secret! \ud83e\udd2b",
+    "facts": [
+      "Mercury is the smallest rocky planet, only ~4,879 km (3,032 miles) wide.",
+      "But beneath its thin crust lies an ENORMOUS metallic core, around 3,600 km (2,200 miles) across.",
+      "This means Mercury's core makes up an astonishing ~85% of the planet's total diameter!"
+    ],
+    "payoff": "It's less of a planet and more like a colossal iron heart with a thin rocky shell!",
+    "title": "Mercury: Mostly CORE! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Mercury",
+      "#PlanetFacts",
+      "#SolarSystem",
+      "#Astrophysics",
+      "#Space"
+    ],
+    "generated_at": "2026-04-15T17:12:49.801992",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-15T17:13:08.565856"
   }
 ]
