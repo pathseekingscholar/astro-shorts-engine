@@ -1821,5 +1821,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-14T16:56:46.647786"
+  },
+  {
+    "topic": "Milky Way Galaxy Flatness",
+    "topic_family": "scale_comparison",
+    "hook": "How flat is OUR ENTIRE GALAXY?",
+    "facts": [
+      "The Milky Way galaxy is a vast disk, roughly 100,000 light-years across.",
+      "But its main stellar disk is incredibly thin, only about 1,000 light-years thick.",
+      "This means its diameter is 100 times greater than its thickness!"
+    ],
+    "payoff": "That's flatter than a CD or a perfectly cooked pancake! Our galaxy is an unbelievably thin cosmic sheet.",
+    "title": "Our Galaxy's SHOCKING Flatness! \ud83e\udd5e\ud83c\udf0c",
+    "hashtags": [
+      "MilkyWay",
+      "Galaxy",
+      "SpaceFacts",
+      "Astrophysics",
+      "ScaleComparison"
+    ],
+    "generated_at": "2026-04-15T01:25:07.099834",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-15T01:25:14.654547"
   }
 ]

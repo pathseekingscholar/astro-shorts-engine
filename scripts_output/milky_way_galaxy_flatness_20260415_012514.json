@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Milky Way Galaxy Flatness",
+    "topic_family": "scale_comparison",
+    "hook": "How flat is OUR ENTIRE GALAXY?",
+    "facts": [
+      "The Milky Way galaxy is a vast disk, roughly 100,000 light-years across.",
+      "But its main stellar disk is incredibly thin, only about 1,000 light-years thick.",
+      "This means its diameter is 100 times greater than its thickness!"
+    ],
+    "payoff": "That's flatter than a CD or a perfectly cooked pancake! Our galaxy is an unbelievably thin cosmic sheet.",
+    "title": "Our Galaxy's SHOCKING Flatness! \ud83e\udd5e\ud83c\udf0c",
+    "hashtags": [
+      "MilkyWay",
+      "Galaxy",
+      "SpaceFacts",
+      "Astrophysics",
+      "ScaleComparison"
+    ],
+    "generated_at": "2026-04-15T01:25:07.099834",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How flat is OUR ENTIRE GALAXY?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A wide shot of a spiral galaxy (Milky Way-like) against a starfield. Gradually zooms in slightly as text appears.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Milky Way: 100,000 light-years across.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An illustrative overhead view of a galaxy disk. A measurement line appears horizontally across its diameter, with the text superimposed.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "BUT only ~1,000 light-years thick.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "The galaxy illustration rotates to show a side profile, emphasizing its thinness. A small vertical measurement line highlights the thickness.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Diameter is 100x its thickness!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A simple infographic with a very long, thin rectangle representing the diameter, and a tiny, almost invisible line representing the thickness. Numbers '100' and '1' appear next to them.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Flatter than a CD or a pancake! An unbelievably thin cosmic sheet.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Quick transitions: an outline of a CD, then a pancake, then back to a highly stylized, extremely thin side-view of the Milky Way, almost a single glowing line.",
+        "opacity": 1.0
+      }
+    ],
+    "thumbnail_text": "Our Galaxy: HOW FLAT?",
+    "background_style": "space_nebula"
+  },
+  "formatted_at": "2026-04-15T01:25:14.654334",
+  "status": "uploaded",
+  "rendered_at": "2026-04-15T01:26:08.971464",
+  "video_path": "videos_output/milky_way_galaxy_flatness_20260415_012514.mp4",
+  "uploaded_at": "2026-04-15T01:26:13.998326",
+  "youtube": {
+    "video_id": "yXO3tbbmK3M",
+    "url": "https://youtube.com/shorts/yXO3tbbmK3M",
+    "title": "Our Galaxy's SHOCKING Flatness! \ud83e\udd5e\ud83c\udf0c",
+    "uploaded_at": "2026-04-15T01:26:13.998200"
+  }
+}
