@@ -1867,5 +1867,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-15T17:13:08.565856"
+  },
+  {
+    "topic": "Interstellar Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Ever dream of visiting another star?",
+    "facts": [
+      "Proxima Centauri, our nearest star, is 4.24 light-years away.",
+      "The fastest human-made object, the Parker Solar Probe, travels at ~692,000 km/h.",
+      "At the Parker Solar Probe's speed, reaching Proxima Centauri would take over 6,600 years.",
+      "Even at 99% the speed of light, the journey would still take 4.28 years."
+    ],
+    "payoff": "Interstellar travel, even to our closest neighbor, is a multi-generational journey at current speeds!",
+    "title": "Road Trip to Another Star? \ud83e\udd2f\ud83c\udf1f",
+    "hashtags": [
+      "SpaceTravel",
+      "Interstellar",
+      "ProximaCentauri",
+      "LightYears",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-16T17:04:51.059404",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-16T17:05:17.587729"
   }
 ]
