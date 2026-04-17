@@ -1236,7 +1236,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-16T07:45:30.808543"
+    "analyzed_at": "2026-04-17T07:45:01.021061"
   },
   {
     "video_id": "8A7brxh0PwY",
@@ -1275,7 +1275,7 @@
       "comments": 0
     },
     "performance_score": 0.007,
-    "analyzed_at": "2026-04-16T07:45:30.428357"
+    "analyzed_at": "2026-04-17T07:45:00.626949"
   },
   {
     "video_id": "K-Rw0Z5QT1k",
@@ -1290,7 +1290,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-16T07:45:30.558638"
+    "analyzed_at": "2026-04-17T07:45:00.755390"
   },
   {
     "video_id": "Wh5L3MSoabI",
@@ -1303,7 +1303,7 @@
       "comments": 0
     },
     "performance_score": 0.022,
-    "analyzed_at": "2026-04-16T07:45:30.685387"
+    "analyzed_at": "2026-04-17T07:45:00.878762"
   },
   {
     "video_id": "iotWOoVNbbg",
@@ -1316,7 +1316,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-16T07:45:30.299254"
+    "analyzed_at": "2026-04-17T07:45:00.493562"
   },
   {
     "video_id": "oksh8afeQDs",
@@ -1331,7 +1331,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-16T07:45:30.177478"
+    "analyzed_at": "2026-04-17T07:45:00.370497"
   },
   {
     "video_id": "ObLLtAg-w5c",
@@ -1346,7 +1346,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-16T07:45:29.879853"
+    "analyzed_at": "2026-04-17T07:45:00.037312"
   },
   {
     "video_id": "08KuKUr20tA",
@@ -1359,7 +1359,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:30.017817"
+    "analyzed_at": "2026-04-17T07:45:00.220293"
   },
   {
     "video_id": "NXHtPvJEmz4",
@@ -1374,7 +1374,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-16T07:45:29.592829"
+    "analyzed_at": "2026-04-17T07:44:59.748756"
   },
   {
     "video_id": "aYzxachSyyk",
@@ -1387,7 +1387,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:29.729578"
+    "analyzed_at": "2026-04-17T07:44:59.880360"
   },
   {
     "video_id": "_lVFnD-_LTQ",
@@ -1400,7 +1400,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:29.172867"
+    "analyzed_at": "2026-04-17T07:44:59.332608"
   },
   {
     "video_id": "o_za_gNNpFA",
@@ -1413,7 +1413,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:29.304494"
+    "analyzed_at": "2026-04-17T07:44:59.442706"
   },
   {
     "video_id": "r_cdLaZU9UA",
@@ -1428,7 +1428,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-16T07:45:29.447361"
+    "analyzed_at": "2026-04-17T07:44:59.597120"
   },
   {
     "video_id": "WqYa0PC1pRg",
@@ -1441,7 +1441,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:29.038640"
+    "analyzed_at": "2026-04-17T07:44:59.216725"
   },
   {
     "video_id": "yXO3tbbmK3M",
@@ -1451,10 +1451,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-16T07:45:28.649237"
+    "analyzed_at": "2026-04-17T07:44:58.851979"
   },
   {
     "video_id": "NqXnkq_MOQU",
@@ -1467,7 +1469,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:28.765622"
+    "analyzed_at": "2026-04-17T07:44:58.959862"
   },
   {
     "video_id": "Xw2xx1w6EwE",
@@ -1480,7 +1482,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:28.904934"
+    "analyzed_at": "2026-04-17T07:44:59.093309"
   },
   {
     "video_id": "FshpWKDsCy8",
@@ -1493,6 +1495,32 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-16T07:45:28.500962"
+    "analyzed_at": "2026-04-17T07:44:58.689776"
+  },
+  {
+    "video_id": "hRKae9oV0HU",
+    "title": "Universe's Baby Photo! \ud83d\udc76\u2728\ud83c\udf0c",
+    "published_at": "2026-04-17T01:28:48Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-17T07:44:58.457901"
+  },
+  {
+    "video_id": "xHiARld4ikU",
+    "title": "Road Trip to Another Star? \ud83e\udd2f\ud83c\udf1f",
+    "published_at": "2026-04-16T17:06:41Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-17T07:44:58.572962"
   }
 ]
