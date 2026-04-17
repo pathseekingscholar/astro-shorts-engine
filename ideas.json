@@ -1891,5 +1891,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-16T17:05:17.587729"
+  },
+  {
+    "topic": "Cosmic Microwave Background",
+    "topic_family": "general",
+    "hook": "What's the OLDEST light you can see? \ud83e\udd2f\ud83c\udf0c",
+    "facts": [
+      "It's the Cosmic Microwave Background (CMB).",
+      "This light was released ~380,000 years AFTER the Big Bang.",
+      "It has traveled ~13.8 BILLION years across the universe to reach your eyes."
+    ],
+    "payoff": "This faint glow is literally the universe's 'baby picture'!",
+    "title": "Universe's Baby Photo! \ud83d\udc76\u2728\ud83c\udf0c",
+    "hashtags": [
+      "#Astrophysics",
+      "#SpaceFacts",
+      "#CosmicMicrowaveBackground",
+      "#BigBang",
+      "#Universe"
+    ],
+    "generated_at": "2026-04-17T01:27:19.725029",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-17T01:27:27.417610"
   }
 ]
