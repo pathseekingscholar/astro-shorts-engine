@@ -1,0 +1,94 @@
+{
+  "idea": {
+    "topic": "Cosmic Origin of Elements",
+    "topic_family": "general",
+    "hook": "What are you *really* made of?",
+    "facts": [
+      "The Big Bang created primarily Hydrogen (75%) and Helium (25%) in the early universe.",
+      "Stars are cosmic furnaces, fusing these lighter elements into heavier ones like Carbon, Oxygen, and Iron.",
+      "Massive stars end their lives in supernovae, violently scattering these newly forged 'stellar seeds' across galaxies.",
+      "Our solar system, Earth, and all life formed from clouds enriched by these ancient stellar explosions."
+    ],
+    "payoff": "Every atom in your body (except most of the hydrogen) was forged inside an ancient star!",
+    "title": "You're Stardust! \u2728\ud83e\udd2f",
+    "hashtags": [
+      "#Astrophysics",
+      "#SpaceFacts",
+      "#Stardust",
+      "#CosmicOrigins",
+      "#ScienceShorts"
+    ],
+    "generated_at": "2026-04-17T16:43:55.094849",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "What are you *really* made of?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A swirling, mysterious cosmic cloud, dark with hints of light.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "The Big Bang: 75% Hydrogen, 25% Helium.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Depiction of the early universe expanding, with simple H and He atoms floating.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Stars fuse H & He into Carbon, Oxygen, Iron.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A close-up of a vibrant, hot star, showing simplified fusion reactions within its core.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Supernovae scatter these 'stellar seeds' across space.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A spectacular supernova explosion, with bright elements radiating outwards into a dark cosmos.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "You are Stardust. Every atom forged in a star!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Transition from a colorful nebula to a silhouette of Earth, then zooming into a human silhouette filled with glowing 'stardust' particles.",
+        "background_style": "space_nebula"
+      }
+    ],
+    "thumbnail_text": "You Are Stardust!",
+    "background_style": "space_nebula"
+  },
+  "formatted_at": "2026-04-17T16:44:13.805358",
+  "status": "uploaded",
+  "rendered_at": "2026-04-17T16:45:06.577550",
+  "video_path": "videos_output/cosmic_origin_of_elements_20260417_164414.mp4",
+  "uploaded_at": "2026-04-17T16:45:10.504034",
+  "youtube": {
+    "video_id": "Xpqy7IfZBTU",
+    "url": "https://youtube.com/shorts/Xpqy7IfZBTU",
+    "title": "You're Stardust! \u2728\ud83e\udd2f",
+    "uploaded_at": "2026-04-17T16:45:10.503912"
+  }
+}

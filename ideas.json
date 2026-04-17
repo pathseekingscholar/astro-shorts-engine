@@ -1914,5 +1914,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-17T01:27:27.417610"
+  },
+  {
+    "topic": "Cosmic Origin of Elements",
+    "topic_family": "general",
+    "hook": "What are you *really* made of?",
+    "facts": [
+      "The Big Bang created primarily Hydrogen (75%) and Helium (25%) in the early universe.",
+      "Stars are cosmic furnaces, fusing these lighter elements into heavier ones like Carbon, Oxygen, and Iron.",
+      "Massive stars end their lives in supernovae, violently scattering these newly forged 'stellar seeds' across galaxies.",
+      "Our solar system, Earth, and all life formed from clouds enriched by these ancient stellar explosions."
+    ],
+    "payoff": "Every atom in your body (except most of the hydrogen) was forged inside an ancient star!",
+    "title": "You're Stardust! \u2728\ud83e\udd2f",
+    "hashtags": [
+      "#Astrophysics",
+      "#SpaceFacts",
+      "#Stardust",
+      "#CosmicOrigins",
+      "#ScienceShorts"
+    ],
+    "generated_at": "2026-04-17T16:43:55.094849",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-17T16:44:13.805579"
   }
 ]
