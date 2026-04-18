@@ -1275,7 +1275,7 @@
       "comments": 0
     },
     "performance_score": 0.007,
-    "analyzed_at": "2026-04-17T07:45:00.626949"
+    "analyzed_at": "2026-04-18T07:06:23.124823"
   },
   {
     "video_id": "K-Rw0Z5QT1k",
@@ -1283,14 +1283,12 @@
     "published_at": "2026-04-07T16:48:44Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 1,
+      "views": 2,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-04-17T07:45:00.755390"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-18T07:06:23.252165"
   },
   {
     "video_id": "Wh5L3MSoabI",
@@ -1316,7 +1314,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-17T07:45:00.493562"
+    "analyzed_at": "2026-04-18T07:06:23.008680"
   },
   {
     "video_id": "oksh8afeQDs",
@@ -1324,14 +1322,14 @@
     "published_at": "2026-04-10T01:26:28Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 0
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-04-17T07:45:00.370497"
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-18T07:06:22.874308"
   },
   {
     "video_id": "ObLLtAg-w5c",
@@ -1346,7 +1344,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-17T07:45:00.037312"
+    "analyzed_at": "2026-04-18T07:06:22.602038"
   },
   {
     "video_id": "08KuKUr20tA",
@@ -1359,7 +1357,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:45:00.220293"
+    "analyzed_at": "2026-04-18T07:06:22.734601"
   },
   {
     "video_id": "NXHtPvJEmz4",
@@ -1374,7 +1372,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-17T07:44:59.748756"
+    "analyzed_at": "2026-04-18T07:06:22.319051"
   },
   {
     "video_id": "aYzxachSyyk",
@@ -1387,7 +1385,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:59.880360"
+    "analyzed_at": "2026-04-18T07:06:22.446350"
   },
   {
     "video_id": "_lVFnD-_LTQ",
@@ -1400,7 +1398,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:59.332608"
+    "analyzed_at": "2026-04-18T07:06:21.877326"
   },
   {
     "video_id": "o_za_gNNpFA",
@@ -1413,7 +1411,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:59.442706"
+    "analyzed_at": "2026-04-18T07:06:22.010946"
   },
   {
     "video_id": "r_cdLaZU9UA",
@@ -1428,7 +1426,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-17T07:44:59.597120"
+    "analyzed_at": "2026-04-18T07:06:22.162201"
   },
   {
     "video_id": "WqYa0PC1pRg",
@@ -1441,7 +1439,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:59.216725"
+    "analyzed_at": "2026-04-18T07:06:21.741435"
   },
   {
     "video_id": "yXO3tbbmK3M",
@@ -1456,7 +1454,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-17T07:44:58.851979"
+    "analyzed_at": "2026-04-18T07:06:21.348952"
   },
   {
     "video_id": "NqXnkq_MOQU",
@@ -1469,7 +1467,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:58.959862"
+    "analyzed_at": "2026-04-18T07:06:21.482101"
   },
   {
     "video_id": "Xw2xx1w6EwE",
@@ -1482,7 +1480,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:59.093309"
+    "analyzed_at": "2026-04-18T07:06:21.608649"
   },
   {
     "video_id": "FshpWKDsCy8",
@@ -1495,7 +1493,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:58.689776"
+    "analyzed_at": "2026-04-18T07:06:21.189358"
   },
   {
     "video_id": "hRKae9oV0HU",
@@ -1508,7 +1506,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-17T07:44:58.457901"
+    "analyzed_at": "2026-04-18T07:06:20.919731"
   },
   {
     "video_id": "xHiARld4ikU",
@@ -1521,6 +1519,32 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-17T07:44:58.572962"
+    "analyzed_at": "2026-04-18T07:06:21.065059"
+  },
+  {
+    "video_id": "U81vnb5tTqw",
+    "title": "Solar System's Epic Call Lag! \ud83d\udcde\u23f1\ufe0f",
+    "published_at": "2026-04-18T01:22:48Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-18T07:06:20.658487"
+  },
+  {
+    "video_id": "Xpqy7IfZBTU",
+    "title": "You're Stardust! \u2728\ud83e\udd2f",
+    "published_at": "2026-04-17T16:45:34Z",
+    "topic_family": "myth_busting",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-18T07:06:20.788836"
   }
 ]

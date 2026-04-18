@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-17T07:45:01.022877",
+  "last_run": "2026-04-18T07:06:23.254014",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
@@ -10,8 +10,8 @@
       "worst": 0.0
     },
     "general": {
-      "avg_score": 0.351,
-      "count": 34,
+      "avg_score": 0.341,
+      "count": 35,
       "best": 1.8,
       "worst": 0.0
     },
@@ -22,8 +22,8 @@
       "worst": 0.0
     },
     "myth_busting": {
-      "avg_score": 0.077,
-      "count": 2,
+      "avg_score": 0.052,
+      "count": 3,
       "best": 0.155,
       "worst": 0.0
     },
