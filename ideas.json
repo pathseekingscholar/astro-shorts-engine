@@ -1980,5 +1980,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-18T08:38:57.441389"
+  },
+  {
+    "topic": "Titan's Methane Cycle",
+    "topic_family": "planetary_facts",
+    "hook": "What if rain wasn't water? \ud83c\udf27\ufe0f\u26fd",
+    "facts": [
+      "Saturn's moon Titan is the ONLY moon in our Solar System with a dense atmosphere \u2013 it's actually thicker than Earth's!",
+      "It's also the ONLY body besides Earth with stable liquid on its surface: vast lakes, rivers, and seas.",
+      "But these aren't water! They're made of liquid METHANE and ETHANE.",
+      "At a frigid -179\u00b0C (-290\u00b0F), Titan has a complete 'methane cycle' with clouds, precipitation, and flowing hydrocarbons!"
+    ],
+    "payoff": "Imagine a literally alien world with its own flammable weather system! \ud83e\udd2f",
+    "title": "Saturn's Moon Rains Fuel! \u26fd\ud83e\udd2f",
+    "hashtags": [
+      "#Titan",
+      "#SpaceFacts",
+      "#AlienWorld",
+      "#Astrophysics",
+      "#SolarSystem"
+    ],
+    "generated_at": "2026-04-18T16:28:49.452243",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-18T16:29:04.832087"
   }
 ]
