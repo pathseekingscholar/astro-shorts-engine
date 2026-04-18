@@ -1961,5 +1961,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-18T01:21:22.278534"
+  },
+  {
+    "topic": "Venus's bizarre day-year length",
+    "topic_family": "planetary_facts",
+    "hook": "On one planet, a single day lasts LONGER than its entire year!",
+    "facts": [
+      "On Earth, one rotation (a day) takes ~24 hours, and one orbit (a year) takes ~365 days.",
+      "Venus rotates incredibly slowly and backwards compared to most planets.",
+      "A sidereal day on Venus is 243 Earth days long. Its orbital year is 225 Earth days."
+    ],
+    "payoff": "This means you'd celebrate your birthday on Venus before the sun even finishes crossing the sky once!",
+    "title": "Venus: A Day Longer Than Its Year! \ud83e\udd2f\u23f3",
+    "hashtags": [
+      "#Venus #SpaceFacts #SolarSystem #Astronomy #Planet"
+    ],
+    "generated_at": "2026-04-18T08:38:48.823235",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-18T08:38:57.441389"
   }
 ]
