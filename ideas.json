@@ -1938,5 +1938,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-17T16:44:13.805579"
+  },
+  {
+    "topic": "Solar System Communication Delays",
+    "topic_family": "general",
+    "hook": "Ever tried calling Mars? Prepare for the ultimate lag!",
+    "facts": [
+      "Light and radio signals travel at 299,792 km/s.",
+      "A one-way message to the Moon takes ~1.28 seconds to reach us.",
+      "Communicating with a Mars rover can have a 3 to 22 minute one-way delay, depending on orbital positions."
+    ],
+    "payoff": "Every command and conversation across our Solar System isn't real-time\u2014you're always interacting with the past. The universe has a built-in delay!",
+    "title": "Solar System's Epic Call Lag! \ud83d\udcde\u23f1\ufe0f",
+    "hashtags": [
+      "#SpaceFact",
+      "#LightSpeed",
+      "#SolarSystem",
+      "#Astrophysics",
+      "#Communication"
+    ],
+    "generated_at": "2026-04-18T01:21:10.936239",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-18T01:21:22.278534"
   }
 ]
