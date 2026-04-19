@@ -2004,5 +2004,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-18T16:29:04.832087"
+  },
+  {
+    "topic": "Pluto's disappearing atmosphere",
+    "topic_family": "planetary_facts",
+    "hook": "Pluto's atmosphere DISAPPEARS?! \ud83e\udd2f",
+    "facts": [
+      "Pluto's orbit is highly elliptical, causing huge temperature swings.",
+      "When Pluto is farthest from the Sun, temperatures can plunge below -240\u00b0C (-400\u00b0F).",
+      "At these extreme cold temperatures, Pluto's thin nitrogen atmosphere FREEZES solid and falls onto its surface like snow."
+    ],
+    "payoff": "So, for decades at a time, Pluto literally loses its atmosphere as it freezes and reforms when its orbit brings it closer to the Sun!",
+    "title": "Pluto's Vanishing Act! \ud83d\udc7b\ud83e\uddca",
+    "hashtags": [
+      "#Pluto #DwarfPlanet #SpaceFacts #Astrophysics #SolarSystem"
+    ],
+    "generated_at": "2026-04-19T01:31:25.855479",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-19T01:31:35.267464"
   }
 ]
