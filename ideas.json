@@ -2046,5 +2046,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-19T08:43:20.731283"
+  },
+  {
+    "topic": "Hypervelocity Stars",
+    "topic_family": "general",
+    "hook": "Imagine being kicked out of your home... forever!",
+    "facts": [
+      "Our Milky Way has billions of stars, orbiting the galactic center at about 220 kilometers per second.",
+      "But some stars get too close to the supermassive black hole, Sagittarius A* (Sgr A*).",
+      "Sgr A*'s immense gravity slingshots these 'hypervelocity stars' to speeds over 1,200 km/s (2.7 million mph)!"
+    ],
+    "payoff": "These stars are moving too fast to stay in the galaxy, condemned to wander intergalactic space alone.",
+    "title": "Galactic Exiles! \ud83d\ude80\ud83c\udf0c",
+    "hashtags": [
+      "#HypervelocityStar",
+      "#BlackHole",
+      "#MilkyWay",
+      "#SpaceFacts",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-19T16:29:15.284203",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-19T16:29:25.013697"
   }
 ]
