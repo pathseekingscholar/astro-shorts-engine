@@ -2023,5 +2023,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-19T01:31:35.267464"
+  },
+  {
+    "topic": "Galactic Center Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Wanna visit our galaxy's supermassive black hole?",
+    "facts": [
+      "The Milky Way's supermassive black hole, Sagittarius A* (Sgr A*), is about 26,000 light-years away from Earth.",
+      "Even traveling at the ultimate speed limit \u2013 the speed of light (300,000 km/s) \u2013 a signal would take 26,000 years to reach Sgr A*.",
+      "A hypothetical advanced probe moving at an incredible 0.1% the speed of light (300 km/s) would still need 26 MILLION years for the journey."
+    ],
+    "payoff": "Crossing our own galaxy isn't just a trip; it's an unfathomable odyssey spanning geological and cosmic timescales!",
+    "title": "Road Trip to Galactic Core? \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Astrophysics",
+      "#SpaceTravel",
+      "#MilkyWay",
+      "#BlackHole",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-04-19T08:43:11.560159",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-19T08:43:20.731283"
   }
 ]
