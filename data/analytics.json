@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-18T07:06:23.254014",
+  "last_run": "2026-04-19T07:18:11.236551",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
@@ -28,16 +28,16 @@
       "worst": 0.0
     },
     "planetary_facts": {
-      "avg_score": 0.401,
-      "count": 16,
+      "avg_score": 0.357,
+      "count": 18,
       "best": 2.22,
       "worst": 0.0
     },
     "hypothetical": {
-      "avg_score": 0.045,
-      "count": 2,
+      "avg_score": 0.03,
+      "count": 3,
       "best": 0.085,
-      "worst": 0.005
+      "worst": 0.0
     }
   }
 }
