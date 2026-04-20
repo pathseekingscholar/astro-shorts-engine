@@ -2092,5 +2092,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-20T01:31:22.674114"
+  },
+  {
+    "topic": "Largest Star vs. Solar System",
+    "topic_family": "scale_comparison",
+    "hook": "Our Sun feels HUGE, right?",
+    "facts": [
+      "Our Sun fits 1.3 MILLION Earths inside it!",
+      "But meet Stephenson 2-18, the LARGEST known star.",
+      "If Stephenson 2-18 replaced our Sun, its edge would extend PAST Saturn's entire orbit.",
+      "Saturn, orbiting 1.4 billion km (870 million miles) from our Sun, would be *inside* Stephenson 2-18!"
+    ],
+    "payoff": "Our entire inner solar system, swallowed whole! \ud83e\udd2f",
+    "title": "Star that EATS Planets! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Stephenson218",
+      "#CosmicScale",
+      "#BiggestStar",
+      "#SpaceFacts",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-20T16:55:38.091845",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-20T16:55:52.023365"
   }
 ]

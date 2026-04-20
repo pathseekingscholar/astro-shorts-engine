@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Largest Star vs. Solar System",
+    "topic_family": "scale_comparison",
+    "hook": "Our Sun feels HUGE, right?",
+    "facts": [
+      "Our Sun fits 1.3 MILLION Earths inside it!",
+      "But meet Stephenson 2-18, the LARGEST known star.",
+      "If Stephenson 2-18 replaced our Sun, its edge would extend PAST Saturn's entire orbit.",
+      "Saturn, orbiting 1.4 billion km (870 million miles) from our Sun, would be *inside* Stephenson 2-18!"
+    ],
+    "payoff": "Our entire inner solar system, swallowed whole! \ud83e\udd2f",
+    "title": "Star that EATS Planets! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Stephenson218",
+      "#CosmicScale",
+      "#BiggestStar",
+      "#SpaceFacts",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-20T16:55:38.091845",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Our Sun feels HUGE, right?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A bright, prominent Sun filling much of the screen, with a tiny, visibly orbiting Earth.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "It fits 1.3 MILLION Earths inside!",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "The Sun remains. Small Earth icons rapidly appear and 'fill' the Sun's outline, illustrating its volume capacity.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "But meet Stephenson 2-18, the LARGEST known star.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "The Sun rapidly shrinks and slides off-screen to the left. A colossal, deep red supergiant star (Stephenson 2-18) slowly slides in from the right, appearing to dwarf the previous Sun's size.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Its edge would extend PAST Saturn's orbit!",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Stephenson 2-18 now dominates the screen. A faint, glowing outline of Saturn's orbit (with Saturn's tiny icon) appears, completely engulfed and well within the star's fiery boundary.",
+        "animation": "zoom_out"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Our entire inner solar system, SWALLOWED WHOLE! \ud83e\udd2f",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A dramatic, full-screen view of Stephenson 2-18. Faint, ghosted concentric circles representing the orbits of Mercury, Venus, Earth, Mars, and Saturn are visible, all completely submerged within the star's immense scale. The star subtly pulsates with light."
+      }
+    ],
+    "thumbnail_text": "STAR VS. SOLAR SYSTEM",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-20T16:55:52.023158",
+  "status": "uploaded",
+  "rendered_at": "2026-04-20T16:56:51.470098",
+  "video_path": "videos_output/largest_star_vs_solar_system_20260420_165552.mp4",
+  "uploaded_at": "2026-04-20T16:56:54.615953",
+  "youtube": {
+    "video_id": "p3eysz2VNxA",
+    "url": "https://youtube.com/shorts/p3eysz2VNxA",
+    "title": "Star that EATS Planets! \ud83e\udd2f\ud83e\ude90",
+    "uploaded_at": "2026-04-20T16:56:54.615819"
+  }
+}
