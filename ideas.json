@@ -2069,5 +2069,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-19T16:29:25.013697"
+  },
+  {
+    "topic": "Gravitational Lensing",
+    "topic_family": "general",
+    "hook": "Space itself can be a GIANT lens!",
+    "facts": [
+      "Massive galaxy clusters have such strong gravity they warp the fabric of spacetime around them.",
+      "This warped spacetime acts like a cosmic magnifying glass, bending and focusing light from distant objects behind the cluster.",
+      "Astronomers observe distorted 'arcs' or multiple images of single distant galaxies, some magnified by over 100x, thanks to this effect."
+    ],
+    "payoff": "We literally see galaxies that would otherwise be invisible, thanks to gravity's cosmic magic trick!",
+    "title": "Gravity's Cosmic Magnifying Glass! \ud83d\udd2d\ud83c\udf0c",
+    "hashtags": [
+      "gravitationallensing",
+      "spacefacts",
+      "astrophysics",
+      "galaxies",
+      "universe"
+    ],
+    "generated_at": "2026-04-20T01:31:11.539099",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-20T01:31:22.674114"
   }
 ]

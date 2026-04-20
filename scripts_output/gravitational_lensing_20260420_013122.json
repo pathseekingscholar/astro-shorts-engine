@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Gravitational Lensing",
+    "topic_family": "general",
+    "hook": "Space itself can be a GIANT lens!",
+    "facts": [
+      "Massive galaxy clusters have such strong gravity they warp the fabric of spacetime around them.",
+      "This warped spacetime acts like a cosmic magnifying glass, bending and focusing light from distant objects behind the cluster.",
+      "Astronomers observe distorted 'arcs' or multiple images of single distant galaxies, some magnified by over 100x, thanks to this effect."
+    ],
+    "payoff": "We literally see galaxies that would otherwise be invisible, thanks to gravity's cosmic magic trick!",
+    "title": "Gravity's Cosmic Magnifying Glass! \ud83d\udd2d\ud83c\udf0c",
+    "hashtags": [
+      "gravitationallensing",
+      "spacefacts",
+      "astrophysics",
+      "galaxies",
+      "universe"
+    ],
+    "generated_at": "2026-04-20T01:31:11.539099",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Space itself can be a GIANT lens!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Dark cosmic background. A large, distant galaxy cluster appears, subtly distorting the background light around it, hinting at a magnifying effect.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Massive galaxy clusters warp spacetime.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Zoom into the galaxy cluster. A subtle grid overlay appears, showing the fabric of spacetime bending and curving around the cluster's mass.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "This acts like a cosmic magnifying glass.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Light rays from a tiny, distant galaxy (behind the cluster) are shown bending around the warped spacetime of the cluster and converging towards the viewer's perspective.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "We see distorted 'arcs' & magnified galaxies (100x!).",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "A stunning, authentic or hyper-realistic simulated image of a galaxy cluster (e.g., from Hubble) prominently featuring elongated lensed 'arcs' and multiple images of background galaxies.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "See invisible galaxies thanks to gravity's cosmic magic!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Transition to a wider, awe-inspiring view of the cosmos, filled with numerous distant, lensed galaxies, emphasizing the scale of discovery and wonder. Stars twinkle subtly.",
+        "animation": "pulse"
+      }
+    ],
+    "thumbnail_text": "Gravity's Cosmic Lens!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-20T01:31:22.673933",
+  "status": "uploaded",
+  "rendered_at": "2026-04-20T01:32:10.334264",
+  "video_path": "videos_output/gravitational_lensing_20260420_013122.mp4",
+  "uploaded_at": "2026-04-20T01:32:14.495452",
+  "youtube": {
+    "video_id": "Rf9r9IPXrZA",
+    "url": "https://youtube.com/shorts/Rf9r9IPXrZA",
+    "title": "Gravity's Cosmic Magnifying Glass! \ud83d\udd2d\ud83c\udf0c",
+    "uploaded_at": "2026-04-20T01:32:14.495322"
+  }
+}
