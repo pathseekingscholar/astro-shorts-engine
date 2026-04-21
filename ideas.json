@@ -2116,5 +2116,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-20T16:55:52.023365"
+  },
+  {
+    "topic": "M87* Event Horizon vs. Solar System",
+    "topic_family": "scale_comparison",
+    "hook": "Is our ENTIRE Solar System actually tiny?",
+    "facts": [
+      "The diameter of our Solar System, out to Neptune's orbit, is approximately 9 billion km (5.6 billion miles).",
+      "The Event Horizon (point of no return) of the supermassive black hole M87* is a staggering 38 billion km (23.6 billion miles) wide!",
+      "That means M87*'s event horizon is over 4 times WIDER than our entire Solar System!"
+    ],
+    "payoff": "M87*'s event horizon could engulf our entire Solar System, including Neptune's orbit, more than 4 times over! We are truly a cosmic speck.",
+    "title": "Black Hole Shadow vs. Our Tiny Solar System! \ud83d\ude31",
+    "hashtags": [
+      "#BlackHole",
+      "#M87",
+      "#SolarSystem",
+      "#SpaceScale",
+      "#Cosmic"
+    ],
+    "generated_at": "2026-04-21T01:27:55.377655",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-21T01:28:04.933060"
   }
 ]
