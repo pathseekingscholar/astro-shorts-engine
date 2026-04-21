@@ -1394,7 +1394,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:40.529796"
+    "analyzed_at": "2026-04-21T07:48:33.351829"
   },
   {
     "video_id": "o_za_gNNpFA",
@@ -1407,7 +1407,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:40.709528"
+    "analyzed_at": "2026-04-21T07:48:33.497030"
   },
   {
     "video_id": "r_cdLaZU9UA",
@@ -1420,7 +1420,7 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-20T08:05:40.889108"
+    "analyzed_at": "2026-04-21T07:48:33.661668"
   },
   {
     "video_id": "WqYa0PC1pRg",
@@ -1433,7 +1433,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:40.364237"
+    "analyzed_at": "2026-04-21T07:48:33.180298"
   },
   {
     "video_id": "yXO3tbbmK3M",
@@ -1448,7 +1448,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-20T08:05:39.843454"
+    "analyzed_at": "2026-04-21T07:48:32.731517"
   },
   {
     "video_id": "NqXnkq_MOQU",
@@ -1461,7 +1461,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:40.011896"
+    "analyzed_at": "2026-04-21T07:48:32.879173"
   },
   {
     "video_id": "Xw2xx1w6EwE",
@@ -1474,7 +1474,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:40.203132"
+    "analyzed_at": "2026-04-21T07:48:33.020517"
   },
   {
     "video_id": "FshpWKDsCy8",
@@ -1487,7 +1487,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:39.650226"
+    "analyzed_at": "2026-04-21T07:48:32.589160"
   },
   {
     "video_id": "hRKae9oV0HU",
@@ -1500,7 +1500,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:39.256256"
+    "analyzed_at": "2026-04-21T07:48:32.218697"
   },
   {
     "video_id": "xHiARld4ikU",
@@ -1515,7 +1515,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-20T08:05:39.450835"
+    "analyzed_at": "2026-04-21T07:48:32.419737"
   },
   {
     "video_id": "U81vnb5tTqw",
@@ -1525,10 +1525,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-20T08:05:38.915651"
+    "analyzed_at": "2026-04-21T07:48:31.921111"
   },
   {
     "video_id": "Xpqy7IfZBTU",
@@ -1541,7 +1543,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:39.088990"
+    "analyzed_at": "2026-04-21T07:48:32.063120"
   },
   {
     "video_id": "yqW8_aCH-Rs",
@@ -1554,7 +1556,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:38.405797"
+    "analyzed_at": "2026-04-21T07:48:31.156643"
   },
   {
     "video_id": "OjoP6gz-kkM",
@@ -1567,7 +1569,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:38.580818"
+    "analyzed_at": "2026-04-21T07:48:31.322518"
   },
   {
     "video_id": "V0_JYArnWdY",
@@ -1577,10 +1579,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-20T08:05:38.740847"
+    "analyzed_at": "2026-04-21T07:48:31.753621"
   },
   {
     "video_id": "Rf9r9IPXrZA",
@@ -1593,7 +1597,7 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-20T08:05:37.859777"
+    "analyzed_at": "2026-04-21T07:48:30.686662"
   },
   {
     "video_id": "O6JkK2XsXgU",
@@ -1606,7 +1610,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-20T08:05:38.032446"
+    "analyzed_at": "2026-04-21T07:48:30.834861"
   },
   {
     "video_id": "Ckgouoh9VYk",
@@ -1619,6 +1623,32 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-20T08:05:38.232075"
+    "analyzed_at": "2026-04-21T07:48:30.996618"
+  },
+  {
+    "video_id": "18XrYHQeJeo",
+    "title": "Black Hole Shadow vs. Our Tiny Solar System! \ud83d\ude31",
+    "published_at": "2026-04-21T01:29:21Z",
+    "topic_family": "myth_busting",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-21T07:48:30.366243"
+  },
+  {
+    "video_id": "p3eysz2VNxA",
+    "title": "Star that EATS Planets! \ud83e\udd2f\ud83e\ude90",
+    "published_at": "2026-04-20T16:57:13Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-21T07:48:30.515852"
   }
 ]
