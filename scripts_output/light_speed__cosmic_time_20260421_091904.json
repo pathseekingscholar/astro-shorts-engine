@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Light Speed & Cosmic Time",
+    "topic_family": "general",
+    "hook": "Is the 'now' you see in space actually the distant past?",
+    "facts": [
+      "Light travels at an incredible 299,792 kilometers per second.",
+      "The light reaching your eyes from our Sun left it approximately 8 minutes and 20 seconds ago.",
+      "The twinkling light from Alpha Centauri, our closest star system, started its journey over 4.37 years ago.",
+      "When you glimpse the Andromeda Galaxy, you're seeing light that embarked on its voyage 2.5 million years in the past."
+    ],
+    "payoff": "Every point of light in the night sky is a message from the past, showing you what existed moments, years, or even millions of years ago!",
+    "title": "See the PAST, Not the Present! \ud83d\ude31\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceFacts",
+      "#LightSpeed",
+      "#CosmicTime",
+      "#Astrophysics",
+      "#Universe"
+    ],
+    "generated_at": "2026-04-21T09:18:55.410337",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Is the 'now' you see in space actually the distant past?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A captivating, swirling nebula with distant stars subtly shimmering.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Light travels 299,792 km/s! Sun's light? 8 min 20s old.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Earth-like planet with a visible light beam extending towards a bright, distant Sun. Text overlays the light path.",
+        "animation": "zoom_out"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Alpha Centauri's twinkle? Over 4.37 YEARS old!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "View of the Alpha Centauri star system, showing two prominent stars subtly 'twinkling'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Andromeda Galaxy? You see it 2.5 MILLION years in the past!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A stunning, full-frame shot of the Andromeda Galaxy, slowly rotating or zooming in slightly.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Every light in the sky is a message from the past. You see moments, years, millions of years ago!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A breathtaking panoramic view of the night sky, filled with countless stars and distant galaxies, slowly panning."
+      }
+    ],
+    "thumbnail_text": "Time Travel via Light!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-21T09:19:04.233303",
+  "status": "uploaded",
+  "rendered_at": "2026-04-21T09:20:03.145053",
+  "video_path": "videos_output/light_speed__cosmic_time_20260421_091904.mp4",
+  "uploaded_at": "2026-04-21T09:20:07.764752",
+  "youtube": {
+    "video_id": "vSLUw-4iXio",
+    "url": "https://youtube.com/shorts/vSLUw-4iXio",
+    "title": "See the PAST, Not the Present! \ud83d\ude31\ud83c\udf0c",
+    "uploaded_at": "2026-04-21T09:20:07.764645"
+  }
+}

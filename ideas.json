@@ -2139,5 +2139,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-21T01:28:04.933060"
+  },
+  {
+    "topic": "Light Speed & Cosmic Time",
+    "topic_family": "general",
+    "hook": "Is the 'now' you see in space actually the distant past?",
+    "facts": [
+      "Light travels at an incredible 299,792 kilometers per second.",
+      "The light reaching your eyes from our Sun left it approximately 8 minutes and 20 seconds ago.",
+      "The twinkling light from Alpha Centauri, our closest star system, started its journey over 4.37 years ago.",
+      "When you glimpse the Andromeda Galaxy, you're seeing light that embarked on its voyage 2.5 million years in the past."
+    ],
+    "payoff": "Every point of light in the night sky is a message from the past, showing you what existed moments, years, or even millions of years ago!",
+    "title": "See the PAST, Not the Present! \ud83d\ude31\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceFacts",
+      "#LightSpeed",
+      "#CosmicTime",
+      "#Astrophysics",
+      "#Universe"
+    ],
+    "generated_at": "2026-04-21T09:18:55.410337",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-21T09:19:04.233516"
   }
 ]
