@@ -2163,5 +2163,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-21T09:19:04.233516"
+  },
+  {
+    "topic": "Neutron Star Density",
+    "topic_family": "general",
+    "hook": "Could a single teaspoon weigh more than a mountain?",
+    "facts": [
+      "When a massive star collapses, it leaves behind a neutron star, typically only 20 km (12.4 miles) wide.",
+      "Despite its tiny size, a neutron star packs 1.4 to 2.1 times the mass of our Sun!",
+      "Its density is so extreme that just ONE TEASPOON (5 ml) of its material would weigh over 5 BILLION TONS (5 x 10^12 kg)."
+    ],
+    "payoff": "That's roughly the weight of all the cars on Earth combined... TWICE! Making neutron stars one of the densest objects in the universe.",
+    "title": "A Teaspoon of Neutron Star?! \ud83e\udd2f\u2728",
+    "hashtags": [
+      "#NeutronStar #SpaceFacts #Astrophysics #CosmicDensity #ScienceShorts"
+    ],
+    "generated_at": "2026-04-22T01:27:13.337241",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-22T01:27:27.372618"
   }
 ]
