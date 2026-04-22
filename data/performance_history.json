@@ -1394,7 +1394,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:33.351829"
+    "analyzed_at": "2026-04-22T07:46:20.600064"
   },
   {
     "video_id": "o_za_gNNpFA",
@@ -1433,7 +1433,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:33.180298"
+    "analyzed_at": "2026-04-22T07:46:20.399137"
   },
   {
     "video_id": "yXO3tbbmK3M",
@@ -1443,12 +1443,10 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-21T07:48:32.731517"
+    "analyzed_at": "2026-04-22T07:46:19.833344"
   },
   {
     "video_id": "NqXnkq_MOQU",
@@ -1461,7 +1459,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:32.879173"
+    "analyzed_at": "2026-04-22T07:46:20.027379"
   },
   {
     "video_id": "Xw2xx1w6EwE",
@@ -1474,7 +1472,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:33.020517"
+    "analyzed_at": "2026-04-22T07:46:20.215094"
   },
   {
     "video_id": "FshpWKDsCy8",
@@ -1487,7 +1485,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:32.589160"
+    "analyzed_at": "2026-04-22T07:46:19.631713"
   },
   {
     "video_id": "hRKae9oV0HU",
@@ -1500,7 +1498,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:32.218697"
+    "analyzed_at": "2026-04-22T07:46:19.197383"
   },
   {
     "video_id": "xHiARld4ikU",
@@ -1515,7 +1513,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-21T07:48:32.419737"
+    "analyzed_at": "2026-04-22T07:46:19.413372"
   },
   {
     "video_id": "U81vnb5tTqw",
@@ -1530,7 +1528,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-21T07:48:31.921111"
+    "analyzed_at": "2026-04-22T07:46:18.788760"
   },
   {
     "video_id": "Xpqy7IfZBTU",
@@ -1543,7 +1541,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:32.063120"
+    "analyzed_at": "2026-04-22T07:46:18.986776"
   },
   {
     "video_id": "yqW8_aCH-Rs",
@@ -1556,7 +1554,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:31.156643"
+    "analyzed_at": "2026-04-22T07:46:18.155952"
   },
   {
     "video_id": "OjoP6gz-kkM",
@@ -1569,7 +1567,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:31.322518"
+    "analyzed_at": "2026-04-22T07:46:18.364583"
   },
   {
     "video_id": "V0_JYArnWdY",
@@ -1584,7 +1582,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-21T07:48:31.753621"
+    "analyzed_at": "2026-04-22T07:46:18.565936"
   },
   {
     "video_id": "Rf9r9IPXrZA",
@@ -1594,10 +1592,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 4
     },
-    "performance_score": 0.005,
-    "analyzed_at": "2026-04-21T07:48:30.686662"
+    "performance_score": 0.085,
+    "analyzed_at": "2026-04-22T07:46:17.549855"
   },
   {
     "video_id": "O6JkK2XsXgU",
@@ -1607,10 +1607,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-21T07:48:30.834861"
+    "analyzed_at": "2026-04-22T07:46:17.763682"
   },
   {
     "video_id": "Ckgouoh9VYk",
@@ -1623,7 +1625,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:30.996618"
+    "analyzed_at": "2026-04-22T07:46:17.955517"
   },
   {
     "video_id": "18XrYHQeJeo",
@@ -1636,7 +1638,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:30.366243"
+    "analyzed_at": "2026-04-22T07:46:17.152520"
   },
   {
     "video_id": "p3eysz2VNxA",
@@ -1649,6 +1651,32 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-21T07:48:30.515852"
+    "analyzed_at": "2026-04-22T07:46:17.343208"
+  },
+  {
+    "video_id": "OydTXzomots",
+    "title": "A Teaspoon of Neutron Star?! \ud83e\udd2f\u2728",
+    "published_at": "2026-04-22T01:28:43Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-22T07:46:16.755402"
+  },
+  {
+    "video_id": "vSLUw-4iXio",
+    "title": "See the PAST, Not the Present! \ud83d\ude31\ud83c\udf0c",
+    "published_at": "2026-04-21T09:20:29Z",
+    "topic_family": "myth_busting",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-22T07:46:16.957780"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-21T07:48:33.663796",
+  "last_run": "2026-04-22T07:46:20.601649",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
@@ -10,8 +10,8 @@
       "worst": 0.0
     },
     "general": {
-      "avg_score": 0.331,
-      "count": 36,
+      "avg_score": 0.322,
+      "count": 37,
       "best": 1.8,
       "worst": 0.0
     },
@@ -22,13 +22,13 @@
       "worst": 0.0
     },
     "myth_busting": {
-      "avg_score": 0.039,
-      "count": 4,
+      "avg_score": 0.031,
+      "count": 5,
       "best": 0.155,
       "worst": 0.0
     },
     "planetary_facts": {
-      "avg_score": 0.338,
+      "avg_score": 0.343,
       "count": 19,
       "best": 2.22,
       "worst": 0.0
