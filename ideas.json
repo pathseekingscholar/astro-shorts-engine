@@ -2205,5 +2205,30 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-23T09:20:53.549609"
+  },
+  {
+    "topic": "Boomerang Nebula's Extreme Cold",
+    "topic_family": "extreme_conditions",
+    "hook": "How COLD can space get? Think beyond frozen!",
+    "facts": [
+      "Average deep space temperature: around -270\u00b0C (3 Kelvin).",
+      "Absolute Zero (0 Kelvin) is the theoretical limit: -273.15\u00b0C.",
+      "The Boomerang Nebula is the coldest known natural place in the ENTIRE universe.",
+      "Its temperature: a mind-numbing -272.15\u00b0C (just 1 Kelvin above absolute zero!).",
+      "It's even colder than the Cosmic Microwave Background (CMB), the 'afterglow' of the Big Bang, which is 2.7 Kelvin."
+    ],
+    "payoff": "This cosmic freezer, chilling itself through rapid gas expansion, holds the record for extreme cold, proving that even the vacuum of space can get far colder than expected!",
+    "title": "Universe's Absolute COLDEST Spot! \ud83e\uddca\ud83c\udf0c",
+    "hashtags": [
+      "SpaceFacts",
+      "Astrophysics",
+      "ExtremeSpace",
+      "BoomerangNebula",
+      "ColdestPlace"
+    ],
+    "generated_at": "2026-04-23T17:11:42.239484",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-23T17:11:52.314930"
   }
 ]
