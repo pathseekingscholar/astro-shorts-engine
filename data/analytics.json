@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-22T07:46:20.601649",
+  "last_run": "2026-04-23T07:51:03.931528",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
@@ -16,7 +16,7 @@
       "worst": 0.0
     },
     "scale_comparison": {
-      "avg_score": 0.326,
+      "avg_score": 0.327,
       "count": 28,
       "best": 2.34,
       "worst": 0.0

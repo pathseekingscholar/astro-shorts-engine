@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T07:46:20.600153",
+  "generated_at": "2026-04-23T07:51:03.929494",
   "top_performing_topics": [
     {
       "topic": "travel_time",
@@ -13,7 +13,7 @@
     },
     {
       "topic": "scale_comparison",
-      "avg_score": 0.326,
+      "avg_score": 0.327,
       "videos_count": 28
     }
   ],
