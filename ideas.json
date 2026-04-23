@@ -2182,5 +2182,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-22T01:27:27.372618"
+  },
+  {
+    "topic": "Sun's Gravitational Reach",
+    "topic_family": "travel_time",
+    "hook": "Think you've truly left the Solar System?",
+    "facts": [
+      "Our Sun's gravitational influence (the theoretical edge of the Oort Cloud) extends up to 100,000 AU (about 1.5 light-years) away.",
+      "Voyager 1, our fastest spacecraft, travels at ~17 km/s. At this speed, it would take Voyager ~26,000 years to reach this far.",
+      "Even if we could achieve 1% of light speed (nearly 3,000 km/s), a journey to this distant boundary would still take ~150 years."
+    ],
+    "payoff": "Truly breaking free from our own star's cosmic grasp is a multi-generational odyssey, even with advanced propulsion!",
+    "title": "Escape the Sun's Grasp? \u2600\ufe0f\ud83d\ude80",
+    "hashtags": [
+      "#SpaceTravel",
+      "#OortCloud",
+      "#SolarSystem",
+      "#Astrophysics",
+      "#LightSpeed"
+    ],
+    "generated_at": "2026-04-23T09:20:43.632467",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-23T09:20:53.549609"
   }
 ]

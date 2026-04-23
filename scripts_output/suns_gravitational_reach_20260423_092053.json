@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Sun's Gravitational Reach",
+    "topic_family": "travel_time",
+    "hook": "Think you've truly left the Solar System?",
+    "facts": [
+      "Our Sun's gravitational influence (the theoretical edge of the Oort Cloud) extends up to 100,000 AU (about 1.5 light-years) away.",
+      "Voyager 1, our fastest spacecraft, travels at ~17 km/s. At this speed, it would take Voyager ~26,000 years to reach this far.",
+      "Even if we could achieve 1% of light speed (nearly 3,000 km/s), a journey to this distant boundary would still take ~150 years."
+    ],
+    "payoff": "Truly breaking free from our own star's cosmic grasp is a multi-generational odyssey, even with advanced propulsion!",
+    "title": "Escape the Sun's Grasp? \u2600\ufe0f\ud83d\ude80",
+    "hashtags": [
+      "#SpaceTravel",
+      "#OortCloud",
+      "#SolarSystem",
+      "#Astrophysics",
+      "#LightSpeed"
+    ],
+    "generated_at": "2026-04-23T09:20:43.632467",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Think you've left the Solar System?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A dark, starry expanse. A faint, distant glow suggests the Sun, getting smaller as if receding.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "The Sun's gravity reaches 100,000 AU (1.5 light-years) to the Oort Cloud!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A small, bright Sun icon at the center. A vast, transparent sphere expands outwards, labeled '100,000 AU' and 'Oort Cloud' at its edge.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Voyager 1 (~17 km/s) would take 26,000 YEARS to reach it.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A stylized Voyager 1 spacecraft icon slowly drifts from left to right across a deep space background, leaving a long, faint trail.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Even at 1% light speed (3,000 km/s), it's a 150-year journey!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A sleek, futuristic spacecraft streaks quickly across the screen, leaving a bright, long-streaked path. Stars blur in the background to emphasize speed.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Breaking free from our Sun's grasp is a multi-generational odyssey!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A breathtaking, wide shot of the Milky Way galaxy, vast and swirling. Our tiny Solar System (a single star and faint orbits) is a minuscule dot, dwarfed by the galaxy's immensity."
+      }
+    ],
+    "thumbnail_text": "Beyond the Sun's Grasp",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-23T09:20:53.549378",
+  "status": "uploaded",
+  "rendered_at": "2026-04-23T09:23:07.924737",
+  "video_path": "videos_output/suns_gravitational_reach_20260423_092053.mp4",
+  "uploaded_at": "2026-04-23T09:23:13.153531",
+  "youtube": {
+    "video_id": "5C2DHf1zCl8",
+    "url": "https://youtube.com/shorts/5C2DHf1zCl8",
+    "title": "Escape the Sun's Grasp? \u2600\ufe0f\ud83d\ude80",
+    "uploaded_at": "2026-04-23T09:23:13.153394"
+  }
+}
