@@ -1446,7 +1446,7 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-23T07:51:03.400709"
+    "analyzed_at": "2026-04-24T08:02:32.265076"
   },
   {
     "video_id": "NqXnkq_MOQU",
@@ -1459,7 +1459,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:03.542161"
+    "analyzed_at": "2026-04-24T08:02:32.419767"
   },
   {
     "video_id": "Xw2xx1w6EwE",
@@ -1472,7 +1472,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:03.669687"
+    "analyzed_at": "2026-04-24T08:02:32.578675"
   },
   {
     "video_id": "FshpWKDsCy8",
@@ -1485,7 +1485,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:03.261390"
+    "analyzed_at": "2026-04-24T08:02:32.136490"
   },
   {
     "video_id": "hRKae9oV0HU",
@@ -1498,7 +1498,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:02.996432"
+    "analyzed_at": "2026-04-24T08:02:31.838507"
   },
   {
     "video_id": "xHiARld4ikU",
@@ -1508,12 +1508,10 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-23T07:51:03.136849"
+    "analyzed_at": "2026-04-24T08:02:31.974616"
   },
   {
     "video_id": "U81vnb5tTqw",
@@ -1528,7 +1526,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-23T07:51:02.733823"
+    "analyzed_at": "2026-04-24T08:02:31.542438"
   },
   {
     "video_id": "Xpqy7IfZBTU",
@@ -1541,7 +1539,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:02.852198"
+    "analyzed_at": "2026-04-24T08:02:31.681784"
   },
   {
     "video_id": "yqW8_aCH-Rs",
@@ -1554,7 +1552,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:02.286653"
+    "analyzed_at": "2026-04-24T08:02:31.045798"
   },
   {
     "video_id": "OjoP6gz-kkM",
@@ -1567,7 +1565,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:02.414112"
+    "analyzed_at": "2026-04-24T08:02:31.189257"
   },
   {
     "video_id": "V0_JYArnWdY",
@@ -1582,7 +1580,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-23T07:51:02.584900"
+    "analyzed_at": "2026-04-24T08:02:31.363375"
   },
   {
     "video_id": "Rf9r9IPXrZA",
@@ -1597,7 +1595,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-04-23T07:51:01.841460"
+    "analyzed_at": "2026-04-24T08:02:30.596731"
   },
   {
     "video_id": "O6JkK2XsXgU",
@@ -1612,7 +1610,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-23T07:51:02.022932"
+    "analyzed_at": "2026-04-24T08:02:30.771732"
   },
   {
     "video_id": "Ckgouoh9VYk",
@@ -1625,7 +1623,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:02.160178"
+    "analyzed_at": "2026-04-24T08:02:30.910607"
   },
   {
     "video_id": "18XrYHQeJeo",
@@ -1638,7 +1636,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:01.560776"
+    "analyzed_at": "2026-04-24T08:02:30.281995"
   },
   {
     "video_id": "p3eysz2VNxA",
@@ -1651,7 +1649,7 @@
       "comments": 0
     },
     "performance_score": 0.023,
-    "analyzed_at": "2026-04-23T07:51:01.699877"
+    "analyzed_at": "2026-04-24T08:02:30.433128"
   },
   {
     "video_id": "OydTXzomots",
@@ -1664,7 +1662,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:01.269210"
+    "analyzed_at": "2026-04-24T08:02:29.971899"
   },
   {
     "video_id": "vSLUw-4iXio",
@@ -1677,6 +1675,32 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-23T07:51:01.432432"
+    "analyzed_at": "2026-04-24T08:02:30.140766"
+  },
+  {
+    "video_id": "oRwq1TpxAOY",
+    "title": "Universe's Absolute COLDEST Spot! \ud83e\uddca\ud83c\udf0c",
+    "published_at": "2026-04-23T17:13:09Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-24T08:02:29.624851"
+  },
+  {
+    "video_id": "5C2DHf1zCl8",
+    "title": "Escape the Sun's Grasp? \u2600\ufe0f\ud83d\ude80",
+    "published_at": "2026-04-23T09:23:32Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-24T08:02:29.815117"
   }
 ]
