@@ -2230,5 +2230,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-23T17:11:52.314930"
+  },
+  {
+    "topic": "Cosmic Web Scale",
+    "topic_family": "scale_comparison",
+    "hook": "Think our galaxy is big? You haven't seen the Universe's true giants!",
+    "facts": [
+      "Our Milky Way galaxy stretches 100,000 light-years across, home to hundreds of billions of stars.",
+      "But galaxies are just tiny beads on the Cosmic Web, a vast, foam-like network of filaments and voids.",
+      "The Hercules-Corona Borealis Great Wall, the largest known structure, spans over 10 billion light-years."
+    ],
+    "payoff": "That's roughly 1/10th the size of the *entire observable universe!* Imagine traversing that.",
+    "title": "Universe's LARGEST Structure! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "CosmicWeb",
+      "UniverseSize",
+      "Astrophysics",
+      "SpaceFacts",
+      "MindBlown"
+    ],
+    "generated_at": "2026-04-24T16:45:51.329928",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-24T16:46:04.344288"
   }
 ]
