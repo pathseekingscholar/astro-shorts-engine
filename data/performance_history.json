@@ -1446,7 +1446,7 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-24T08:02:32.265076"
+    "analyzed_at": "2026-04-25T07:14:48.911066"
   },
   {
     "video_id": "NqXnkq_MOQU",
@@ -1485,7 +1485,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:32.136490"
+    "analyzed_at": "2026-04-25T07:14:48.742825"
   },
   {
     "video_id": "hRKae9oV0HU",
@@ -1498,7 +1498,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:31.838507"
+    "analyzed_at": "2026-04-25T07:14:48.468626"
   },
   {
     "video_id": "xHiARld4ikU",
@@ -1511,7 +1511,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-24T08:02:31.974616"
+    "analyzed_at": "2026-04-25T07:14:48.606559"
   },
   {
     "video_id": "U81vnb5tTqw",
@@ -1526,7 +1526,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-24T08:02:31.542438"
+    "analyzed_at": "2026-04-25T07:14:48.185629"
   },
   {
     "video_id": "Xpqy7IfZBTU",
@@ -1539,7 +1539,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:31.681784"
+    "analyzed_at": "2026-04-25T07:14:48.324718"
   },
   {
     "video_id": "yqW8_aCH-Rs",
@@ -1552,7 +1552,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:31.045798"
+    "analyzed_at": "2026-04-25T07:14:47.692573"
   },
   {
     "video_id": "OjoP6gz-kkM",
@@ -1565,7 +1565,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:31.189257"
+    "analyzed_at": "2026-04-25T07:14:47.831703"
   },
   {
     "video_id": "V0_JYArnWdY",
@@ -1580,7 +1580,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-24T08:02:31.363375"
+    "analyzed_at": "2026-04-25T07:14:47.995028"
   },
   {
     "video_id": "Rf9r9IPXrZA",
@@ -1595,7 +1595,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-04-24T08:02:30.596731"
+    "analyzed_at": "2026-04-25T07:14:47.186855"
   },
   {
     "video_id": "O6JkK2XsXgU",
@@ -1610,7 +1610,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-24T08:02:30.771732"
+    "analyzed_at": "2026-04-25T07:14:47.360420"
   },
   {
     "video_id": "Ckgouoh9VYk",
@@ -1623,7 +1623,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:30.910607"
+    "analyzed_at": "2026-04-25T07:14:47.527170"
   },
   {
     "video_id": "18XrYHQeJeo",
@@ -1636,7 +1636,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:30.281995"
+    "analyzed_at": "2026-04-25T07:14:46.861964"
   },
   {
     "video_id": "p3eysz2VNxA",
@@ -1646,10 +1646,12 @@
     "metrics": {
       "views": 1,
       "likes": 1,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 4
     },
-    "performance_score": 0.023,
-    "analyzed_at": "2026-04-24T08:02:30.433128"
+    "performance_score": 0.103,
+    "analyzed_at": "2026-04-25T07:14:47.026001"
   },
   {
     "video_id": "OydTXzomots",
@@ -1662,7 +1664,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:29.971899"
+    "analyzed_at": "2026-04-25T07:14:46.540552"
   },
   {
     "video_id": "vSLUw-4iXio",
@@ -1675,7 +1677,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:30.140766"
+    "analyzed_at": "2026-04-25T07:14:46.700091"
   },
   {
     "video_id": "oRwq1TpxAOY",
@@ -1688,7 +1690,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:29.624851"
+    "analyzed_at": "2026-04-25T07:14:46.196996"
   },
   {
     "video_id": "5C2DHf1zCl8",
@@ -1701,6 +1703,32 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-24T08:02:29.815117"
+    "analyzed_at": "2026-04-25T07:14:46.394548"
+  },
+  {
+    "video_id": "E3nJ2jzQpxo",
+    "title": "Diamond Rain on Ice Giants?! \ud83d\udc8e\ud83e\ude90",
+    "published_at": "2026-04-25T01:26:11Z",
+    "topic_family": "hypothetical",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-25T07:14:45.831994"
+  },
+  {
+    "video_id": "q15jzjIlHEg",
+    "title": "Universe's LARGEST Structure! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-24T16:47:27Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-25T07:14:46.027567"
   }
 ]
