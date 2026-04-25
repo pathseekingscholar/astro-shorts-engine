@@ -2253,5 +2253,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-24T16:46:04.344288"
+  },
+  {
+    "topic": "Diamond Rain Planets",
+    "topic_family": "planetary_facts",
+    "hook": "What if it LITERALLY rained diamonds on other planets?!",
+    "facts": [
+      "Deep inside Uranus & Neptune, pressures reach over 200 Gigapascals (2 MILLION times Earth's atmospheric pressure).",
+      "Temperatures soar to over 7,000\u00b0 Celsius (12,600\u00b0F).",
+      "Under these extreme conditions, methane breaks down, forming pure carbon that crystallizes."
+    ],
+    "payoff": "So, it literally RAINS solid diamonds, sinking through vast subsurface oceans of superheated fluid!",
+    "title": "Diamond Rain on Ice Giants?! \ud83d\udc8e\ud83e\ude90",
+    "hashtags": [
+      "#DiamondRain",
+      "#IceGiants",
+      "#Uranus",
+      "#Neptune",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-25T01:24:41.314828",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-25T01:24:49.357951"
   }
 ]
