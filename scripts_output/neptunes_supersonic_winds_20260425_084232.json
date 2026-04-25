@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Neptune's Supersonic Winds",
+    "topic_family": "planetary_facts",
+    "hook": "Winds faster than a jet plane, on a planet?!",
+    "facts": [
+      "Neptune holds the record for the fastest winds in our Solar System.",
+      "They rage at speeds up to 2,100 km/h (1,300 mph) \u2013 faster than the speed of sound on Earth!",
+      "These powerful winds are driven by Neptune's internal heat, not the Sun, and blow in complex patterns, sometimes even against the planet's rotation."
+    ],
+    "payoff": "A distant, icy world with its own internal energy source fueling supersonic storms, showcasing a weather system unlike anything on Earth.",
+    "title": "Neptune's Insane Supersonic Winds! \ud83d\udca8\ud83e\ude90",
+    "hashtags": [
+      "Neptune",
+      "SpaceFacts",
+      "Planets",
+      "SolarSystem",
+      "Astronomy"
+    ],
+    "generated_at": "2026-04-25T08:42:25.446955",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Winds faster than a jet plane... on a planet?!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Distant, mysterious blue Neptune against a swirling space nebula background.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Neptune: Fastest Winds in the Solar System.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Closer view of Neptune, subtle atmospheric swirls visible on the surface.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Up to 2,100 km/h (1,300 mph)! Faster than sound on Earth.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animated streamlines showing intense wind currents across Neptune's surface.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Fueled by Neptune's internal heat, not the Sun. Winds defy rotation!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Neptune's globe with a subtle glow radiating from its core, suggesting internal heat, with overlayed wind arrows moving in complex, sometimes opposing, directions.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Supersonic storms fueled by internal energy. A truly alien weather system!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Full, majestic view of Neptune, subtly animated with atmospheric activity and light effects, emphasizing its icy, powerful nature."
+      }
+    ],
+    "thumbnail_text": "Neptune's Supersonic Storms",
+    "background_style": "space_nebula"
+  },
+  "formatted_at": "2026-04-25T08:42:32.547205",
+  "status": "uploaded",
+  "rendered_at": "2026-04-25T08:43:30.835901",
+  "video_path": "videos_output/neptunes_supersonic_winds_20260425_084232.mp4",
+  "uploaded_at": "2026-04-25T08:43:34.200400",
+  "youtube": {
+    "video_id": "LW7C6Q2liGs",
+    "url": "https://youtube.com/shorts/LW7C6Q2liGs",
+    "title": "Neptune's Insane Supersonic Winds! \ud83d\udca8\ud83e\ude90",
+    "uploaded_at": "2026-04-25T08:43:34.200266"
+  }
+}

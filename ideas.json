@@ -2276,5 +2276,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-25T01:24:49.357951"
+  },
+  {
+    "topic": "Neptune's Supersonic Winds",
+    "topic_family": "planetary_facts",
+    "hook": "Winds faster than a jet plane, on a planet?!",
+    "facts": [
+      "Neptune holds the record for the fastest winds in our Solar System.",
+      "They rage at speeds up to 2,100 km/h (1,300 mph) \u2013 faster than the speed of sound on Earth!",
+      "These powerful winds are driven by Neptune's internal heat, not the Sun, and blow in complex patterns, sometimes even against the planet's rotation."
+    ],
+    "payoff": "A distant, icy world with its own internal energy source fueling supersonic storms, showcasing a weather system unlike anything on Earth.",
+    "title": "Neptune's Insane Supersonic Winds! \ud83d\udca8\ud83e\ude90",
+    "hashtags": [
+      "Neptune",
+      "SpaceFacts",
+      "Planets",
+      "SolarSystem",
+      "Astronomy"
+    ],
+    "generated_at": "2026-04-25T08:42:25.446955",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-25T08:42:32.547412"
   }
 ]
