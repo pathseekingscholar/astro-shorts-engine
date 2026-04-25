@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Uranus's Extreme Day/Night Cycles",
+    "topic_family": "planetary_facts",
+    "hook": "Imagine a planet where a 'day' lasts decades! \ud83e\udd2f",
+    "facts": [
+      "Uranus spins almost completely on its side, with an extreme axial tilt of 98 degrees.",
+      "This means during half of its 84-Earth-year orbit, one pole faces the Sun, experiencing continuous 'daylight' for 42 Earth years.",
+      "The opposite pole endures 42 Earth years of total darkness, an unbroken 'night'."
+    ],
+    "payoff": "A single 'day' or 'night' at Uranus's poles can last longer than an entire human lifetime!",
+    "title": "Uranus: Day or Night for 42 Years?! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "Uranus",
+      "SpaceFacts",
+      "SolarSystem",
+      "Planets",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-25T16:32:04.082473",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Imagine a planet where a 'day' lasts decades! \ud83e\udd2f",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A dark space background with subtle distant stars. Uranus slowly rotates, slightly tilted, in the center of the frame.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Uranus spins almost completely on its side, with an extreme axial tilt of 98 degrees.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Uranus prominently displayed, spinning on its side. An animated line highlights its 98-degree axial tilt. The sun is faintly visible in the upper corner.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "One pole faces the Sun for 42 Earth years of continuous 'daylight'.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Uranus, still tilted. The top pole is brightly illuminated, with an arrow pointing to it, while the rest of the planet shows gradual shadowing. A subtle orbital path animation.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "The opposite pole endures 42 Earth years of total darkness, an unbroken 'night'.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Uranus, with the bottom pole now completely dark and cold-looking, receiving no light. An arrow points to the dark pole. The sun is on the opposite side of the planet's orbit.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "A single 'day' or 'night' on Uranus can last longer than an entire human lifetime!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A dramatic shot of Uranus, split perfectly down the middle, half brilliantly lit by the sun, half in profound, inky darkness. Emphasizes the extreme contrast. Stars twinkle in the background."
+      }
+    ],
+    "thumbnail_text": "42-Year Days & Nights!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-25T16:32:13.110894",
+  "status": "uploaded",
+  "rendered_at": "2026-04-25T16:33:12.278701",
+  "video_path": "videos_output/uranuss_extreme_daynight_cycle_20260425_163213.mp4",
+  "uploaded_at": "2026-04-25T16:33:16.616805",
+  "youtube": {
+    "video_id": "Mpj_wgwNfhk",
+    "url": "https://youtube.com/shorts/Mpj_wgwNfhk",
+    "title": "Uranus: Day or Night for 42 Years?! \ud83e\udd2f\ud83e\ude90",
+    "uploaded_at": "2026-04-25T16:33:16.616683"
+  }
+}

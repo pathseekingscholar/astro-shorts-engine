@@ -2299,5 +2299,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-25T08:42:32.547412"
+  },
+  {
+    "topic": "Uranus's Extreme Day/Night Cycles",
+    "topic_family": "planetary_facts",
+    "hook": "Imagine a planet where a 'day' lasts decades! \ud83e\udd2f",
+    "facts": [
+      "Uranus spins almost completely on its side, with an extreme axial tilt of 98 degrees.",
+      "This means during half of its 84-Earth-year orbit, one pole faces the Sun, experiencing continuous 'daylight' for 42 Earth years.",
+      "The opposite pole endures 42 Earth years of total darkness, an unbroken 'night'."
+    ],
+    "payoff": "A single 'day' or 'night' at Uranus's poles can last longer than an entire human lifetime!",
+    "title": "Uranus: Day or Night for 42 Years?! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "Uranus",
+      "SpaceFacts",
+      "SolarSystem",
+      "Planets",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-25T16:32:04.082473",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-25T16:32:13.111109"
   }
 ]
