@@ -2346,5 +2346,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-26T01:45:59.515519"
+  },
+  {
+    "topic": "Light Speed Travel Times",
+    "topic_family": "travel_time",
+    "hook": "Think light speed is instant? Not across the cosmos.",
+    "facts": [
+      "To the Moon: ~1.3 seconds",
+      "To Mars (average distance): ~12.7 minutes",
+      "To Proxima Centauri (nearest star): ~4.2 years"
+    ],
+    "payoff": "Even at light speed, reaching the Andromeda Galaxy would take a mind-boggling 2.5 million years!",
+    "title": "Light Speed Journey Times! \ud83e\udd2f\ud83d\ude80",
+    "hashtags": [
+      "#LightSpeed",
+      "#SpaceTravel",
+      "#Astrophysics",
+      "#CosmicScale",
+      "#UniverseFacts"
+    ],
+    "generated_at": "2026-04-26T08:51:21.162500",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-26T08:51:34.168541"
   }
 ]
