@@ -2322,5 +2322,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-25T16:32:13.111109"
+  },
+  {
+    "topic": "Mercury's Extreme Temperature Swings",
+    "topic_family": "planetary_facts",
+    "hook": "This planet experiences the wildest temperature swings in our solar system!",
+    "facts": [
+      "Mercury is the closest planet to the Sun, receiving intense solar radiation.",
+      "During its long day, surface temperatures can soar to 430\u00b0C (800\u00b0F), hot enough to melt lead.",
+      "But with almost no atmosphere to trap heat, night temperatures plummet to -180\u00b0C (-290\u00b0F).",
+      "This is a staggering daily temperature difference of over 600\u00b0C (1100\u00b0F)!"
+    ],
+    "payoff": "Imagine a world where you'd be incinerated then frozen solid, all in one 'day'!",
+    "title": "Mercury: Daily Melt & Freeze! \ud83e\udd2f\ud83c\udf21\ufe0f",
+    "hashtags": [
+      "#Mercury",
+      "#SpaceFacts",
+      "#Planets",
+      "#SolarSystem",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-26T01:45:45.477941",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-26T01:45:59.515519"
   }
 ]

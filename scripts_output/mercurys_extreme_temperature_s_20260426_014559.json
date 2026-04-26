@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Mercury's Extreme Temperature Swings",
+    "topic_family": "planetary_facts",
+    "hook": "This planet experiences the wildest temperature swings in our solar system!",
+    "facts": [
+      "Mercury is the closest planet to the Sun, receiving intense solar radiation.",
+      "During its long day, surface temperatures can soar to 430\u00b0C (800\u00b0F), hot enough to melt lead.",
+      "But with almost no atmosphere to trap heat, night temperatures plummet to -180\u00b0C (-290\u00b0F).",
+      "This is a staggering daily temperature difference of over 600\u00b0C (1100\u00b0F)!"
+    ],
+    "payoff": "Imagine a world where you'd be incinerated then frozen solid, all in one 'day'!",
+    "title": "Mercury: Daily Melt & Freeze! \ud83e\udd2f\ud83c\udf21\ufe0f",
+    "hashtags": [
+      "#Mercury",
+      "#SpaceFacts",
+      "#Planets",
+      "#SolarSystem",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-26T01:45:45.477941",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Wildest Swings in the Solar System?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A stylized view of Mercury appearing from darkness, with the Sun prominently in the background, emitting intense light.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "DAY: 430\u00b0C (800\u00b0F) - Melts Lead!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A close-up shot of Mercury's intensely sunlit, rocky, cratered surface, shimmering with implied heat waves. The Sun is a bright, burning presence.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "NIGHT: -180\u00b0C (-290\u00b0F) - Freezes Solid!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A rapid transition (like rotating the planet) to Mercury's dark, cratered night side, illuminated faintly by distant starlight, with visible frost or ice forming on the surface.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "DAILY SWING: OVER 600\u00b0C (1100\u00b0F)!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A split screen of Mercury: the left half is fiery red and molten-looking (day), the right half is icy blue and stark (night). A thermometer graphic animates in the center, showing the extreme temperature range.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "INCINERATED THEN FROZEN... ALL IN ONE 'DAY'!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A conceptual animation of a human silhouette rapidly changing from glowing red embers (incineration) to shattering ice (frozen solid), overlaid on a dramatic, fast-spinning Mercury backdrop."
+      }
+    ],
+    "thumbnail_text": "Mercury's Extreme Temps",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-26T01:45:59.515301",
+  "status": "uploaded",
+  "rendered_at": "2026-04-26T01:46:57.945040",
+  "video_path": "videos_output/mercurys_extreme_temperature_s_20260426_014559.mp4",
+  "uploaded_at": "2026-04-26T01:47:01.641404",
+  "youtube": {
+    "video_id": "2hIl5jc_2F0",
+    "url": "https://youtube.com/shorts/2hIl5jc_2F0",
+    "title": "Mercury: Daily Melt & Freeze! \ud83e\udd2f\ud83c\udf21\ufe0f",
+    "uploaded_at": "2026-04-26T01:47:01.641276"
+  }
+}
