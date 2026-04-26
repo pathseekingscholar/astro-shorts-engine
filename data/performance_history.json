@@ -1498,7 +1498,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:48.468626"
+    "analyzed_at": "2026-04-26T07:28:06.070770"
   },
   {
     "video_id": "xHiARld4ikU",
@@ -1521,12 +1521,10 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-25T07:14:48.185629"
+    "analyzed_at": "2026-04-26T07:28:05.749593"
   },
   {
     "video_id": "Xpqy7IfZBTU",
@@ -1539,7 +1537,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:48.324718"
+    "analyzed_at": "2026-04-26T07:28:05.903069"
   },
   {
     "video_id": "yqW8_aCH-Rs",
@@ -1552,7 +1550,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:47.692573"
+    "analyzed_at": "2026-04-26T07:28:05.310645"
   },
   {
     "video_id": "OjoP6gz-kkM",
@@ -1565,7 +1563,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:47.831703"
+    "analyzed_at": "2026-04-26T07:28:05.447041"
   },
   {
     "video_id": "V0_JYArnWdY",
@@ -1575,12 +1573,10 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-25T07:14:47.995028"
+    "analyzed_at": "2026-04-26T07:28:05.607172"
   },
   {
     "video_id": "Rf9r9IPXrZA",
@@ -1595,7 +1591,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-04-25T07:14:47.186855"
+    "analyzed_at": "2026-04-26T07:28:04.827201"
   },
   {
     "video_id": "O6JkK2XsXgU",
@@ -1610,7 +1606,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-25T07:14:47.360420"
+    "analyzed_at": "2026-04-26T07:28:04.996527"
   },
   {
     "video_id": "Ckgouoh9VYk",
@@ -1623,7 +1619,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:47.527170"
+    "analyzed_at": "2026-04-26T07:28:05.152942"
   },
   {
     "video_id": "18XrYHQeJeo",
@@ -1636,7 +1632,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:46.861964"
+    "analyzed_at": "2026-04-26T07:28:04.489623"
   },
   {
     "video_id": "p3eysz2VNxA",
@@ -1651,7 +1647,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.103,
-    "analyzed_at": "2026-04-25T07:14:47.026001"
+    "analyzed_at": "2026-04-26T07:28:04.667694"
   },
   {
     "video_id": "OydTXzomots",
@@ -1664,7 +1660,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:46.540552"
+    "analyzed_at": "2026-04-26T07:28:04.200399"
   },
   {
     "video_id": "vSLUw-4iXio",
@@ -1677,7 +1673,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:46.700091"
+    "analyzed_at": "2026-04-26T07:28:04.346701"
   },
   {
     "video_id": "oRwq1TpxAOY",
@@ -1690,7 +1686,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:46.196996"
+    "analyzed_at": "2026-04-26T07:28:03.872196"
   },
   {
     "video_id": "5C2DHf1zCl8",
@@ -1703,7 +1699,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:46.394548"
+    "analyzed_at": "2026-04-26T07:28:04.033371"
   },
   {
     "video_id": "E3nJ2jzQpxo",
@@ -1716,7 +1712,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:45.831994"
+    "analyzed_at": "2026-04-26T07:28:03.544754"
   },
   {
     "video_id": "q15jzjIlHEg",
@@ -1729,6 +1725,45 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-25T07:14:46.027567"
+    "analyzed_at": "2026-04-26T07:28:03.713291"
+  },
+  {
+    "video_id": "2hIl5jc_2F0",
+    "title": "Mercury: Daily Melt & Freeze! \ud83e\udd2f\ud83c\udf21\ufe0f",
+    "published_at": "2026-04-26T01:47:17Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-26T07:28:03.086716"
+  },
+  {
+    "video_id": "Mpj_wgwNfhk",
+    "title": "Uranus: Day or Night for 42 Years?! \ud83e\udd2f\ud83e\ude90",
+    "published_at": "2026-04-25T16:33:33Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-26T07:28:03.250755"
+  },
+  {
+    "video_id": "LW7C6Q2liGs",
+    "title": "Neptune's Insane Supersonic Winds! \ud83d\udca8\ud83e\ude90",
+    "published_at": "2026-04-25T08:43:52Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-26T07:28:03.398335"
   }
 ]
