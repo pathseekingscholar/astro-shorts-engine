@@ -2369,5 +2369,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-26T08:51:34.168541"
+  },
+  {
+    "topic": "Black Hole Event Horizon Scale",
+    "topic_family": "scale_comparison",
+    "hook": "How big is a black hole's 'mouth' compared to our entire Solar System?",
+    "facts": [
+      "Our Solar System, out to Neptune's orbit, spans roughly 9 billion kilometers (5.6 billion miles) across.",
+      "The supermassive black hole in our Milky Way, Sagittarius A*, has an event horizon only about 44 million kilometers (27 million miles) wide.",
+      "But the supermassive black hole in galaxy M87, M87*, has an event horizon spanning a mind-boggling 38 billion kilometers (24 billion miles) across!"
+    ],
+    "payoff": "M87*'s event horizon could swallow our entire Solar System (out to Neptune) over 4 times!",
+    "title": "Black Hole's Mouth vs. Our Solar System! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Astrophysics",
+      "#BlackHole",
+      "#SpaceFacts",
+      "#ScaleComparison",
+      "#Universe"
+    ],
+    "generated_at": "2026-04-26T16:32:54.224555",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-26T16:33:03.613294"
   }
 ]
