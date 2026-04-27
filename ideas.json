@@ -2392,5 +2392,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-26T16:33:03.613294"
+  },
+  {
+    "topic": "Proxima Centauri at Probe Speed",
+    "topic_family": "travel_time",
+    "hook": "How long would it REALLY take humanity to reach the closest star?",
+    "facts": [
+      "Proxima Centauri, our nearest stellar neighbor, is 4.24 light-years away (approx. 40 TRILLION km).",
+      "Humanity's fastest spacecraft, the Parker Solar Probe, can reach speeds up to 690,000 km/h.",
+      "At this incredible speed, it would take you approximately 6,625 years to reach Proxima Centauri."
+    ],
+    "payoff": "Even at our peak technological speed, interstellar travel is an epic, multi-generational odyssey!",
+    "title": "Closest Star: 6,625 Year Trip?! \ud83e\udd2f\ud83d\ude80\ud83c\udf0c",
+    "hashtags": [
+      "SpaceTravel",
+      "ProximaCentauri",
+      "ParkerSolarProbe",
+      "Interstellar",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-27T01:49:18.381993",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-27T01:49:26.782446"
   }
 ]

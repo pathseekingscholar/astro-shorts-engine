@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Proxima Centauri at Probe Speed",
+    "topic_family": "travel_time",
+    "hook": "How long would it REALLY take humanity to reach the closest star?",
+    "facts": [
+      "Proxima Centauri, our nearest stellar neighbor, is 4.24 light-years away (approx. 40 TRILLION km).",
+      "Humanity's fastest spacecraft, the Parker Solar Probe, can reach speeds up to 690,000 km/h.",
+      "At this incredible speed, it would take you approximately 6,625 years to reach Proxima Centauri."
+    ],
+    "payoff": "Even at our peak technological speed, interstellar travel is an epic, multi-generational odyssey!",
+    "title": "Closest Star: 6,625 Year Trip?! \ud83e\udd2f\ud83d\ude80\ud83c\udf0c",
+    "hashtags": [
+      "SpaceTravel",
+      "ProximaCentauri",
+      "ParkerSolarProbe",
+      "Interstellar",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-27T01:49:18.381993",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How long to reach the CLOSEST STAR?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Dark space background with a subtle, faint distant star in the center.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Proxima Centauri: 4.24 Light-Years (40 TRILLION km)",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A stylized Earth in one corner, with an arrow pointing to a distant, slightly larger star (Proxima Centauri) on the opposite side of the screen. Starfield background.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Fastest Ship: Parker Solar Probe @ 690,000 km/h",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A stylized animation of the Parker Solar Probe zipping across the screen, leaving a speed trail. Distant sun in the background.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "At this speed... 6,625 YEARS to Proxima!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A long, stylized timeline stretching across the screen, rapidly filling up with tick marks. A small, stylized probe icon moves slowly along it.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Interstellar Travel: A Multi-Generational Odyssey!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Earth and Proxima Centauri are both visible on screen, immensely far apart. A tiny, almost invisible line representing a probe slowly stretches between them, emphasizing the vast scale and time."
+      }
+    ],
+    "thumbnail_text": "Journey to Proxima Centauri?",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-27T01:49:26.782244",
+  "status": "uploaded",
+  "rendered_at": "2026-04-27T01:50:23.576894",
+  "video_path": "videos_output/proxima_centauri_at_probe_spee_20260427_014927.mp4",
+  "uploaded_at": "2026-04-27T01:50:26.110705",
+  "youtube": {
+    "video_id": "Oyk8Kk9Q6LQ",
+    "url": "https://youtube.com/shorts/Oyk8Kk9Q6LQ",
+    "title": "Closest Star: 6,625 Year Trip?! \ud83e\udd2f\ud83d\ude80\ud83c\udf0c",
+    "uploaded_at": "2026-04-27T01:50:26.110602"
+  }
+}
