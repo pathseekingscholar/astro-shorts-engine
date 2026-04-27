@@ -2434,5 +2434,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-27T10:07:54.961125"
+  },
+  {
+    "topic": "Magnetar Magnetic Fields",
+    "topic_family": "extreme_conditions",
+    "hook": "What's the STRONGEST magnet in the Universe?",
+    "facts": [
+      "Earth's protective magnetic field: ~0.5 Gauss.",
+      "Meet the Magnetar: a dead star with a field of up to 1 Quadrillion Gauss (10^15 G)!",
+      "That's 2,000 TRILLION times stronger than Earth's.",
+      "It could erase your credit card from 100,000 miles away!"
+    ],
+    "payoff": "A force so immense, it could rip matter apart and warp space itself!",
+    "title": "STRONGEST Magnet in the Cosmos! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "magnetar",
+      "magneticfield",
+      "extremeconditions",
+      "astrophysics",
+      "spacefacts"
+    ],
+    "generated_at": "2026-04-27T17:15:54.154158",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-27T17:16:07.308595"
   }
 ]
