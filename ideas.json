@@ -2415,5 +2415,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-27T01:49:26.782446"
+  },
+  {
+    "topic": "Saturn's Density",
+    "topic_family": "planetary_facts",
+    "hook": "Could an entire planet actually float?",
+    "facts": [
+      "Saturn's average density is 0.687 grams per cubic centimeter (g/cm\u00b3).",
+      "Water's density is 1 gram per cubic centimeter (g/cm\u00b3).",
+      "Saturn is a gas giant with 95 times the mass of Earth and a diameter of over 120,000 km."
+    ],
+    "payoff": "If you could find a bathtub big enough, Saturn would majestically float on water!",
+    "title": "Saturn: The Floating Planet! \ud83d\udec1\ud83e\ude90\ud83e\udd2f",
+    "hashtags": [
+      "#Saturn #SpaceFacts #Planets #Density #Science"
+    ],
+    "generated_at": "2026-04-27T10:07:38.822032",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-27T10:07:54.961125"
   }
 ]

@@ -1,0 +1,88 @@
+{
+  "idea": {
+    "topic": "Saturn's Density",
+    "topic_family": "planetary_facts",
+    "hook": "Could an entire planet actually float?",
+    "facts": [
+      "Saturn's average density is 0.687 grams per cubic centimeter (g/cm\u00b3).",
+      "Water's density is 1 gram per cubic centimeter (g/cm\u00b3).",
+      "Saturn is a gas giant with 95 times the mass of Earth and a diameter of over 120,000 km."
+    ],
+    "payoff": "If you could find a bathtub big enough, Saturn would majestically float on water!",
+    "title": "Saturn: The Floating Planet! \ud83d\udec1\ud83e\ude90\ud83e\udd2f",
+    "hashtags": [
+      "#Saturn #SpaceFacts #Planets #Density #Science"
+    ],
+    "generated_at": "2026-04-27T10:07:38.822032",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Could a planet float?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Dark cosmic background with distant stars. A faint, stylized outline of Saturn. A large, glowing question mark appears in the center.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Saturn's density: 0.687 g/cm\u00b3",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "A detailed, slowly rotating Saturn against a deep space background. The density value appears with a subtle digital readout effect.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Water's density: 1 g/cm\u00b3",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "A stylized side-by-side comparison. Left: a clear beaker of blue water. Right: a translucent sphere showing wisps of gas, representing Saturn. Both are labeled with their respective densities, clearly showing Saturn's is lower.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "A gas giant. 95x Earth's mass!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Saturn, with its prominent rings, fills much of the screen. A tiny Earth is seen rapidly shrinking away in the foreground, emphasizing the immense scale difference.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Saturn would majestically float on water!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A serene, vast, deep blue ocean surface under a starry night sky. A perfectly rendered Saturn gently bobs on the water, its rings extending elegantly above the surface."
+      }
+    ],
+    "thumbnail_text": "Saturn Floats?!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-27T10:07:54.960918",
+  "status": "uploaded",
+  "rendered_at": "2026-04-27T10:08:48.151761",
+  "video_path": "videos_output/saturns_density_20260427_100755.mp4",
+  "uploaded_at": "2026-04-27T10:08:50.611569",
+  "youtube": {
+    "video_id": "FGpezIUwI7o",
+    "url": "https://youtube.com/shorts/FGpezIUwI7o",
+    "title": "Saturn: The Floating Planet! \ud83d\udec1\ud83e\ude90\ud83e\udd2f",
+    "uploaded_at": "2026-04-27T10:08:50.611461"
+  }
+}
