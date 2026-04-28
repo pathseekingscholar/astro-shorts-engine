@@ -2458,5 +2458,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-27T17:16:07.308595"
+  },
+  {
+    "topic": "Jupiter's overwhelming mass",
+    "topic_family": "planetary_facts",
+    "hook": "Ever wonder how much 'stuff' is truly in our Solar System?",
+    "facts": [
+      "Our Sun accounts for a staggering 99.8% of the Solar System's total mass.",
+      "Of the remaining 0.2% (planets, moons, asteroids, comets), Jupiter alone holds 71% of that mass.",
+      "This means Jupiter is 2.5 times more massive than all other planets combined, and ~318 times Earth's mass."
+    ],
+    "payoff": "Jupiter isn't just a big planet; it's a colossal, near-star that overwhelmingly dominates almost everything else in our cosmic neighborhood besides the Sun itself.",
+    "title": "Jupiter: Our Solar System's Mass MONSTER! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "Jupiter",
+      "SolarSystem",
+      "SpaceFacts",
+      "Planets",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-28T01:57:58.346752",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-28T01:58:13.862155"
   }
 ]

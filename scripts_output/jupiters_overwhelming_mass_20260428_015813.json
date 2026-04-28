@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Jupiter's overwhelming mass",
+    "topic_family": "planetary_facts",
+    "hook": "Ever wonder how much 'stuff' is truly in our Solar System?",
+    "facts": [
+      "Our Sun accounts for a staggering 99.8% of the Solar System's total mass.",
+      "Of the remaining 0.2% (planets, moons, asteroids, comets), Jupiter alone holds 71% of that mass.",
+      "This means Jupiter is 2.5 times more massive than all other planets combined, and ~318 times Earth's mass."
+    ],
+    "payoff": "Jupiter isn't just a big planet; it's a colossal, near-star that overwhelmingly dominates almost everything else in our cosmic neighborhood besides the Sun itself.",
+    "title": "Jupiter: Our Solar System's Mass MONSTER! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "Jupiter",
+      "SolarSystem",
+      "SpaceFacts",
+      "Planets",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-04-28T01:57:58.346752",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "WHERE IS ALL THE MASS?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A visually striking, dark cosmic background with a scattering of distant stars, slowly zooming out slightly to reveal the vastness.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "THE SUN: 99.8% of Solar System Mass",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A massive, glowing Sun dominates the screen, with tiny, almost imperceptible dots representing planets orbiting at the very edge. A percentage graphic (99.8%) appears over the Sun.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Remaining 0.2%? Jupiter has 71% of THAT.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "The huge Sun quickly fades, replaced by a smaller, dynamic graphic representing the 'remaining 0.2%'. Jupiter then grows significantly within this space, taking up 71% of it, with other planets as much smaller elements.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Jupiter > All other planets (2.5x)\nJupiter = 318x Earth",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A clear visual comparison: A large, detailed Jupiter with a tiny cluster of all other Solar System planets (Saturn, Uranus, Neptune, Earth, Mars, etc.) orbiting around it. Then, a side-by-side comparison of Jupiter next to a minuscule Earth.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Jupiter: Colossal. Near-Star. Dominates ALL!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "An awe-inspiring, full-screen shot of Jupiter, slowly rotating with its iconic stripes and Great Red Spot. It emits a subtle, powerful glow, emphasizing its immense mass and presence, with distant stars in the background."
+      }
+    ],
+    "thumbnail_text": "Jupiter's IMMENSE Mass!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-28T01:58:13.861902",
+  "status": "uploaded",
+  "rendered_at": "2026-04-28T01:59:22.739952",
+  "video_path": "videos_output/jupiters_overwhelming_mass_20260428_015814.mp4",
+  "uploaded_at": "2026-04-28T01:59:26.629154",
+  "youtube": {
+    "video_id": "No9dG5CuCrw",
+    "url": "https://youtube.com/shorts/No9dG5CuCrw",
+    "title": "Jupiter: Our Solar System's Mass MONSTER! \ud83e\udd2f\ud83e\ude90",
+    "uploaded_at": "2026-04-28T01:59:26.629026"
+  }
+}
