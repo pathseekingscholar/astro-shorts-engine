@@ -1589,7 +1589,7 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-27T08:23:22.700157"
+    "analyzed_at": "2026-04-28T08:24:42.189548"
   },
   {
     "video_id": "O6JkK2XsXgU",
@@ -1602,7 +1602,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-27T08:23:22.833060"
+    "analyzed_at": "2026-04-28T08:24:42.315608"
   },
   {
     "video_id": "Ckgouoh9VYk",
@@ -1615,7 +1615,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:22.964495"
+    "analyzed_at": "2026-04-28T08:24:42.447176"
   },
   {
     "video_id": "18XrYHQeJeo",
@@ -1628,7 +1628,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:22.394181"
+    "analyzed_at": "2026-04-28T08:24:41.903808"
   },
   {
     "video_id": "p3eysz2VNxA",
@@ -1643,7 +1643,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.103,
-    "analyzed_at": "2026-04-27T08:23:22.573838"
+    "analyzed_at": "2026-04-28T08:24:42.060610"
   },
   {
     "video_id": "OydTXzomots",
@@ -1656,7 +1656,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:22.142230"
+    "analyzed_at": "2026-04-28T08:24:41.651662"
   },
   {
     "video_id": "vSLUw-4iXio",
@@ -1669,7 +1669,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:22.269523"
+    "analyzed_at": "2026-04-28T08:24:41.783331"
   },
   {
     "video_id": "oRwq1TpxAOY",
@@ -1679,10 +1679,12 @@
     "metrics": {
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:21.879305"
+    "analyzed_at": "2026-04-28T08:24:41.354548"
   },
   {
     "video_id": "5C2DHf1zCl8",
@@ -1692,10 +1694,12 @@
     "metrics": {
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:22.000313"
+    "analyzed_at": "2026-04-28T08:24:41.516457"
   },
   {
     "video_id": "E3nJ2jzQpxo",
@@ -1708,7 +1712,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:21.614155"
+    "analyzed_at": "2026-04-28T08:24:41.075988"
   },
   {
     "video_id": "q15jzjIlHEg",
@@ -1721,7 +1725,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:21.750883"
+    "analyzed_at": "2026-04-28T08:24:41.205420"
   },
   {
     "video_id": "2hIl5jc_2F0",
@@ -1731,10 +1735,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-27T08:23:21.188993"
+    "analyzed_at": "2026-04-28T08:24:40.630386"
   },
   {
     "video_id": "Mpj_wgwNfhk",
@@ -1744,10 +1750,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-27T08:23:21.335680"
+    "analyzed_at": "2026-04-28T08:24:40.778058"
   },
   {
     "video_id": "LW7C6Q2liGs",
@@ -1760,7 +1768,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:21.478663"
+    "analyzed_at": "2026-04-28T08:24:40.944557"
   },
   {
     "video_id": "Oyk8Kk9Q6LQ",
@@ -1773,7 +1781,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-27T08:23:20.773415"
+    "analyzed_at": "2026-04-28T08:24:40.185006"
   },
   {
     "video_id": "PQeUq8d1dcg",
@@ -1786,7 +1794,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-27T08:23:20.904856"
+    "analyzed_at": "2026-04-28T08:24:40.320529"
   },
   {
     "video_id": "F6K00MxOEdo",
@@ -1799,6 +1807,45 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-27T08:23:21.046055"
+    "analyzed_at": "2026-04-28T08:24:40.451467"
+  },
+  {
+    "video_id": "No9dG5CuCrw",
+    "title": "Jupiter: Our Solar System's Mass MONSTER! \ud83e\udd2f\ud83e\ude90",
+    "published_at": "2026-04-28T01:59:47Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-28T08:24:39.778801"
+  },
+  {
+    "video_id": "X-HmggTIAz8",
+    "title": "STRONGEST Magnet in the Cosmos! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-27T17:17:33Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-28T08:24:39.908142"
+  },
+  {
+    "video_id": "FGpezIUwI7o",
+    "title": "Saturn: The Floating Planet! \ud83d\udec1\ud83e\ude90\ud83e\udd2f",
+    "published_at": "2026-04-27T10:09:11Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-28T08:24:40.046349"
   }
 ]
