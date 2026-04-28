@@ -2504,5 +2504,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-28T10:07:03.489367"
+  },
+  {
+    "topic": "Oort Cloud Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Thinking of truly leaving our Solar System?",
+    "facts": [
+      "The Oort Cloud, our solar system's true outer boundary, is about 1 light-year away (9.46 trillion km!).",
+      "Traveling at a car's highway speed (100 km/h), this journey would take you 10,800,000 years.",
+      "Even the Parker Solar Probe, our fastest spacecraft (692,000 km/h), would need ~1,560 years."
+    ],
+    "payoff": "Our cosmic 'backyard' is already an interstellar journey for human lifespans! Space is incomprehensibly vast. \ud83e\udd2f",
+    "title": "Escape Our Solar System?! \ud83e\udd2f\ud83d\ude97\ud83d\ude80\ud83c\udf0c",
+    "hashtags": [
+      "SpaceTravel",
+      "OortCloud",
+      "SolarSystem",
+      "Astrophysics",
+      "ScienceFacts"
+    ],
+    "generated_at": "2026-04-28T17:30:51.697059",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-28T17:31:02.154374"
   }
 ]
