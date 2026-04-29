@@ -2527,5 +2527,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-28T17:31:02.154374"
+  },
+  {
+    "topic": "Universe's Invisible Composition",
+    "topic_family": "general",
+    "hook": "Look up at the night sky. What you see is only a tiny fraction of reality.",
+    "facts": [
+      "All 'normal matter' (stars, planets, gas, YOU) accounts for just 4.9% of the Universe's total mass-energy.",
+      "Mysterious 'Dark Matter' makes up about 26.8%, pulling galaxies together but emitting no light.",
+      "Even more mysterious 'Dark Energy' makes up roughly 68.3%, actively pushing the Universe apart."
+    ],
+    "payoff": "The vast majority (95.1%) of the cosmos is made of substances we cannot see or directly detect!",
+    "title": "The Universe is 95% Invisible! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#DarkMatter",
+      "#DarkEnergy",
+      "#Cosmology",
+      "#SpaceFacts",
+      "#Mystery"
+    ],
+    "generated_at": "2026-04-29T01:59:54.385928",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-29T02:00:16.197118"
   }
 ]
