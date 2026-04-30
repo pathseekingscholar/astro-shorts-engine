@@ -1628,7 +1628,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:03.418772"
+    "analyzed_at": "2026-04-30T08:21:26.899980"
   },
   {
     "video_id": "p3eysz2VNxA",
@@ -1656,7 +1656,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:03.041324"
+    "analyzed_at": "2026-04-30T08:21:26.665173"
   },
   {
     "video_id": "vSLUw-4iXio",
@@ -1669,7 +1669,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:03.229741"
+    "analyzed_at": "2026-04-30T08:21:26.793078"
   },
   {
     "video_id": "oRwq1TpxAOY",
@@ -1682,7 +1682,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:02.691858"
+    "analyzed_at": "2026-04-30T08:21:26.439528"
   },
   {
     "video_id": "5C2DHf1zCl8",
@@ -1695,7 +1695,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:02.861229"
+    "analyzed_at": "2026-04-30T08:21:26.553920"
   },
   {
     "video_id": "E3nJ2jzQpxo",
@@ -1708,7 +1708,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:02.327141"
+    "analyzed_at": "2026-04-30T08:21:26.213090"
   },
   {
     "video_id": "q15jzjIlHEg",
@@ -1721,7 +1721,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:02.509994"
+    "analyzed_at": "2026-04-30T08:21:26.312353"
   },
   {
     "video_id": "2hIl5jc_2F0",
@@ -1736,7 +1736,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-29T08:16:01.795575"
+    "analyzed_at": "2026-04-30T08:21:25.842305"
   },
   {
     "video_id": "Mpj_wgwNfhk",
@@ -1751,7 +1751,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-29T08:16:01.981772"
+    "analyzed_at": "2026-04-30T08:21:25.969260"
   },
   {
     "video_id": "LW7C6Q2liGs",
@@ -1764,7 +1764,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:02.151313"
+    "analyzed_at": "2026-04-30T08:21:26.084260"
   },
   {
     "video_id": "Oyk8Kk9Q6LQ",
@@ -1777,7 +1777,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:01.224936"
+    "analyzed_at": "2026-04-30T08:21:25.460002"
   },
   {
     "video_id": "PQeUq8d1dcg",
@@ -1792,7 +1792,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-29T08:16:01.408066"
+    "analyzed_at": "2026-04-30T08:21:25.584985"
   },
   {
     "video_id": "F6K00MxOEdo",
@@ -1807,7 +1807,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-29T08:16:01.593433"
+    "analyzed_at": "2026-04-30T08:21:25.708268"
   },
   {
     "video_id": "No9dG5CuCrw",
@@ -1820,7 +1820,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:00.707129"
+    "analyzed_at": "2026-04-30T08:21:25.093730"
   },
   {
     "video_id": "X-HmggTIAz8",
@@ -1830,10 +1830,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 5
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-04-29T08:16:00.870883"
+    "performance_score": 0.102,
+    "analyzed_at": "2026-04-30T08:21:25.222794"
   },
   {
     "video_id": "FGpezIUwI7o",
@@ -1846,7 +1848,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:01.039187"
+    "analyzed_at": "2026-04-30T08:21:25.353732"
   },
   {
     "video_id": "JrDiOErmQe0",
@@ -1859,7 +1861,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-29T08:16:00.160634"
+    "analyzed_at": "2026-04-30T08:21:24.732264"
   },
   {
     "video_id": "lcSVw0Kv0wo",
@@ -1872,7 +1874,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:00.343125"
+    "analyzed_at": "2026-04-30T08:21:24.859761"
   },
   {
     "video_id": "KS0NDDv1tcU",
@@ -1885,6 +1887,19 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-29T08:16:00.525326"
+    "analyzed_at": "2026-04-30T08:21:24.986559"
+  },
+  {
+    "video_id": "KyLiIQMfMio",
+    "title": "Moon's Secret Ocean?! \ud83c\udf0a\ud83e\udd2f",
+    "published_at": "2026-04-29T17:20:13Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-30T08:21:24.627874"
   }
 ]
