@@ -2620,5 +2620,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-05-01T09:27:28.318614"
+  },
+  {
+    "topic": "Andromeda Travel Times",
+    "topic_family": "travel_time",
+    "hook": "Can we ever visit Andromeda, our galactic neighbor?",
+    "facts": [
+      "Andromeda is 2.537 million light-years away from Earth.",
+      "If you traveled at light speed (299,792 km/s), it would take 2.537 million years to get there.",
+      "The fastest human-made object (New Horizons, ~59,000 km/h) would need about 46.4 billion years!"
+    ],
+    "payoff": "Intergalactic travel remains a staggering challenge, requiring journeys longer than the universe has existed with current tech!",
+    "title": "Andromeda: Impossible Road Trip?! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Andromeda",
+      "#SpaceTravel",
+      "#Astrophysics",
+      "#LightSpeed",
+      "#Galaxy"
+    ],
+    "generated_at": "2026-05-01T16:49:44.865782",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-05-01T16:49:52.832390"
   }
 ]
