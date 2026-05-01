@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Mars' Grand Canyon",
+    "topic_family": "scale_comparison",
+    "hook": "Earth's Grand Canyon is breathtaking... but Mars has a scar that's truly planetary-sized!",
+    "facts": [
+      "Earth's Grand Canyon is about 446 km long, 29 km wide, and 1.8 km deep.",
+      "Mars' Valles Marineris stretches 4,000 km long (longer than the USA!), 200 km wide, and 7 km deep.",
+      "You could fit almost ten Grand Canyons end-to-end within Valles Marineris' length."
+    ],
+    "payoff": "Valles Marineris is the solar system's largest known canyon, making our earthly marvel seem like a mere crack!",
+    "title": "Mars' Canyon: A Planetary Scar! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "Mars",
+      "VallesMarineris",
+      "GrandCanyon",
+      "SpaceComparison",
+      "Planets"
+    ],
+    "generated_at": "2026-05-01T02:00:55.701101",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Earth's Grand Canyon: Breathtaking!",
+        "text_position": "top",
+        "text_size": "large",
+        "visual": "Stunning aerial view of Earth's Grand Canyon, vibrant colors, bathed in sunlight.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "446 km long, 29 km wide, 1.8 km deep.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animated infographic overlaying Earth's Grand Canyon, clearly showing dimension lines and labels appearing.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Mars' Valles Marineris: A True Planetary Scar!",
+        "text_position": "top",
+        "text_size": "large",
+        "visual": "Seamless transition from Earth to a dramatic, wide shot of Mars. Then, slowly zoom into the Valles Marineris region, revealing its vastness.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "4,000 km long, 200 km wide, 7 km deep! (Fit 10 Earth GCs!)",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animated infographic comparing Earth's Grand Canyon (small, fading to background) with Valles Marineris (massive, foreground), displaying Mars' dimensions. Ten small, stylized Grand Canyon icons animate into place, demonstrating they fit within Valles Marineris' length.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "The Solar System's LARGEST Canyon!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Epic, high-resolution animated fly-through of Valles Marineris, revealing its immense scale and depth. Then, zoom out slightly to show Mars rotating slowly with the canyon prominently visible on its surface."
+      }
+    ],
+    "thumbnail_text": "Mars' Canyon: Earth-Shattering Scale!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-05-01T02:01:10.993404",
+  "status": "uploaded",
+  "rendered_at": "2026-05-01T02:02:48.850603",
+  "video_path": "videos_output/mars_grand_canyon_20260501_020111.mp4",
+  "uploaded_at": "2026-05-01T02:02:51.461783",
+  "youtube": {
+    "video_id": "phRDJek9yL0",
+    "url": "https://youtube.com/shorts/phRDJek9yL0",
+    "title": "Mars' Canyon: A Planetary Scar! \ud83e\udd2f\ud83e\ude90",
+    "uploaded_at": "2026-05-01T02:02:51.461647"
+  }
+}
