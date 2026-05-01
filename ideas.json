@@ -2597,5 +2597,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-05-01T02:01:10.993605"
+  },
+  {
+    "topic": "Interstellar Travel to Proxima Centauri b",
+    "topic_family": "travel_time",
+    "hook": "Dream of visiting an alien world like Proxima Centauri b?",
+    "facts": [
+      "Proxima Centauri b is our closest known exoplanet, just 4.24 light-years away.",
+      "If you could travel at light speed (299,792 km/s), the trip would take ~4.24 years.",
+      "Our fastest spacecraft, Voyager 1, travels at ~17 km/s. At this speed, the journey would take a staggering ~74,400 years!"
+    ],
+    "payoff": "Interstellar travel means waiting for generations... or revolutionary propulsion!",
+    "title": "Proxima b: How Long To Get There? \u23f3\ud83d\udc7d",
+    "hashtags": [
+      "#ProximaCentauri",
+      "#Exoplanet",
+      "#SpaceTravel",
+      "#Astrophysics",
+      "#LightYears"
+    ],
+    "generated_at": "2026-05-01T09:27:19.118503",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-05-01T09:27:28.318614"
   }
 ]
