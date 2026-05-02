@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "runs": [
+    {
+      "at": "2026-05-02T20:51:35.408Z",
+      "jobId": "cByssct1Ci",
+      "nasaId": "GSFC_20120307_SDO_m10925_Flare",
+      "title": "HD Close up of March 6th X5.4 Flare",
+      "center": "GSFC",
+      "topicFamily": "sun",
+      "plannedDurationSeconds": 32,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/cByssct1Ci.mp4"
+    }
+  ],
+  "feedback": []
+}

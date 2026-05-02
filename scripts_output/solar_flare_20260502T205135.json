@@ -1,0 +1,109 @@
+{
+  "idea": {
+    "topic": "solar flare",
+    "topic_family": "sun",
+    "hook": "What is this solar flare footage showing?",
+    "facts": [
+      "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+      "Solar observatories like SDO, SOHO, and STEREO watch active regions from different viewpoints."
+    ],
+    "payoff": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "title": "What is this solar flare footage showing?",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-02T20:51:35.408Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 32,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 32,
+        "text": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "HD Close up of March 6th X5.4 Flare",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What is this solar flare footage showing?"
+  },
+  "upload": {
+    "title": "What is this solar flare footage showing?",
+    "description": "Teach what real solar footage is showing without over-narrating it.\n\nA solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.\n\nSource material: NASA public media and science pages.\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#space #nasa #science #shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "cByssct1Ci",
+    "arm_id": "solar-flare",
+    "source_title": "HD Close up of March 6th X5.4 Flare",
+    "source_nasa_id": "GSFC_20120307_SDO_m10925_Flare",
+    "source_url": "https://images.nasa.gov/details/GSFC_20120307_SDO_m10925_Flare",
+    "source_media_url": "https://images-assets.nasa.gov/video/GSFC_20120307_SDO_m10925_Flare/GSFC_20120307_SDO_m10925_Flare~large.mp4",
+    "planned_duration_seconds": 32,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "solar-observatory",
+      "userLengthInput": 30,
+      "selectedSeconds": 32,
+      "reason": "Duration follows the clip type (solar-observatory), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "HD Close up of March 6th X5.4 Flare",
+          "sourceDuration": 79.3,
+          "plannedBeforeCompletion": 32,
+          "finalDuration": 32,
+          "reason": "Kept content-aware duration; no transcript boundary extension was available."
+        }
+      ]
+    },
+    "what_it_is_card": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "quality_checks": [
+      {
+        "title": "HD Close up of March 6th X5.4 Flare",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts. What should this lesson explain next?",
+      "replyTemplates": [
+        "The bright flash is not fire in the normal sense; it is radiation from magnetic energy erupting in the Sun's atmosphere.",
+        "Solar footage gets weird because spacecraft are often viewing the Sun in wavelengths our eyes cannot normally see."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-02T20:51:35.408Z",
+  "rendered_at": "2026-05-02T20:51:35.412Z",
+  "video_path": "videos_output/cByssct1Ci.mp4",
+  "status": "uploaded",
+  "uploaded_at": "2026-05-02T20:51:44.873838",
+  "youtube": {
+    "video_id": "0lkUgZgSU_s",
+    "url": "https://youtube.com/shorts/0lkUgZgSU_s",
+    "title": "What is this solar flare footage showing? #Shorts",
+    "uploaded_at": "2026-05-02T20:51:44.873667"
+  }
+}
