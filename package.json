@@ -1,0 +1,20 @@
+{
+  "name": "astro-shorts-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Autonomous learning-short engine that discovers NASA footage, renders one-idea Shorts, and hands them to the YouTube uploader.",
+  "scripts": {
+    "auto:draft": "node src/automation/run-learning-loop.mjs",
+    "auto:github": "node src/automation/run-github-learning-short.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0",
+    "ffprobe-static": "^3.1.0",
+    "nanoid": "^5.1.5",
+    "sharp": "^0.34.1"
+  }
+}

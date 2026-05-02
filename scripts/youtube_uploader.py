@@ -26,6 +26,7 @@ YOUTUBE_API_VERSION = "v3"
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
 DEFAULT_CATEGORY_ID = "28"
 DEFAULT_PRIVACY = "public"
+ALLOWED_PRIVACY_STATUSES = {"public", "unlisted", "private"}
 
 
 def get_authenticated_service():
@@ -140,6 +141,14 @@ def upload_video(service, video_path, title, description, tags, category_id=DEFA
         return None
 
 
+def get_privacy_status():
+    value = os.environ.get("YOUTUBE_PRIVACY_STATUS", DEFAULT_PRIVACY).strip().lower()
+    if value not in ALLOWED_PRIVACY_STATUSES:
+        print(f"Invalid YOUTUBE_PRIVACY_STATUS '{value}', using {DEFAULT_PRIVACY}")
+        return DEFAULT_PRIVACY
+    return value
+
+
 def get_upload_candidates(scripts_dir="scripts_output"):
     """Use script files as the source of truth for what should be uploaded next."""
     if not os.path.exists(scripts_dir):
@@ -176,6 +185,34 @@ def get_upload_candidates(scripts_dir="scripts_output"):
 
     candidates.sort(key=lambda item: item.get("rendered_at", ""), reverse=True)
     return candidates
+
+
+def get_upload_metadata(script_data):
+    upload = script_data.get("upload") or {}
+    if upload.get("title") and upload.get("description"):
+        title = upload["title"]
+        description = upload["description"]
+        tags = upload.get("tags") or ["space", "nasa", "science", "astrophysics", "shorts"]
+        return title, description, tags
+
+    idea = script_data.get("idea", {})
+    title = idea.get("title", "Astrophysics Short")
+    hashtags = idea.get("hashtags", ["#Space", "#Astrophysics", "#Science"])
+    hook = idea.get("hook", "")
+    payoff = idea.get("payoff", "")
+
+    description = f"""{hook}
+
+{payoff}
+
+{' '.join(hashtags)}
+
+#Shorts #Space #Astrophysics #Science #SpaceFacts
+"""
+
+    tags = [tag.replace("#", "") for tag in hashtags]
+    tags.extend(["Shorts", "Space", "Astrophysics", "Science", "SpaceFacts", "Astronomy"])
+    return title, description, tags
 
 
 def update_script_status(filepath, new_status, upload_info=None):
@@ -221,26 +258,12 @@ def main():
     print(f"Selected for upload: {os.path.basename(video_path)}")
     print("-" * 60)
 
-    idea = script_data.get("idea", {})
-    title = idea.get("title", "Astrophysics Short")
-    hashtags = idea.get("hashtags", ["#Space", "#Astrophysics", "#Science"])
-    hook = idea.get("hook", "")
-    payoff = idea.get("payoff", "")
-
-    description = f"""{hook}
-
-{payoff}
-
-{' '.join(hashtags)}
-
-#Shorts #Space #Astrophysics #Science #SpaceFacts
-"""
-
-    tags = [tag.replace("#", "") for tag in hashtags]
-    tags.extend(["Shorts", "Space", "Astrophysics", "Science", "SpaceFacts", "Astronomy"])
+    title, description, tags = get_upload_metadata(script_data)
+    privacy = get_privacy_status()
 
     print(f"Title: {title}")
     print(f"Tags: {', '.join(tags[:5])}...")
+    print(f"Privacy: {privacy}")
     print()
 
     result = upload_video(
@@ -249,7 +272,7 @@ def main():
         title,
         description,
         tags,
-        privacy="public",
+        privacy=privacy,
     )
 
     if result:

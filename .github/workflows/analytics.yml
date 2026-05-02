@@ -1,40 +1,46 @@
 name: Analytics & Learning
 
 on:
-  # Run daily at 6 AM UTC
   schedule:
     - cron: '0 6 * * *'
-  
-  # Allow manual trigger
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: astro-shorts-repo-writes
+  cancel-in-progress: false
 
 jobs:
   analyze:
     runs-on: ubuntu-latest
-    
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install google-auth google-auth-oauthlib google-api-python-client
-      
+
       - name: Run analytics agent
         env:
           YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
         run: python scripts/analytics_agent.py
-      
+
       - name: Save analytics data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "📊 Updated analytics data" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated analytics data" && git pull --rebase origin main && git push)
