@@ -2666,5 +2666,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-05-02T01:49:54.173211"
+  },
+  {
+    "topic": "Coldest Natural Place",
+    "topic_family": "extreme_conditions",
+    "hook": "What's the COLDEST natural place in the ENTIRE Universe?",
+    "facts": [
+      "It's not empty deep space, but the Boomerang Nebula, 5,000 light-years away.",
+      "Its temperature is just 1 Kelvin (-272\u00b0C / -458\u00b0F), incredibly close to absolute zero!",
+      "This makes it even colder than the Cosmic Microwave Background (2.7 Kelvin), the lingering heat from the Big Bang itself!"
+    ],
+    "payoff": "A dying star's rapidly expanding gas has created the universe's ultimate, natural deep-freeze!",
+    "title": "Universe's COOLEST Spot?! \ud83e\udd76\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceFacts",
+      "#Astrophysics",
+      "#ExtremeCold",
+      "#Nebula",
+      "#CosmicFacts"
+    ],
+    "generated_at": "2026-05-02T08:58:43.275656",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-05-02T08:58:52.196125"
   }
 ]
