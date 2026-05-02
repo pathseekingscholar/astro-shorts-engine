@@ -2689,5 +2689,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-05-02T08:58:52.196125"
+  },
+  {
+    "topic": "Galactic Cannibalism",
+    "topic_family": "general",
+    "hook": "Our Milky Way: A Galactic Cannibal?!",
+    "facts": [
+      "Galaxies aren't static; they frequently merge and 'absorb' smaller galaxies.",
+      "Our own Milky Way is actively absorbing the Sagittarius Dwarf Spheroidal Galaxy right now, stripping its stars and gas.",
+      "Astronomers have identified remnants of at least 5 other dwarf galaxies previously consumed by the Milky Way."
+    ],
+    "payoff": "The Milky Way grows by devouring its neighbors \u2013 a cosmic feast spanning billions of years!",
+    "title": "Milky Way: A Cosmic Cannibal?! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#MilkyWay",
+      "#Galaxy",
+      "#CosmicFacts",
+      "#Astrophysics",
+      "#SpaceExploration"
+    ],
+    "generated_at": "2026-05-02T16:38:15.254015",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-05-02T16:38:22.107998"
   }
 ]

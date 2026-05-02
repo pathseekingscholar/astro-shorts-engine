@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Galactic Cannibalism",
+    "topic_family": "general",
+    "hook": "Our Milky Way: A Galactic Cannibal?!",
+    "facts": [
+      "Galaxies aren't static; they frequently merge and 'absorb' smaller galaxies.",
+      "Our own Milky Way is actively absorbing the Sagittarius Dwarf Spheroidal Galaxy right now, stripping its stars and gas.",
+      "Astronomers have identified remnants of at least 5 other dwarf galaxies previously consumed by the Milky Way."
+    ],
+    "payoff": "The Milky Way grows by devouring its neighbors \u2013 a cosmic feast spanning billions of years!",
+    "title": "Milky Way: A Cosmic Cannibal?! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#MilkyWay",
+      "#Galaxy",
+      "#CosmicFacts",
+      "#Astrophysics",
+      "#SpaceExploration"
+    ],
+    "generated_at": "2026-05-02T16:38:15.254015",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Our Milky Way: A Galactic Cannibal?!",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A vibrant, rotating Milky Way galaxy, with a smaller, faint galaxy subtly approaching from the side.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Galaxies frequently merge & 'absorb' smaller ones.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A larger spiral galaxy visually pulling streams of stars and gas from a distorted dwarf galaxy.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "The Milky Way is absorbing the Sagittarius Dwarf Spheroidal Galaxy right now!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An illustration of the Milky Way, with a clear stream of stars and gas visibly being stripped from the Sagittarius Dwarf Spheroidal Galaxy.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Remnants of at least 5 other dwarf galaxies previously consumed are still visible.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A detailed map or artistic rendering of the Milky Way's halo, highlighting faint, wispy trails and star clusters that are remnants of past absorptions.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "The Milky Way grows by devouring its neighbors \u2013 a cosmic feast spanning billions of years!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A grand, slightly enhanced view of the Milky Way, slowly rotating and subtly growing in luminosity, representing its ongoing 'feast' and growth."
+      }
+    ],
+    "thumbnail_text": "Milky Way: Galactic Cannibal!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-05-02T16:38:22.107789",
+  "status": "uploaded",
+  "rendered_at": "2026-05-02T16:39:24.989531",
+  "video_path": "videos_output/galactic_cannibalism_20260502_163822.mp4",
+  "uploaded_at": "2026-05-02T16:39:29.482293",
+  "youtube": {
+    "video_id": "eRZDaHTK6Po",
+    "url": "https://youtube.com/shorts/eRZDaHTK6Po",
+    "title": "Milky Way: A Cosmic Cannibal?! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-05-02T16:39:29.482168"
+  }
+}
