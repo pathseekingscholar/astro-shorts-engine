@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-01T08:10:52.756574",
+  "generated_at": "2026-05-02T07:43:24.290678",
   "top_performing_topics": [
     {
       "topic": "travel_time",
-      "avg_score": 0.464,
-      "videos_count": 32
+      "avg_score": 0.425,
+      "videos_count": 35
     },
     {
       "topic": "general",
@@ -35,7 +35,7 @@
     "planetary_facts"
   ],
   "insights": [
-    "'travel_time' is your best performing format (score: 0.464)",
-    "Analyzed 138 videos across 6 topic types"
+    "'travel_time' is your best performing format (score: 0.425)",
+    "Analyzed 141 videos across 6 topic types"
   ]
 }
