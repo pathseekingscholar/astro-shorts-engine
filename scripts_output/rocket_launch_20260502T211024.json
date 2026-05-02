@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "rocket launch",
+    "topic_family": "rocket",
+    "hook": "What is this rocket launch footage showing?",
+    "facts": [
+      "Launch footage often feels more intense because the natural mission audio already carries the story.",
+      "Rocket clips are ideal for retention hooks because ignition, staging, and crowd reaction create built-in beats."
+    ],
+    "payoff": "Launch footage often feels more intense because the natural mission audio already carries the story.",
+    "title": "What is this rocket launch footage showing?",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-02T21:10:24.415Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 62,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 62,
+        "text": "Launch footage often feels more intense because the natural mission audio already carries the story.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "NASA, Northrop Grumman Test Fire SLS BOLE Booster",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What is this rocket launch footage showing?"
+  },
+  "upload": {
+    "title": "What is this rocket launch footage showing?",
+    "description": "Explain why real launch footage feels intense even before anything dramatic happens.\n\nLaunch footage often feels more intense because the natural mission audio already carries the story.\n\nSource material: NASA public media and science pages.\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#space #nasa #science #shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "ZHR6y-lnyM",
+    "arm_id": "rocket-audio",
+    "source_title": "NASA, Northrop Grumman Test Fire SLS BOLE Booster",
+    "source_nasa_id": "2_minutes_of_dm-1_test_feed (1080p)",
+    "source_url": "https://images.nasa.gov/details/2_minutes_of_dm-1_test_feed (1080p)",
+    "source_media_url": "https://images-assets.nasa.gov/video/2_minutes_of_dm-1_test_feed (1080p)/2_minutes_of_dm-1_test_feed (1080p)~large.mp4",
+    "planned_duration_seconds": 62,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "launch",
+      "userLengthInput": 30,
+      "selectedSeconds": 62,
+      "reason": "Duration follows the clip type (launch), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "NASA, Northrop Grumman Test Fire SLS BOLE Booster",
+          "sourceDuration": 179.466992,
+          "plannedBeforeCompletion": 30,
+          "finalDuration": 62,
+          "reason": "Extended from 30s to 62s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "Launch footage often feels more intense because the natural mission audio already carries the story.",
+    "quality_checks": [
+      {
+        "title": "NASA, Northrop Grumman Test Fire SLS BOLE Booster",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "Launch footage often feels more intense because the natural mission audio already carries the story. What should this lesson explain next?",
+      "replyTemplates": [
+        "Launch content is powerful because the real sound design is already there: countdown, ignition, staging, and reaction.",
+        "A lot of viewers think the visuals do the work, but in launch clips the audio is half the emotion."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-02T21:10:24.415Z",
+  "rendered_at": "2026-05-02T21:10:24.418Z",
+  "video_path": "videos_output/ZHR6y-lnyM.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Manual force enabled, bypassing adaptive timing gate.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-02",
+      "localWeekday": "Sat",
+      "localHour": 17,
+      "postsToday": 2,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 11,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 0.29,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-02T21:10:32.967115",
+  "youtube": {
+    "video_id": "bFoFcESFvp0",
+    "url": "https://youtube.com/shorts/bFoFcESFvp0",
+    "title": "What is this rocket launch footage showing? #Shorts",
+    "uploaded_at": "2026-05-02T21:10:32.966987"
+  }
+}

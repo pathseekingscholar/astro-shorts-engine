@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-02T21:10:24.415Z",
+      "jobId": "ZHR6y-lnyM",
+      "nasaId": "2_minutes_of_dm-1_test_feed (1080p)",
+      "title": "NASA, Northrop Grumman Test Fire SLS BOLE Booster",
+      "center": "MSFC",
+      "topicFamily": "rocket",
+      "plannedDurationSeconds": 62,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/ZHR6y-lnyM.mp4"
+    },
+    {
       "at": "2026-05-02T20:51:35.408Z",
       "jobId": "cByssct1Ci",
       "nasaId": "GSFC_20120307_SDO_m10925_Flare",
