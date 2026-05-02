@@ -2,9 +2,13 @@ name: Generate Learning Short
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
     inputs:
+      force:
+        description: 'Bypass adaptive timing gate for this manual run'
+        type: boolean
+        default: true
       upload:
         description: 'Upload to YouTube after rendering'
         type: boolean
@@ -45,20 +49,26 @@ jobs:
         run: npm ci
 
       - name: Generate learning short
+        id: generate
+        env:
+          ADAPTIVE_TIMEZONE: America/New_York
+          FORCE_GENERATE: ${{ github.event_name == 'workflow_dispatch' && inputs.force || 'false' }}
         run: npm run auto:github
 
       - name: Set up Python
+        if: ${{ steps.generate.outputs.generated == 'true' }}
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install Python upload dependencies
+        if: ${{ steps.generate.outputs.generated == 'true' }}
         run: |
           pip install --upgrade pip
           pip install google-auth google-auth-oauthlib google-api-python-client
 
       - name: Upload to YouTube
-        if: ${{ github.event_name != 'workflow_dispatch' || inputs.upload == true }}
+        if: ${{ steps.generate.outputs.generated == 'true' && (github.event_name != 'workflow_dispatch' || inputs.upload == true) }}
         env:
           YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
@@ -66,6 +76,7 @@ jobs:
         run: python scripts/youtube_uploader.py
 
       - name: Save to repository
+        if: ${{ steps.generate.outputs.generated == 'true' }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -73,6 +84,7 @@ jobs:
           git diff --quiet && git diff --staged --quiet || (git commit -m "Generated learning Short" && git pull --rebase origin main && git push)
 
       - name: Upload video artifact
+        if: ${{ steps.generate.outputs.generated == 'true' }}
         uses: actions/upload-artifact@v4
         with:
           name: rendered-video

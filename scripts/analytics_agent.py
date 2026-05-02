@@ -195,7 +195,7 @@ def get_video_analytics(youtube_analytics, channel_id, video_id, days=7):
             ids=f'channel=={channel_id}',
             startDate=start_date,
             endDate=end_date,
-            metrics='views,estimatedMinutesWatched,averageViewDuration,likes,comments',
+            metrics='views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,likes,comments',
             dimensions='video',
             filters=f'video=={video_id}'
         ).execute()
@@ -206,12 +206,35 @@ def get_video_analytics(youtube_analytics, channel_id, video_id, days=7):
                 'views': row[1],
                 'watch_time_minutes': row[2],
                 'avg_view_duration_seconds': row[3],
-                'likes': row[4],
-                'comments': row[5]
+                'average_view_percentage': row[4],
+                'likes': row[5],
+                'comments': row[6]
             }
         return None
         
     except Exception as e:
+        try:
+            response = youtube_analytics.reports().query(
+                ids=f'channel=={channel_id}',
+                startDate=start_date,
+                endDate=end_date,
+                metrics='views,estimatedMinutesWatched,averageViewDuration,likes,comments',
+                dimensions='video',
+                filters=f'video=={video_id}'
+            ).execute()
+
+            if response.get('rows'):
+                row = response['rows'][0]
+                return {
+                    'views': row[1],
+                    'watch_time_minutes': row[2],
+                    'avg_view_duration_seconds': row[3],
+                    'likes': row[4],
+                    'comments': row[5]
+                }
+            return None
+        except Exception:
+            pass
         print(f"⚠️ Analytics not available for {video_id}: {e}")
         return None
 

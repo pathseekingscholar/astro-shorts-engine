@@ -421,7 +421,7 @@ function audioChainForClip(clip, index, duration) {
   const fadeOutStart = Math.max(0, duration - 0.22).toFixed(2);
 
   if (clip.hasAudio) {
-    return `[${index}:a]atrim=duration=${duration},asetpts=PTS-STARTPTS,volume=${index === 2 ? 1.08 : 1},afade=t=in:st=0:d=0.12,afade=t=out:st=${fadeOutStart}:d=0.22[a${index}]`;
+    return `[${index}:a]atrim=duration=${duration},asetpts=PTS-STARTPTS,volume=1,afade=t=in:st=0:d=0.12,afade=t=out:st=${fadeOutStart}:d=0.22[a${index}]`;
   }
 
   return `anullsrc=channel_layout=stereo:sample_rate=48000,atrim=duration=${duration}[a${index}]`;
@@ -579,7 +579,10 @@ export async function renderVideo({ jobId, jobDir, outputDir, plan, logger = () 
         clip.orientation === "vertical"
           ? "native vertical crop"
           : "blurred 9:16 canvas with original frame centered",
-      audioTreatment: clip.hasAudio ? "short fade-in and fade-out applied" : "silent bed generated"
+      audioTreatment: clip.hasAudio ? "short fade-in and fade-out applied" : "technical silence only because source had no audio",
+      audioPolicy: clip.hasAudio
+        ? "original NASA source audio only; no background music added"
+        : "source had no audio, so only technical silence was added; no background music added"
     }))
   };
 }
@@ -661,7 +664,10 @@ export async function renderDocumentaryVideo({ jobId, jobDir, outputDir, plan, l
         clip.orientation === "vertical"
           ? "blurred 16:9 documentary canvas with original frame centered"
           : "native 16:9 documentary crop",
-      audioTreatment: clip.hasAudio ? "loop-safe chapter audio with short fades" : "silent bed generated"
+      audioTreatment: clip.hasAudio ? "loop-safe chapter audio with short fades" : "technical silence only because source had no audio",
+      audioPolicy: clip.hasAudio
+        ? "original NASA source audio only; no background music added"
+        : "source had no audio, so only technical silence was added; no background music added"
     }))
   };
 }

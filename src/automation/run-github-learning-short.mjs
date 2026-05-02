@@ -3,6 +3,7 @@ import path from "node:path";
 import { paths } from "../config.mjs";
 import { runPipeline } from "../engine/orchestrator.mjs";
 import { buildUploadDraft, chooseNextBrief } from "./growth-policy.mjs";
+import { evaluatePostingDecision } from "./posting-policy.mjs";
 
 const DEFAULT_HASHTAGS = ["#Space", "#NASA", "#Science", "#Astrophysics", "#Shorts"];
 
@@ -79,9 +80,31 @@ function buildLegacyScriptRecord(result, brief, uploadDraft) {
   };
 }
 
+async function writeGithubOutput(values) {
+  const outputFile = process.env.GITHUB_OUTPUT;
+  if (!outputFile) {
+    return;
+  }
+
+  const lines = Object.entries(values).map(([key, value]) => `${key}=${String(value).replace(/\r?\n/g, " ")}`);
+  await fs.appendFile(outputFile, `${lines.join("\n")}\n`);
+}
+
 async function main() {
   await fs.mkdir(paths.jobsDir, { recursive: true });
   await fs.mkdir(paths.outputDir, { recursive: true });
+
+  const decision = await evaluatePostingDecision();
+  console.log(`[adaptive] ${decision.shouldPost ? "POST" : "SKIP"}: ${decision.reason}`);
+  console.log(`[adaptive] ${JSON.stringify(decision.context, null, 2)}`);
+
+  if (!decision.shouldPost) {
+    await writeGithubOutput({
+      generated: "false",
+      decision: decision.reason
+    });
+    return;
+  }
 
   const brief = await chooseNextBrief();
   const logs = [];
@@ -99,6 +122,7 @@ async function main() {
   const timestamp = new Date().toISOString().replace(/[-:]/g, "").replace(/\..+$/, "");
   const scriptPath = path.join(scriptsDir, `${slugify(brief.topic)}_${timestamp}.json`);
   const scriptRecord = buildLegacyScriptRecord(result, brief, uploadDraft);
+  scriptRecord.posting_decision = decision;
 
   await fs.writeFile(scriptPath, JSON.stringify(scriptRecord, null, 2));
 
@@ -122,6 +146,13 @@ async function main() {
   console.log(`Learning short video: ${toRepoPath(result.outputs.videoFile)}`);
   console.log(`Uploader handoff: ${toRepoPath(scriptPath)}`);
   console.log("Status: rendered; ready for the existing YouTube uploader.");
+
+  await writeGithubOutput({
+    generated: "true",
+    video_path: toRepoPath(result.outputs.videoFile),
+    script_path: toRepoPath(scriptPath),
+    decision: decision.reason
+  });
 }
 
 main().catch((error) => {

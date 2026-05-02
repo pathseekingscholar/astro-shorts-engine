@@ -57,6 +57,7 @@ FPS = 30
 # Audio settings
 AUDIO_DIR = "assets/audio"
 MUSIC_VOLUME = 0.30
+ALLOW_BACKGROUND_MUSIC = os.environ.get("ALLOW_BACKGROUND_MUSIC", "false").lower() in ("1", "true", "yes")
 
 # Transition / motion tuning
 SCENE_CROSSFADE = 0.35
@@ -94,6 +95,10 @@ def get_available_music():
 
 def select_random_music():
     """Randomly select a music track."""
+    if not ALLOW_BACKGROUND_MUSIC:
+        print("Background music disabled; preserving source/original audio only.")
+        return None
+
     music_files = get_available_music()
 
     if not music_files:
