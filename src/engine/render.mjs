@@ -305,7 +305,7 @@ function renderOverlayCard({ x, y, width, label, lines, fontSize, lineHeight, fi
 
 async function createLearningOverlayAssets(jobDir, plan) {
   const overlayFile = path.join(jobDir, "learning-overlay.png");
-  const descriptionText = `${plan.script.setupLine} ${plan.script.factLine}`;
+  const descriptionText = plan.script.whatItIsLine || plan.script.factLine;
   let fontSize = 28;
   let lineHeight = 35;
   let descriptionLines = wrapText(descriptionText, 32);

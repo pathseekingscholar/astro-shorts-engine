@@ -130,17 +130,17 @@ const FACT_BANK = [
     keywords: ["rocket", "launch", "engine", "booster", "countdown", "artemis"],
     facts: [
       {
-        text: "Launch footage often feels more intense because the natural mission audio already carries the story.",
+        text: "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.",
         source: "https://www.nasa.gov/mission/artemis/"
       },
       {
-        text: "Rocket clips are ideal for retention hooks because ignition, staging, and crowd reaction create built-in beats.",
+        text: "Countdown calls, engine events, and holds are real mission steps, not added drama.",
         source: "https://www.nasa.gov/video/"
       }
     ],
     replyTemplates: [
-      "Launch content is powerful because the real sound design is already there: countdown, ignition, staging, and reaction.",
-      "A lot of viewers think the visuals do the work, but in launch clips the audio is half the emotion."
+      "The calls you hear in launch footage usually mark real checks across ground systems, vehicle systems, and mission control.",
+      "The tension is real because everything is being sequenced before the rocket is allowed to leave the pad."
     ]
   }
 ];

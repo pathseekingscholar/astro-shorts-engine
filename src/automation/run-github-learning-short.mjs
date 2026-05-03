@@ -45,7 +45,7 @@ function buildLegacyScriptRecord(result, brief, uploadDraft) {
           scene_number: 1,
           start_time: 0,
           duration: result.plan.plannedDurationSeconds,
-          text: result.plan.script.factLine,
+          text: result.plan.script.whatItIsLine || result.plan.script.factLine,
           text_position: "bottom",
           text_size: "medium",
           visual: candidate.title || "Real NASA source footage",

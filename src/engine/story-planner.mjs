@@ -38,6 +38,79 @@ function getLearningQuestion(brief) {
   );
 }
 
+function contentBucket(brief, candidate, factPack) {
+  const text = contentText(brief, candidate);
+  if (factPack?.topicBucket) {
+    return factPack.topicBucket;
+  }
+  if (textHasTerm(text, "launch") || textHasTerm(text, "rocket") || textHasTerm(text, "booster")) {
+    return "rocket";
+  }
+  if (textHasTerm(text, "solar") || textHasTerm(text, "flare") || textHasTerm(text, "sun")) {
+    return "sun";
+  }
+  if (textHasTerm(text, "spacewalk") || textHasTerm(text, "iss") || textHasTerm(text, "astronaut")) {
+    return "iss";
+  }
+  if (textHasTerm(text, "mars") || textHasTerm(text, "rover")) {
+    return "mars";
+  }
+  if (textHasTerm(text, "asteroid") || textHasTerm(text, "bennu") || textHasTerm(text, "sample")) {
+    return "asteroid";
+  }
+  if (textHasTerm(text, "webb") || textHasTerm(text, "jwst")) {
+    return "jwst";
+  }
+  if (textHasTerm(text, "hubble") || textHasTerm(text, "galaxy") || textHasTerm(text, "nebula")) {
+    return "hubble";
+  }
+  return "space";
+}
+
+function buildWhatItIsLine(brief, candidate, factPack) {
+  const bucket = contentBucket(brief, candidate, factPack);
+
+  const lines = {
+    rocket:
+      "This is real launch-system footage. The tension comes from countdowns, engine hardware, and mission audio building before liftoff.",
+    iss:
+      "This is real human-spaceflight footage from orbit, where slow-looking motion is happening inside a spacecraft moving around Earth at extreme speed.",
+    sun:
+      "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.",
+    mars:
+      "This is real Mars mission footage, showing terrain shaped by dust, rock, ancient water, and an atmosphere far thinner than Earth's.",
+    asteroid:
+      "This is real sample-return mission footage, showing the spacecraft work behind bringing ancient asteroid material back to Earth.",
+    jwst:
+      "This is real telescope imagery translated from infrared light, so dust, gas, and young stars can be seen more clearly.",
+    hubble:
+      "This is real space-telescope imagery, where color and motion help turn distant light into something we can understand.",
+    moon:
+      "This is real lunar mission footage, where harsh sunlight, dust, and low gravity make motion look unlike anything on Earth.",
+    space:
+      "This is real NASA source footage, and the important detail is what the clip reveals about the mission rather than just how dramatic it looks."
+  };
+
+  return lines[bucket] || lines.space;
+}
+
+function buildBetterTitle(brief, candidate, factPack) {
+  const bucket = contentBucket(brief, candidate, factPack);
+  const titles = {
+    rocket: "Why Real Launch Footage Feels So Tense",
+    iss: "The Hidden Speed in This Space Footage",
+    sun: "What This Solar Flare Footage Is Showing",
+    mars: "What Real Mars Rover Footage Reveals",
+    asteroid: "Why This Asteroid Sample Mission Matters",
+    jwst: "What Webb Is Really Seeing Here",
+    hubble: "What This Deep-Space Image Is Really Showing",
+    moon: "Why Lunar Footage Looks So Unusual",
+    space: sentenceCase(brief.hook || getLearningQuestion(brief))
+  };
+
+  return titles[bucket] || titles.space;
+}
+
 function countWords(value) {
   return String(value || "")
     .trim()
@@ -126,7 +199,7 @@ function getContentDurationRule(brief, candidate) {
 
 function resolveLearningDuration(brief, script, candidate) {
   const target = brief.shortDurationSeconds;
-  const whatItIsWords = countWords(`${script.setupLine} ${script.factLine}`);
+  const whatItIsWords = countWords(script.whatItIsLine || script.factLine);
   const rule = getContentDurationRule(brief, candidate);
   const readingFloor = Math.ceil(whatItIsWords / 2.25 + 5);
   const keywordComplexity = Math.min(8, Math.max(0, (candidate?.keywords?.length || 0) - 8) * 0.6);
@@ -144,19 +217,17 @@ export function buildProductionPlan(brief, candidates, factPack, options = {}) {
   const avgAudio = selected.reduce((sum, item) => sum + item.audioPotential, 0) / Math.max(selected.length, 1);
   const avgVisual = selected.reduce((sum, item) => sum + item.visualEnergy, 0) / Math.max(selected.length, 1);
 
-  const hookLine = sentenceCase(brief.hook || getLearningQuestion(brief));
-  const setupLine = sentenceCase(
-    brief.angle ||
-      `This short stays grounded in real NASA footage instead of generic space filler.`
-  );
+  const hookLine = buildBetterTitle(brief, selected[0], factPack);
+  const whatItIsLine = buildWhatItIsLine(brief, selected[0], factPack);
+  const setupLine = whatItIsLine;
   const factLine = factPack.facts[0]?.text || "Real mission visuals usually outperform generic space loops.";
   const ctaLine = "";
 
-  const narrationWordBudget = countWords([hookLine, setupLine, factLine].join(" "));
+  const narrationWordBudget = countWords([hookLine, whatItIsLine, factLine].join(" "));
   const needsAudioReplan = Boolean(
     !replannedForAudio && brief.preferAudioNarrative && (avgAudio < 0.52 || narrationWordBudget > 32)
   );
-  const durations = [resolveLearningDuration(brief, { hookLine, setupLine, factLine, ctaLine }, selected[0])];
+  const durations = [resolveLearningDuration(brief, { hookLine, setupLine, whatItIsLine, factLine, ctaLine }, selected[0])];
   const durationRule = getContentDurationRule(brief, selected[0]);
 
   const beatSheet = [
@@ -195,6 +266,7 @@ export function buildProductionPlan(brief, candidates, factPack, options = {}) {
     script: {
       hookLine,
       setupLine,
+      whatItIsLine,
       factLine,
       ctaLine
     },

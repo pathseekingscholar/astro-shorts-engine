@@ -217,15 +217,19 @@ export async function chooseNextBrief() {
 
 export function buildUploadDraft(result, brief) {
   const title = result.plan.script.hookLine.slice(0, 95);
+  const sourceClip = result.plan.selectedCandidates[0]?.title || null;
+  const sourceId = result.plan.selectedCandidates[0]?.nasaId || null;
+  const sourceUrl = sourceId ? `https://images.nasa.gov/details/${sourceId}` : null;
   const description = [
-    result.plan.script.setupLine,
+    result.plan.script.whatItIsLine || result.plan.script.setupLine,
     "",
     result.plan.script.factLine,
     "",
-    "Source material: NASA public media and science pages.",
+    sourceClip ? `Source clip: ${sourceClip}` : "Source clip: NASA public media",
+    sourceUrl ? `NASA source page: ${sourceUrl}` : "Source material: NASA public media and science pages.",
     result.leaderKit.disclosure,
     "",
-    "#space #nasa #science #shorts"
+    "#Space #NASA #Science #Astrophysics #Shorts"
   ].join("\n");
 
   return {
@@ -239,8 +243,8 @@ export function buildUploadDraft(result, brief) {
       jobId: result.jobId,
       armId: brief.armId,
       topic: brief.topic,
-      sourceClip: result.plan.selectedCandidates[0]?.title || null,
-      sourceUrl: result.plan.selectedCandidates[0]?.mp4Url || null
+      sourceClip,
+      sourceUrl: sourceUrl || result.plan.selectedCandidates[0]?.mp4Url || null
     },
     note:
       "This queue item is safe-by-default. Review it before enabling any YouTube upload script."
