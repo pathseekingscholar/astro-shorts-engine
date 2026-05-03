@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-03T05:14:21.566Z",
+      "jobId": "wYIwhgrxrc",
+      "nasaId": "jsc2021m000249_Crew3_KaylaBarron_Full_SOCIAL",
+      "title": "Meet Kayla Barron, Crew-3 Mission Specialist",
+      "center": "JSC",
+      "topicFamily": "iss",
+      "plannedDurationSeconds": 33.93,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/wYIwhgrxrc.mp4"
+    },
+    {
       "at": "2026-05-03T00:47:27.019Z",
       "jobId": "ktcfsXLz95",
       "nasaId": "iss063m261761806_Expedition_63_US_Spacewalk_Preview_Briefing_200624",
       "title": "iss063m261761806_Expedition_63_US_Spacewalk_Preview_Briefing_200624",
       "center": "JSC",
-      "topicFamily": "iss",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 44.63,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/ktcfsXLz95.mp4"
     },
