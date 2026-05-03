@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "Mars rover",
+    "topic_family": "rocket",
+    "hook": "What Real Mars Rover Footage Reveals",
+    "facts": [
+      "Mars has seasons, polar ice, volcanoes, canyons, and weather, but its atmosphere is far thinner than Earth's.",
+      "Perseverance is exploring Jezero Crater because it once held an ancient river delta."
+    ],
+    "payoff": "Mars has seasons, polar ice, volcanoes, canyons, and weather, but its atmosphere is far thinner than Earth's.",
+    "title": "What Real Mars Rover Footage Reveals",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-03T22:41:08.352Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 37.12,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 37.12,
+        "text": "This is real Mars mission footage, showing terrain shaped by dust, rock, ancient water, and an atmosphere far thinner than Earth's.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "NASA's Perseverance Rover Launches to Mars",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What Real Mars Rover Footage Reveals"
+  },
+  "upload": {
+    "title": "What Real Mars Rover Footage Reveals",
+    "description": "This is real Mars mission footage, showing terrain shaped by dust, rock, ancient water, and an atmosphere far thinner than Earth's.\n\nMars has seasons, polar ice, volcanoes, canyons, and weather, but its atmosphere is far thinner than Earth's.\n\nSource clip: NASA's Perseverance Rover Launches to Mars\nNASA source page: https://images.nasa.gov/details/JPL-20200730-M2020f-0003-NASA\u2019s Perseverance Rover Launches\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "cHWuZ632YR",
+    "arm_id": "mars-surface",
+    "source_title": "NASA's Perseverance Rover Launches to Mars",
+    "source_nasa_id": "JPL-20200730-M2020f-0003-NASA\u2019s Perseverance Rover Launches",
+    "source_url": "https://images.nasa.gov/details/JPL-20200730-M2020f-0003-NASA\u2019s Perseverance Rover Launches",
+    "source_media_url": "https://images-assets.nasa.gov/video/JPL-20200730-M2020f-0003-NASA\u2019s Perseverance Rover Launches/JPL-20200730-M2020f-0003-NASA\u2019s Perseverance Rover Launches~large.mp4",
+    "planned_duration_seconds": 37.12,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "launch",
+      "userLengthInput": 30,
+      "selectedSeconds": 37.12,
+      "reason": "Duration follows the clip type (launch), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "NASA's Perseverance Rover Launches to Mars",
+          "sourceDuration": 71.188001,
+          "plannedBeforeCompletion": 32,
+          "finalDuration": 37.12,
+          "reason": "Extended from 32s to 37.12s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "Mars has seasons, polar ice, volcanoes, canyons, and weather, but its atmosphere is far thinner than Earth's.",
+    "quality_checks": [
+      {
+        "title": "NASA's Perseverance Rover Launches to Mars",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "Mars has seasons, polar ice, volcanoes, canyons, and weather, but its atmosphere is far thinner than Earth's. What should this lesson explain next?",
+      "replyTemplates": [
+        "Mars looks calm in a lot of clips, but the atmosphere is incredibly thin compared with Earth's.",
+        "Jezero Crater matters because it preserves evidence of an ancient river-delta environment."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-03T22:41:08.352Z",
+  "rendered_at": "2026-05-03T22:41:08.355Z",
+  "video_path": "videos_output/cHWuZ632YR.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-03",
+      "localWeekday": "Sun",
+      "localHour": 18,
+      "postsToday": 3,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 9,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 4.89,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-03T22:41:17.310535",
+  "youtube": {
+    "video_id": "EFMqSj-Uzcc",
+    "url": "https://youtube.com/shorts/EFMqSj-Uzcc",
+    "title": "What Real Mars Rover Footage Reveals",
+    "uploaded_at": "2026-05-03T22:41:17.310390"
+  }
+}
