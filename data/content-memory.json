@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-03T13:08:35.255Z",
+      "jobId": "BleCVjVaQq",
+      "nasaId": "JPL-20200727-M2020f-0003-Peseverance Mission Overview",
+      "title": "Mission Overview: NASA’s Perseverance Mars Rover",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 44.13,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/BleCVjVaQq.mp4"
+    },
+    {
       "at": "2026-05-03T05:14:21.566Z",
       "jobId": "wYIwhgrxrc",
       "nasaId": "jsc2021m000249_Crew3_KaylaBarron_Full_SOCIAL",
       "title": "Meet Kayla Barron, Crew-3 Mission Specialist",
       "center": "JSC",
-      "topicFamily": "iss",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 33.93,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/wYIwhgrxrc.mp4"
     },
