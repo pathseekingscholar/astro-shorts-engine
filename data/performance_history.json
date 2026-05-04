@@ -1962,12 +1962,12 @@
     "published_at": "2026-05-03T05:15:14Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 0,
-      "likes": 0,
+      "views": 4,
+      "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-05-03T08:00:45.401953"
+    "performance_score": 0.03,
+    "analyzed_at": "2026-05-04T08:28:53.772229"
   },
   {
     "video_id": "y69aDCzYWnM",
@@ -1975,12 +1975,12 @@
     "published_at": "2026-05-03T00:48:14Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 5,
-      "likes": 1,
+      "views": 7,
+      "likes": 2,
       "comments": 0
     },
-    "performance_score": 0.033,
-    "analyzed_at": "2026-05-03T08:00:45.583603"
+    "performance_score": 0.058,
+    "analyzed_at": "2026-05-04T08:28:53.939886"
   },
   {
     "video_id": "bFoFcESFvp0",
@@ -1988,12 +1988,12 @@
     "published_at": "2026-05-02T21:11:00Z",
     "topic_family": "hypothetical",
     "metrics": {
-      "views": 10,
-      "likes": 1,
+      "views": 11,
+      "likes": 2,
       "comments": 0
     },
-    "performance_score": 0.045,
-    "analyzed_at": "2026-05-03T08:00:45.777314"
+    "performance_score": 0.068,
+    "analyzed_at": "2026-05-04T08:28:54.109041"
   },
   {
     "video_id": "KUEYzxcT9W8",
@@ -2006,7 +2006,7 @@
       "comments": 0
     },
     "performance_score": 0.01,
-    "analyzed_at": "2026-05-03T08:00:45.947934"
+    "analyzed_at": "2026-05-04T08:28:54.278237"
   },
   {
     "video_id": "6VlU8-vfGB0",
@@ -2019,7 +2019,7 @@
       "comments": 0
     },
     "performance_score": 0.01,
-    "analyzed_at": "2026-05-03T08:00:46.147067"
+    "analyzed_at": "2026-05-04T08:28:54.444088"
   },
   {
     "video_id": "fNWYssaFTYE",
@@ -2032,7 +2032,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-03T08:00:46.310230"
+    "analyzed_at": "2026-05-04T08:28:54.606811"
   },
   {
     "video_id": "47h5pEbE4SU",
@@ -2045,7 +2045,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-03T08:00:46.479700"
+    "analyzed_at": "2026-05-04T08:28:54.763697"
   },
   {
     "video_id": "VWMId-uvb7Y",
@@ -2058,7 +2058,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-05-03T08:00:46.669053"
+    "analyzed_at": "2026-05-04T08:28:54.937719"
   },
   {
     "video_id": "xtvVvJyHAak",
@@ -2071,7 +2071,7 @@
       "comments": 0
     },
     "performance_score": 0.028,
-    "analyzed_at": "2026-05-03T08:00:46.858512"
+    "analyzed_at": "2026-05-04T08:28:55.106211"
   },
   {
     "video_id": "uwxGfCj2nlY",
@@ -2084,7 +2084,7 @@
       "comments": 0
     },
     "performance_score": 0.04,
-    "analyzed_at": "2026-05-03T08:00:47.035289"
+    "analyzed_at": "2026-05-04T08:28:55.279223"
   },
   {
     "video_id": "-1TJkzKKdBk",
@@ -2097,7 +2097,7 @@
       "comments": 0
     },
     "performance_score": 0.02,
-    "analyzed_at": "2026-05-03T08:00:47.213669"
+    "analyzed_at": "2026-05-04T08:28:55.437805"
   },
   {
     "video_id": "ENq0EWswjSQ",
@@ -2110,7 +2110,7 @@
       "comments": 0
     },
     "performance_score": 0.09,
-    "analyzed_at": "2026-05-03T08:00:47.413269"
+    "analyzed_at": "2026-05-04T08:28:55.609383"
   },
   {
     "video_id": "KI_DV-in-zI",
@@ -2123,6 +2123,45 @@
       "comments": 0
     },
     "performance_score": 0.058,
-    "analyzed_at": "2026-05-03T08:00:47.611897"
+    "analyzed_at": "2026-05-04T08:28:55.772135"
+  },
+  {
+    "video_id": "EFMqSj-Uzcc",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-05-03T22:41:57Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-04T08:28:53.283604"
+  },
+  {
+    "video_id": "1ZR2GyySwsA",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-05-03T17:47:13Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 2,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.025,
+    "analyzed_at": "2026-05-04T08:28:53.435960"
+  },
+  {
+    "video_id": "lTZDXuJkKXo",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-05-03T13:09:15Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 4,
+      "likes": 2,
+      "comments": 0
+    },
+    "performance_score": 0.05,
+    "analyzed_at": "2026-05-04T08:28:53.600203"
   }
 ]
