@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-05T17:25:53.098Z",
+      "jobId": "aPcCwlzZa-",
+      "nasaId": "GSFC_20230307_NSL_Juno_Ep54",
+      "title": "NASA Science Live: Juno Spacecraft Makes Historic Flybys of Jupiter’s Moons [Episode 54]",
+      "center": "GSFC",
+      "topicFamily": "jupiter",
+      "plannedDurationSeconds": 36.32,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/aPcCwlzZa-.mp4"
+    },
+    {
       "at": "2026-05-05T02:38:07.523Z",
       "jobId": "mhNIvjkR_-",
       "nasaId": "ksc_120204_jupiter_alignment",
       "title": "KSC-04-S-00390",
       "center": "KSC",
-      "topicFamily": "jupiter",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 32.65,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/mhNIvjkR_-.mp4"
     },
