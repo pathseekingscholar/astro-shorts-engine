@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-06T21:57:28.998Z",
+      "jobId": "b1XvBrsrBf",
+      "nasaId": "JPL-20210222-M2020f-0003a-M2020_Audio_A_002",
+      "title": "NASA’s Perseverance Rover Microphone Captures Sounds from Mars - A",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 20.57,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/b1XvBrsrBf.mp4"
+    },
+    {
       "at": "2026-05-06T14:08:48.008Z",
       "jobId": "FbUEktQqhD",
       "nasaId": "JPL-20210218-M2020f-0003-Perseverance Landing Wrap v2",
