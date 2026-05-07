@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-07T14:06:24.326Z",
+      "jobId": "w-TyRytl0A",
+      "nasaId": "JPL-20201221-M2020f-0002-EDL Full Version w SFX",
+      "title": "NASA's Mars 2020 Perseverance Rover Landing Animations",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 70,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/w-TyRytl0A.mp4"
+    },
+    {
       "at": "2026-05-06T21:57:28.998Z",
       "jobId": "b1XvBrsrBf",
       "nasaId": "JPL-20210222-M2020f-0003a-M2020_Audio_A_002",
