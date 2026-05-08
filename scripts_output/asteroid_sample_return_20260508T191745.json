@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "asteroid sample return",
+    "topic_family": "asteroid",
+    "hook": "Why This Asteroid Sample Mission Matters",
+    "facts": [
+      "OSIRIS-REx returned NASA's first asteroid sample to Earth from Bennu on September 24, 2023.",
+      "Asteroid samples matter because they preserve material from the early solar system."
+    ],
+    "payoff": "OSIRIS-REx returned NASA's first asteroid sample to Earth from Bennu on September 24, 2023.",
+    "title": "Why This Asteroid Sample Mission Matters",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-08T19:17:45.283Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 47.06,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 47.06,
+        "text": "This is real sample-return mission footage, showing the spacecraft work behind bringing ancient asteroid material back to Earth.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "Why This Asteroid Sample Mission Matters"
+  },
+  "upload": {
+    "title": "Why This Asteroid Sample Mission Matters",
+    "description": "This is real sample-return mission footage, showing the spacecraft work behind bringing ancient asteroid material back to Earth.\n\nOSIRIS-REx returned NASA's first asteroid sample to Earth from Bennu on September 24, 2023.\n\nSource clip: Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023\nNASA source page: https://images.nasa.gov/details/Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "Y8gkzggW90",
+    "arm_id": "asteroid-sample",
+    "source_title": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023",
+    "source_nasa_id": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023",
+    "source_url": "https://images.nasa.gov/details/Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023",
+    "source_media_url": "https://images-assets.nasa.gov/video/Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023/Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023~large.mp4",
+    "planned_duration_seconds": 47.06,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "launch",
+      "userLengthInput": 30,
+      "selectedSeconds": 47.06,
+      "reason": "Duration follows the clip type (launch), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023",
+          "sourceDuration": 138,
+          "plannedBeforeCompletion": 32,
+          "finalDuration": 47.06,
+          "reason": "Extended from 32s to 47.06s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "OSIRIS-REx returned NASA's first asteroid sample to Earth from Bennu on September 24, 2023.",
+    "quality_checks": [
+      {
+        "title": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA \u2013 September 29, 2023",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "OSIRIS-REx returned NASA's first asteroid sample to Earth from Bennu on September 24, 2023. What should this lesson explain next?",
+      "replyTemplates": [
+        "This mission matters because Bennu material is a physical sample, not just a telescope observation.",
+        "Sample-return footage is powerful because the science continues after landing, once the material reaches the lab."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-08T19:17:45.283Z",
+  "rendered_at": "2026-05-08T19:17:45.287Z",
+  "video_path": "videos_output/Y8gkzggW90.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-08",
+      "localWeekday": "Fri",
+      "localHour": 15,
+      "postsToday": 1,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 9,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 5.51,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-08T19:17:52.938488",
+  "youtube": {
+    "video_id": "023wvuKkkEA",
+    "url": "https://youtube.com/shorts/023wvuKkkEA",
+    "title": "Why This Asteroid Sample Mission Matters",
+    "uploaded_at": "2026-05-08T19:17:52.938367"
+  }
+}

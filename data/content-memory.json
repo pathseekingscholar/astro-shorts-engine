@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-08T19:17:45.283Z",
+      "jobId": "Y8gkzggW90",
+      "nasaId": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA – September 29, 2023",
+      "title": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA – September 29, 2023",
+      "center": "HQ",
+      "topicFamily": "asteroid",
+      "plannedDurationSeconds": 47.06,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/Y8gkzggW90.mp4"
+    },
+    {
       "at": "2026-05-08T13:46:04.104Z",
       "jobId": "2XvrPGzA-H",
       "nasaId": "First Images from the James Webb Space Telescope (Official NASA Highlights)",
