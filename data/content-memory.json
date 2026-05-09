@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-09T15:52:59.679Z",
+      "jobId": "LFsmOORGmN",
+      "nasaId": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+      "title": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+      "center": "JSC",
+      "topicFamily": "iss",
+      "plannedDurationSeconds": 41.49,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/LFsmOORGmN.mp4"
+    },
+    {
       "at": "2026-05-09T02:45:29.956Z",
       "jobId": "t2iI6q3TQe",
       "nasaId": "GSFC_NSL_Webb_Images_Ep44",

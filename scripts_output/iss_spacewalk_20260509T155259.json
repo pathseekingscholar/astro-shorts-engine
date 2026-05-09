@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "ISS spacewalk",
+    "topic_family": "iss",
+    "hook": "The Hidden Speed in This Space Footage",
+    "facts": [
+      "The International Space Station circles Earth at roughly 17,500 mph.",
+      "A full orbit takes about 90 minutes, so crews see around 16 sunrises each day."
+    ],
+    "payoff": "The International Space Station circles Earth at roughly 17,500 mph.",
+    "title": "The Hidden Speed in This Space Footage",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-09T15:52:59.679Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 41.49,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 41.49,
+        "text": "This is real human-spaceflight footage from orbit, where slow-looking motion is happening inside a spacecraft moving around Earth at extreme speed.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "The Hidden Speed in This Space Footage"
+  },
+  "upload": {
+    "title": "The Hidden Speed in This Space Footage",
+    "description": "This is real human-spaceflight footage from orbit, where slow-looking motion is happening inside a spacecraft moving around Earth at extreme speed.\n\nThe International Space Station circles Earth at roughly 17,500 mph.\n\nSource clip: jsc2020m000177_US_Spacewalk_66_Animation-MP4\nNASA source page: https://images.nasa.gov/details/jsc2020m000177_US_Spacewalk_66_Animation-MP4\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "LFsmOORGmN",
+    "arm_id": "iss-human-scale",
+    "source_title": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+    "source_nasa_id": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+    "source_url": "https://images.nasa.gov/details/jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+    "source_media_url": "https://images-assets.nasa.gov/video/jsc2020m000177_US_Spacewalk_66_Animation-MP4/jsc2020m000177_US_Spacewalk_66_Animation-MP4~large.mp4",
+    "planned_duration_seconds": 41.49,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "human-spaceflight",
+      "userLengthInput": 30,
+      "selectedSeconds": 41.49,
+      "reason": "Duration follows the clip type (human-spaceflight), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+          "sourceDuration": 192.042,
+          "plannedBeforeCompletion": 30,
+          "finalDuration": 41.49,
+          "reason": "Extended from 30s to 41.49s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "The International Space Station circles Earth at roughly 17,500 mph.",
+    "quality_checks": [
+      {
+        "title": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "The International Space Station circles Earth at roughly 17,500 mph. What should this lesson explain next?",
+      "replyTemplates": [
+        "This footage is from real orbital operations, and the ISS is moving at about 17,500 mph while doing it.",
+        "What makes it look unreal is the speed plus microgravity. The station laps Earth every 90 minutes."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-09T15:52:59.679Z",
+  "rendered_at": "2026-05-09T15:52:59.683Z",
+  "video_path": "videos_output/LFsmOORGmN.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Minimum daily post has not been met and the learned daily posting window is open.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-09",
+      "localWeekday": "Sat",
+      "localHour": 11,
+      "postsToday": 0,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 11,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 13.1,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-09T15:53:08.695738",
+  "youtube": {
+    "video_id": "pHKJr8bTTlM",
+    "url": "https://youtube.com/shorts/pHKJr8bTTlM",
+    "title": "The Hidden Speed in This Space Footage",
+    "uploaded_at": "2026-05-09T15:53:08.695599"
+  }
+}
