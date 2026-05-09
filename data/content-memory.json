@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-09T02:45:29.956Z",
+      "jobId": "t2iI6q3TQe",
+      "nasaId": "GSFC_NSL_Webb_Images_Ep44",
+      "title": "NASA Science Live: Webb’s First Full-Color Images Explained [Episode 44]",
+      "center": "GSFC",
+      "topicFamily": "webb",
+      "plannedDurationSeconds": 64.1,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/t2iI6q3TQe.mp4"
+    },
+    {
       "at": "2026-05-08T19:17:45.283Z",
       "jobId": "Y8gkzggW90",
       "nasaId": "Our First Asteroid Sample Return Mission is Back on Earth on This Week @NASA – September 29, 2023",

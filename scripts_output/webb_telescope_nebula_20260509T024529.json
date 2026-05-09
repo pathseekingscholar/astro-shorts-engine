@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "Webb telescope nebula",
+    "topic_family": "webb",
+    "hook": "What Webb Is Really Seeing Here",
+    "facts": [
+      "NASA says Webb operates near the Sun-Earth L2 point, about 1 million miles from Earth.",
+      "Webb observes the universe primarily in infrared light, which helps it see through dust."
+    ],
+    "payoff": "NASA says Webb operates near the Sun-Earth L2 point, about 1 million miles from Earth.",
+    "title": "What Webb Is Really Seeing Here",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-09T02:45:29.956Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 64.1,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 64.1,
+        "text": "This is real telescope imagery translated from infrared light, so dust, gas, and young stars can be seen more clearly.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "NASA Science Live: Webb\u2019s First Full-Color Images Explained [Episode 44]",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What Webb Is Really Seeing Here"
+  },
+  "upload": {
+    "title": "What Webb Is Really Seeing Here",
+    "description": "This is real telescope imagery translated from infrared light, so dust, gas, and young stars can be seen more clearly.\n\nNASA says Webb operates near the Sun-Earth L2 point, about 1 million miles from Earth.\n\nSource clip: NASA Science Live: Webb\u2019s First Full-Color Images Explained [Episode 44]\nNASA source page: https://images.nasa.gov/details/GSFC_NSL_Webb_Images_Ep44\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "t2iI6q3TQe",
+    "arm_id": "webb-nebula",
+    "source_title": "NASA Science Live: Webb\u2019s First Full-Color Images Explained [Episode 44]",
+    "source_nasa_id": "GSFC_NSL_Webb_Images_Ep44",
+    "source_url": "https://images.nasa.gov/details/GSFC_NSL_Webb_Images_Ep44",
+    "source_media_url": "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~large.mp4",
+    "planned_duration_seconds": 64.1,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "deep-space",
+      "userLengthInput": 30,
+      "selectedSeconds": 64.1,
+      "reason": "Duration follows the clip type (deep-space), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "NASA Science Live: Webb\u2019s First Full-Color Images Explained [Episode 44]",
+          "sourceDuration": 3540.004,
+          "plannedBeforeCompletion": 39,
+          "finalDuration": 64.1,
+          "reason": "Extended from 39s to 64.1s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "NASA says Webb operates near the Sun-Earth L2 point, about 1 million miles from Earth.",
+    "quality_checks": [
+      {
+        "title": "NASA Science Live: Webb\u2019s First Full-Color Images Explained [Episode 44]",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "NASA says Webb operates near the Sun-Earth L2 point, about 1 million miles from Earth. What should this lesson explain next?",
+      "replyTemplates": [
+        "Webb is working around 1 million miles away near L2, which is part of why its temperature control is so critical.",
+        "Infrared is the trick here. Webb can see through dust that would block a lot of visible-light detail."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-09T02:45:29.956Z",
+  "rendered_at": "2026-05-09T02:45:29.960Z",
+  "video_path": "videos_output/t2iI6q3TQe.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-08",
+      "localWeekday": "Fri",
+      "localHour": 22,
+      "postsToday": 2,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 9,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 7.43,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-09T02:45:39.339873",
+  "youtube": {
+    "video_id": "Da0Klm1Gd6A",
+    "url": "https://youtube.com/shorts/Da0Klm1Gd6A",
+    "title": "What Webb Is Really Seeing Here",
+    "uploaded_at": "2026-05-09T02:45:39.339724"
+  }
+}
