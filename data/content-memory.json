@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-09T21:46:56.669Z",
+      "jobId": "_E3i3_5HSX",
+      "nasaId": "iss065m261651759_Expedition_65_EVA_74_and_75_Briefing_210614",
+      "title": "iss065m261651759_Expedition_65_EVA_74_and_75_Briefing_210614",
+      "center": "JSC",
+      "topicFamily": "iss",
+      "plannedDurationSeconds": 30.51,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/_E3i3_5HSX.mp4"
+    },
+    {
       "at": "2026-05-09T15:52:59.679Z",
       "jobId": "LFsmOORGmN",
       "nasaId": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
       "title": "jsc2020m000177_US_Spacewalk_66_Animation-MP4",
       "center": "JSC",
-      "topicFamily": "iss",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 41.49,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/LFsmOORGmN.mp4"
     },
