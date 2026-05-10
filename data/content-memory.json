@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-10T02:49:54.704Z",
+      "jobId": "E4pKhaYMMg",
+      "nasaId": "jsc2021m000169_Expedition_65_Shane_Kimbrough_Discusses _IROSAs_Spacewalk-MP4",
+      "title": "jsc2021m000169_Expedition_65_Shane_Kimbrough_Discusses _IROSAs_Spacewalk-MP4",
+      "center": "JSC",
+      "topicFamily": "iss",
+      "plannedDurationSeconds": 36.15,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/E4pKhaYMMg.mp4"
+    },
+    {
       "at": "2026-05-09T21:46:56.669Z",
       "jobId": "_E3i3_5HSX",
       "nasaId": "iss065m261651759_Expedition_65_EVA_74_and_75_Briefing_210614",
       "title": "iss065m261651759_Expedition_65_EVA_74_and_75_Briefing_210614",
       "center": "JSC",
-      "topicFamily": "iss",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 30.51,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/_E3i3_5HSX.mp4"
     },
