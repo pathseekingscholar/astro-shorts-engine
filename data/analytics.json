@@ -1,16 +1,16 @@
 {
-  "last_run": "2026-05-09T07:55:57.357955",
+  "last_run": "2026-05-10T08:07:19.459038",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
     "travel_time": {
-      "avg_score": 0.437,
-      "count": 37,
+      "avg_score": 0.414,
+      "count": 40,
       "best": 2.18,
       "worst": 0.0
     },
     "general": {
-      "avg_score": 0.278,
+      "avg_score": 0.28,
       "count": 62,
       "best": 1.8,
       "worst": 0.0
@@ -22,7 +22,7 @@
       "worst": 0.0
     },
     "myth_busting": {
-      "avg_score": 0.022,
+      "avg_score": 0.025,
       "count": 8,
       "best": 0.155,
       "worst": 0.0
@@ -34,9 +34,9 @@
       "worst": 0.0
     },
     "hypothetical": {
-      "avg_score": 0.215,
+      "avg_score": 0.202,
       "count": 5,
-      "best": 0.983,
+      "best": 0.922,
       "worst": 0.0
     }
   }
