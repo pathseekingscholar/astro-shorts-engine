@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-11T03:00:04.632Z",
+      "jobId": "gF3tR8Ptcj",
+      "nasaId": "iss063m261761806_Expedition_63_US_Spacewalk_Preview_Briefing_200624",
+      "title": "iss063m261761806_Expedition_63_US_Spacewalk_Preview_Briefing_200624",
+      "center": "JSC",
+      "topicFamily": "iss",
+      "plannedDurationSeconds": 44.63,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/gF3tR8Ptcj.mp4"
+    },
+    {
       "at": "2026-05-10T17:53:41.426Z",
       "jobId": "2T5lamUg2r",
       "nasaId": "jsc2026m000053_How_Does_NASA_Test_Health_Responses_to_Pressure_Changes_Astronauts_Experience_in_Space-260325",
       "title": "How Does NASA Test Health Responses to Pressure Changes Astronauts Experience in Space?",
       "center": "JSC",
-      "topicFamily": "iss",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 34.45,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/2T5lamUg2r.mp4"
     },
