@@ -2145,7 +2145,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-10T08:07:18.847489"
+    "analyzed_at": "2026-05-11T09:38:06.365229"
   },
   {
     "video_id": "1ZR2GyySwsA",
@@ -2155,12 +2155,10 @@
     "metrics": {
       "views": 2,
       "likes": 1,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 31
+      "comments": 0
     },
-    "performance_score": 0.645,
-    "analyzed_at": "2026-05-10T08:07:19.047808"
+    "performance_score": 0.025,
+    "analyzed_at": "2026-05-11T09:38:06.505671"
   },
   {
     "video_id": "lTZDXuJkKXo",
@@ -2192,7 +2190,7 @@
       "average_view_percentage": 103.93999999999998
     },
     "performance_score": 0.705,
-    "analyzed_at": "2026-05-10T08:07:18.567344"
+    "analyzed_at": "2026-05-11T09:38:06.035475"
   },
   {
     "video_id": "LaurMlY4vLw",
@@ -2208,7 +2206,7 @@
       "average_view_percentage": 98.51
     },
     "performance_score": 1.012,
-    "analyzed_at": "2026-05-10T08:07:18.670925"
+    "analyzed_at": "2026-05-11T09:38:06.198430"
   },
   {
     "video_id": "YlyfUAZkcAg",
@@ -2224,7 +2222,7 @@
       "average_view_percentage": 108.57999999999998
     },
     "performance_score": 0.925,
-    "analyzed_at": "2026-05-10T08:07:18.370104"
+    "analyzed_at": "2026-05-11T09:38:05.733976"
   },
   {
     "video_id": "UE45V8LkUGg",
@@ -2240,7 +2238,7 @@
       "average_view_percentage": 80.92
     },
     "performance_score": 0.607,
-    "analyzed_at": "2026-05-10T08:07:18.470454"
+    "analyzed_at": "2026-05-11T09:38:05.881439"
   },
   {
     "video_id": "_LpRFUUe07o",
@@ -2256,7 +2254,7 @@
       "average_view_percentage": 67.1
     },
     "performance_score": 0.402,
-    "analyzed_at": "2026-05-10T08:07:18.171842"
+    "analyzed_at": "2026-05-11T09:38:05.435648"
   },
   {
     "video_id": "3-EiHdHi8Ak",
@@ -2269,7 +2267,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-10T08:07:18.264931"
+    "analyzed_at": "2026-05-11T09:38:05.578948"
   },
   {
     "video_id": "cYfL_jYzzhU",
@@ -2282,7 +2280,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-10T08:07:17.973127"
+    "analyzed_at": "2026-05-11T09:38:05.131956"
   },
   {
     "video_id": "ZlTw35cTNlk",
@@ -2298,7 +2296,7 @@
       "average_view_percentage": 9.75
     },
     "performance_score": 0.125,
-    "analyzed_at": "2026-05-10T08:07:18.069932"
+    "analyzed_at": "2026-05-11T09:38:05.287871"
   },
   {
     "video_id": "Da0Klm1Gd6A",
@@ -2311,7 +2309,7 @@
       "comments": 0
     },
     "performance_score": 0.023,
-    "analyzed_at": "2026-05-10T08:07:17.651503"
+    "analyzed_at": "2026-05-11T09:38:04.615102"
   },
   {
     "video_id": "023wvuKkkEA",
@@ -2319,12 +2317,15 @@
     "published_at": "2026-05-08T19:18:14Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1,
-      "likes": 1,
-      "comments": 0
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0,
+      "average_view_percentage": 0
     },
-    "performance_score": 0.023,
-    "analyzed_at": "2026-05-10T08:07:17.751927"
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-11T09:38:04.803080"
   },
   {
     "video_id": "_ySgGT1RoNc",
@@ -2334,10 +2335,13 @@
     "metrics": {
       "views": 1,
       "likes": 1,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 4,
+      "average_view_percentage": 9.74
     },
-    "performance_score": 0.023,
-    "analyzed_at": "2026-05-10T08:07:17.860012"
+    "performance_score": 0.103,
+    "analyzed_at": "2026-05-11T09:38:04.956282"
   },
   {
     "video_id": "nKK3IwZwpHM",
@@ -2350,7 +2354,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-10T08:07:17.332827"
+    "analyzed_at": "2026-05-11T09:38:04.172388"
   },
   {
     "video_id": "rpyFyH5Q1PM",
@@ -2358,12 +2362,12 @@
     "published_at": "2026-05-09T21:47:22Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1,
+      "views": 0,
       "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.023,
-    "analyzed_at": "2026-05-10T08:07:17.431797"
+    "performance_score": 0.02,
+    "analyzed_at": "2026-05-11T09:38:04.318615"
   },
   {
     "video_id": "pHKJr8bTTlM",
@@ -2376,6 +2380,58 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-10T08:07:17.544126"
+    "analyzed_at": "2026-05-11T09:38:04.472747"
+  },
+  {
+    "video_id": "7phy7aZsUv4",
+    "title": "The Hidden Speed in This Space Footage",
+    "published_at": "2026-05-11T03:00:37Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-11T09:38:03.615672"
+  },
+  {
+    "video_id": "35qZzle8fBw",
+    "title": "The Hidden Speed in This Space Footage",
+    "published_at": "2026-05-10T17:54:15Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 3,
+      "likes": 2,
+      "comments": 0
+    },
+    "performance_score": 0.048,
+    "analyzed_at": "2026-05-11T09:38:03.756760"
+  },
+  {
+    "video_id": "L0G-Dx5TZ4Y",
+    "title": "The Hidden Speed in This Space Footage",
+    "published_at": "2026-05-10T13:18:53Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-05-11T09:38:03.893432"
+  },
+  {
+    "video_id": "WU6HrbHiCmE",
+    "title": "The Hidden Speed in This Space Footage",
+    "published_at": "2026-05-10T08:55:19Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-05-11T09:38:04.038290"
   }
 ]
