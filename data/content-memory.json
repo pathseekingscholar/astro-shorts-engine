@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-12T03:32:44.846Z",
+      "jobId": "lqhgXBrsRY",
+      "nasaId": "jsc2022m000138_Down_to_Earth_S2_E2_Sensory_Overload-SOCIAL",
+      "title": "jsc2022m000138_Down_to_Earth_S2_E2_Sensory_Overload-SOCIAL",
+      "center": "JSC",
+      "topicFamily": "iss",
+      "plannedDurationSeconds": 32.21,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/lqhgXBrsRY.mp4"
+    },
+    {
       "at": "2026-05-11T20:50:57.903Z",
       "jobId": "dd0-aLxgkz",
       "nasaId": "304_ISS-AMS",
       "title": "NASA ScienceCasts: Unlocking the Origins of the Universe",
       "center": "HQ",
-      "topicFamily": "iss",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 41.96,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/dd0-aLxgkz.mp4"
     },
