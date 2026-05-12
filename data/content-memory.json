@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-12T21:19:55.814Z",
+      "jobId": "TJhNMRFk8r",
+      "nasaId": "GX010506",
+      "title": "Artemis I Launch from NASA Causeway (Slo Mo)",
+      "center": "MSFC",
+      "topicFamily": "rocket",
+      "plannedDurationSeconds": 62,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/TJhNMRFk8r.mp4"
+    },
+    {
       "at": "2026-05-12T17:11:04.278Z",
       "jobId": "twnThcab9P",
       "nasaId": "jsc2019m000990_Suiting_Up_for_a_Spacewalk_MP4",

@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "rocket launch",
+    "topic_family": "rocket",
+    "hook": "Why Real Launch Footage Feels So Tense",
+    "facts": [
+      "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.",
+      "Countdown calls, engine events, and holds are real mission steps, not added drama."
+    ],
+    "payoff": "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.",
+    "title": "Why Real Launch Footage Feels So Tense",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-12T21:19:55.814Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 62,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 62,
+        "text": "This is real launch-system footage. The tension comes from countdowns, engine hardware, and mission audio building before liftoff.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Artemis I Launch from NASA Causeway (Slo Mo)",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "Why Real Launch Footage Feels So Tense"
+  },
+  "upload": {
+    "title": "Why Real Launch Footage Feels So Tense",
+    "description": "This is real launch-system footage. The tension comes from countdowns, engine hardware, and mission audio building before liftoff.\n\nA launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.\n\nSource clip: Artemis I Launch from NASA Causeway (Slo Mo)\nNASA source page: https://images.nasa.gov/details/GX010506\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "TJhNMRFk8r",
+    "arm_id": "rocket-audio",
+    "source_title": "Artemis I Launch from NASA Causeway (Slo Mo)",
+    "source_nasa_id": "GX010506",
+    "source_url": "https://images.nasa.gov/details/GX010506",
+    "source_media_url": "https://images-assets.nasa.gov/video/GX010506/GX010506~large.mp4",
+    "planned_duration_seconds": 62,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "launch",
+      "userLengthInput": 30,
+      "selectedSeconds": 62,
+      "reason": "Duration follows the clip type (launch), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "Artemis I Launch from NASA Causeway (Slo Mo)",
+          "sourceDuration": 115.833984,
+          "plannedBeforeCompletion": 30,
+          "finalDuration": 62,
+          "reason": "Extended from 30s to 62s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.",
+    "quality_checks": [
+      {
+        "title": "Artemis I Launch from NASA Causeway (Slo Mo)",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff. What should this lesson explain next?",
+      "replyTemplates": [
+        "The calls you hear in launch footage usually mark real checks across ground systems, vehicle systems, and mission control.",
+        "The tension is real because everything is being sequenced before the rocket is allowed to leave the pad."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-12T21:19:55.814Z",
+  "rendered_at": "2026-05-12T21:19:55.818Z",
+  "video_path": "videos_output/TJhNMRFk8r.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-12",
+      "localWeekday": "Tue",
+      "localHour": 17,
+      "postsToday": 1,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 11,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 4.13,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-12T21:20:04.719815",
+  "youtube": {
+    "video_id": "Wy0JQ9A8TM8",
+    "url": "https://youtube.com/shorts/Wy0JQ9A8TM8",
+    "title": "Why Real Launch Footage Feels So Tense",
+    "uploaded_at": "2026-05-12T21:20:04.719676"
+  }
+}
