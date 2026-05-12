@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-12T17:11:04.278Z",
+      "jobId": "twnThcab9P",
+      "nasaId": "jsc2019m000990_Suiting_Up_for_a_Spacewalk_MP4",
+      "title": "Suiting Up for a Spacewalk",
+      "center": "JSC",
+      "topicFamily": "iss",
+      "plannedDurationSeconds": 59.53,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/twnThcab9P.mp4"
+    },
+    {
       "at": "2026-05-12T03:32:44.846Z",
       "jobId": "lqhgXBrsRY",
       "nasaId": "jsc2022m000138_Down_to_Earth_S2_E2_Sensory_Overload-SOCIAL",
       "title": "jsc2022m000138_Down_to_Earth_S2_E2_Sensory_Overload-SOCIAL",
       "center": "JSC",
-      "topicFamily": "iss",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 32.21,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/lqhgXBrsRY.mp4"
     },
