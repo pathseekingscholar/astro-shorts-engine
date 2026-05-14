@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-14T14:07:55.605Z",
+      "jobId": "j8YiISXNFu",
+      "nasaId": "ksc_120204_jupiter_alignment",
+      "title": "KSC-04-S-00390",
+      "center": "KSC",
+      "topicFamily": "jupiter",
+      "plannedDurationSeconds": 32.65,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/j8YiISXNFu.mp4"
+    },
+    {
       "at": "2026-05-14T03:37:35.955Z",
       "jobId": "j-ksGfz7ds",
       "nasaId": "The First Artemis Robotic Launch to the Moon on This Week @NASA – January 5, 2024",
