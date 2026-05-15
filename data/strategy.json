@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T08:35:55.269589",
+  "generated_at": "2026-05-15T08:47:36.206324",
   "top_performing_topics": [
     {
       "topic": "travel_time",
-      "avg_score": 0.375,
+      "avg_score": 0.395,
       "videos_count": 47
     },
     {
@@ -35,7 +35,7 @@
     "scale_comparison"
   ],
   "insights": [
-    "'travel_time' is your best performing format (score: 0.375)",
-    "Analyzed 182 videos across 6 topic types"
+    "'travel_time' is your best performing format (score: 0.395)",
+    "Analyzed 185 videos across 6 topic types"
   ]
 }
