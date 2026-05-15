@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "solar flare",
+    "topic_family": "sun",
+    "hook": "What This Solar Flare Footage Is Showing",
+    "facts": [
+      "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+      "Solar observatories like SDO, SOHO, and STEREO watch active regions from different viewpoints."
+    ],
+    "payoff": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "title": "What This Solar Flare Footage Is Showing",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-15T03:40:08.300Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 32,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 32,
+        "text": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "HD Close up of March 6th X5.4 Flare",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What This Solar Flare Footage Is Showing"
+  },
+  "upload": {
+    "title": "What This Solar Flare Footage Is Showing",
+    "description": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.\n\nA solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.\n\nSource clip: HD Close up of March 6th X5.4 Flare\nNASA source page: https://images.nasa.gov/details/GSFC_20120307_SDO_m10925_Flare\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "BYGdBdE-Vn",
+    "arm_id": "solar-flare",
+    "source_title": "HD Close up of March 6th X5.4 Flare",
+    "source_nasa_id": "GSFC_20120307_SDO_m10925_Flare",
+    "source_url": "https://images.nasa.gov/details/GSFC_20120307_SDO_m10925_Flare",
+    "source_media_url": "https://images-assets.nasa.gov/video/GSFC_20120307_SDO_m10925_Flare/GSFC_20120307_SDO_m10925_Flare~large.mp4",
+    "planned_duration_seconds": 32,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "solar-observatory",
+      "userLengthInput": 30,
+      "selectedSeconds": 32,
+      "reason": "Duration follows the clip type (solar-observatory), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "HD Close up of March 6th X5.4 Flare",
+          "sourceDuration": 79.3,
+          "plannedBeforeCompletion": 32,
+          "finalDuration": 32,
+          "reason": "Kept content-aware duration; no transcript boundary extension was available."
+        }
+      ]
+    },
+    "what_it_is_card": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "quality_checks": [
+      {
+        "title": "HD Close up of March 6th X5.4 Flare",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts. What should this lesson explain next?",
+      "replyTemplates": [
+        "The bright flash is not fire in the normal sense; it is radiation from magnetic energy erupting in the Sun's atmosphere.",
+        "Solar footage gets weird because spacecraft are often viewing the Sun in wavelengths our eyes cannot normally see."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-15T03:40:08.300Z",
+  "rendered_at": "2026-05-15T03:40:08.305Z",
+  "video_path": "videos_output/BYGdBdE-Vn.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-14",
+      "localWeekday": "Thu",
+      "localHour": 23,
+      "postsToday": 2,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 9,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 8.63,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-15T03:40:17.220088",
+  "youtube": {
+    "video_id": "je_Tx_CUmIA",
+    "url": "https://youtube.com/shorts/je_Tx_CUmIA",
+    "title": "What This Solar Flare Footage Is Showing",
+    "uploaded_at": "2026-05-15T03:40:17.219954"
+  }
+}
