@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-16T22:43:35.556Z",
+      "jobId": "LTOi0rFHm-",
+      "nasaId": "JPL-20210222-M2020f-0002-NASA’S Perseverance Rover’s First 360 View of Mars",
+      "title": "NASA’S Perseverance Rover’s First 360 View of Mars",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 29.67,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/LTOi0rFHm-.mp4"
+    },
+    {
       "at": "2026-05-15T21:59:33.386Z",
       "jobId": "I_QAiaq87o",
       "nasaId": "JPL-20200730-M2020f-0003-NASA’s Perseverance Rover Launches",
       "title": "NASA's Perseverance Rover Launches to Mars",
       "center": "JPL",
-      "topicFamily": "rocket",
+      "topicFamily": "mars",
       "plannedDurationSeconds": 37.12,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/I_QAiaq87o.mp4"
     },
