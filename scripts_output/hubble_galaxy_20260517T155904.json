@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "Hubble galaxy",
+    "topic_family": "hubble",
+    "hook": "What This Solar Flare Footage Is Showing",
+    "facts": [
+      "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+      "Solar observatories like SDO, SOHO, and STEREO watch active regions from different viewpoints."
+    ],
+    "payoff": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "title": "What This Solar Flare Footage Is Showing",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-17T15:59:04.209Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 45.4,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 45.4,
+        "text": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "SOFIA Reveals New View of Milky Way\u2019s Center",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What This Solar Flare Footage Is Showing"
+  },
+  "upload": {
+    "title": "What This Solar Flare Footage Is Showing",
+    "description": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.\n\nA solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.\n\nSource clip: SOFIA Reveals New View of Milky Way\u2019s Center\nNASA source page: https://images.nasa.gov/details/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "DdjudNRL9k",
+    "arm_id": "hubble-galaxy",
+    "source_title": "SOFIA Reveals New View of Milky Way\u2019s Center",
+    "source_nasa_id": "ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb",
+    "source_url": "https://images.nasa.gov/details/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb",
+    "source_media_url": "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~large.mp4",
+    "planned_duration_seconds": 45.4,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "deep-space",
+      "userLengthInput": 30,
+      "selectedSeconds": 45.4,
+      "reason": "Duration follows the clip type (deep-space), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "SOFIA Reveals New View of Milky Way\u2019s Center",
+          "sourceDuration": 85.086,
+          "plannedBeforeCompletion": 41,
+          "finalDuration": 45.4,
+          "reason": "Extended from 41s to 45.4s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "quality_checks": [
+      {
+        "title": "SOFIA Reveals New View of Milky Way\u2019s Center",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts. What should this lesson explain next?",
+      "replyTemplates": [
+        "The bright flash is not fire in the normal sense; it is radiation from magnetic energy erupting in the Sun's atmosphere.",
+        "Solar footage gets weird because spacecraft are often viewing the Sun in wavelengths our eyes cannot normally see."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-17T15:59:04.209Z",
+  "rendered_at": "2026-05-17T15:59:04.214Z",
+  "video_path": "videos_output/DdjudNRL9k.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Minimum daily post has not been met and the learned daily posting window is open.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-17",
+      "localWeekday": "Sun",
+      "localHour": 11,
+      "postsToday": 0,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 11,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 17.23,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-17T15:59:11.630168",
+  "youtube": {
+    "video_id": "CU9aFh9KsXw",
+    "url": "https://youtube.com/shorts/CU9aFh9KsXw",
+    "title": "What This Solar Flare Footage Is Showing",
+    "uploaded_at": "2026-05-17T15:59:11.629992"
+  }
+}

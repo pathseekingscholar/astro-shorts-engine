@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-17T15:59:04.209Z",
+      "jobId": "DdjudNRL9k",
+      "nasaId": "ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb",
+      "title": "SOFIA Reveals New View of Milky Way’s Center",
+      "center": "ARC",
+      "topicFamily": "hubble",
+      "plannedDurationSeconds": 45.4,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/DdjudNRL9k.mp4"
+    },
+    {
       "at": "2026-05-16T22:43:35.556Z",
       "jobId": "LTOi0rFHm-",
       "nasaId": "JPL-20210222-M2020f-0002-NASA’S Perseverance Rover’s First 360 View of Mars",
