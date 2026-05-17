@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "Hubble galaxy",
+    "topic_family": "hubble",
+    "hook": "What This Solar Flare Footage Is Showing",
+    "facts": [
+      "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+      "Solar observatories like SDO, SOHO, and STEREO watch active regions from different viewpoints."
+    ],
+    "payoff": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "title": "What This Solar Flare Footage Is Showing",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-17T20:50:01.622Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 37,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 37,
+        "text": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Cosmic Origins Spectrograph: Large Scale Structure of the Universe",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What This Solar Flare Footage Is Showing"
+  },
+  "upload": {
+    "title": "What This Solar Flare Footage Is Showing",
+    "description": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.\n\nA solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.\n\nSource clip: Cosmic Origins Spectrograph: Large Scale Structure of the Universe\nNASA source page: https://images.nasa.gov/details/GSFC_20080520_HST_m10223_COS\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "H87x3oDyHX",
+    "arm_id": "hubble-galaxy",
+    "source_title": "Cosmic Origins Spectrograph: Large Scale Structure of the Universe",
+    "source_nasa_id": "GSFC_20080520_HST_m10223_COS",
+    "source_url": "https://images.nasa.gov/details/GSFC_20080520_HST_m10223_COS",
+    "source_media_url": "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~orig.mp4",
+    "planned_duration_seconds": 37,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "deep-space",
+      "userLengthInput": 30,
+      "selectedSeconds": 37,
+      "reason": "Duration follows the clip type (deep-space), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "Cosmic Origins Spectrograph: Large Scale Structure of the Universe",
+          "sourceDuration": 193.760233,
+          "plannedBeforeCompletion": 37,
+          "finalDuration": 37,
+          "reason": "Kept content-aware duration; no transcript boundary extension was available."
+        }
+      ]
+    },
+    "what_it_is_card": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "quality_checks": [
+      {
+        "title": "Cosmic Origins Spectrograph: Large Scale Structure of the Universe",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": false,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "technical silence only because source had no audio",
+        "audioPolicy": "source had no audio, so only technical silence was added; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts. What should this lesson explain next?",
+      "replyTemplates": [
+        "The bright flash is not fire in the normal sense; it is radiation from magnetic energy erupting in the Sun's atmosphere.",
+        "Solar footage gets weird because spacecraft are often viewing the Sun in wavelengths our eyes cannot normally see."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-17T20:50:01.622Z",
+  "rendered_at": "2026-05-17T20:50:01.627Z",
+  "video_path": "videos_output/H87x3oDyHX.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-17",
+      "localWeekday": "Sun",
+      "localHour": 16,
+      "postsToday": 1,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 11,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 4.84,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-17T20:50:07.807052",
+  "youtube": {
+    "video_id": "enr_dMojy6Y",
+    "url": "https://youtube.com/shorts/enr_dMojy6Y",
+    "title": "What This Solar Flare Footage Is Showing",
+    "uploaded_at": "2026-05-17T20:50:07.806932"
+  }
+}
