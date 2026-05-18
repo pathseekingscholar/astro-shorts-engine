@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-18T20:25:22.743Z",
+      "jobId": "4Y3MuWfg0v",
+      "nasaId": "JPL-20200518-M2020f-0001-Shake Rattle and Roll Testing NASAs Mars 2020 Perseverance Rover",
+      "title": "Shake, Rattle and Roll: Testing NASA’s Mars 2020 Perseverance Rover",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 70,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/4Y3MuWfg0v.mp4"
+    },
+    {
       "at": "2026-05-18T03:53:03.602Z",
       "jobId": "hbfNDtOCvP",
       "nasaId": "GSFC_20190626_WFIRST_m13235_WideField_60",
       "title": "WFIRST's Wide Field Instrument (shorter version)",
       "center": "GSFC",
-      "topicFamily": "hubble",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 50,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/hbfNDtOCvP.mp4"
     },
