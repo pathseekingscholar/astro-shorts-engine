@@ -2399,7 +2399,7 @@
       "average_view_percentage": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-05-17T08:20:02.030491"
+    "analyzed_at": "2026-05-18T10:00:57.837470"
   },
   {
     "video_id": "35qZzle8fBw",
@@ -2407,15 +2407,15 @@
     "published_at": "2026-05-10T17:54:15Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 4,
-      "likes": 2,
+      "views": 1,
+      "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 10,
-      "average_view_percentage": 30.579999999999995
+      "avg_view_duration_seconds": 12,
+      "average_view_percentage": 36.08
     },
-    "performance_score": 0.25,
-    "analyzed_at": "2026-05-17T08:20:02.191838"
+    "performance_score": 0.242,
+    "analyzed_at": "2026-05-18T10:00:57.968859"
   },
   {
     "video_id": "L0G-Dx5TZ4Y",
@@ -2431,7 +2431,7 @@
       "average_view_percentage": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-05-17T08:20:02.336987"
+    "analyzed_at": "2026-05-18T10:00:58.085316"
   },
   {
     "video_id": "WU6HrbHiCmE",
@@ -2447,7 +2447,7 @@
       "average_view_percentage": 13.489999999999998
     },
     "performance_score": 0.083,
-    "analyzed_at": "2026-05-17T08:20:02.480102"
+    "analyzed_at": "2026-05-18T10:00:58.214046"
   },
   {
     "video_id": "ee7Z11ovTmA",
@@ -2463,7 +2463,7 @@
       "average_view_percentage": 32.69
     },
     "performance_score": 0.227,
-    "analyzed_at": "2026-05-17T08:20:01.724937"
+    "analyzed_at": "2026-05-18T10:00:57.579475"
   },
   {
     "video_id": "iUaWuG1i0lg",
@@ -2479,7 +2479,7 @@
       "average_view_percentage": 35.78
     },
     "performance_score": 0.325,
-    "analyzed_at": "2026-05-17T08:20:01.882236"
+    "analyzed_at": "2026-05-18T10:00:57.708816"
   },
   {
     "video_id": "Wy0JQ9A8TM8",
@@ -2495,7 +2495,7 @@
       "average_view_percentage": 21.98
     },
     "performance_score": 0.293,
-    "analyzed_at": "2026-05-17T08:20:01.413488"
+    "analyzed_at": "2026-05-18T10:00:57.326137"
   },
   {
     "video_id": "IfMkR0n2GDs",
@@ -2511,7 +2511,7 @@
       "average_view_percentage": 13.390000000000002
     },
     "performance_score": 0.297,
-    "analyzed_at": "2026-05-17T08:20:01.576076"
+    "analyzed_at": "2026-05-18T10:00:57.453035"
   },
   {
     "video_id": "1rQ3FjxYZVo",
@@ -2519,15 +2519,15 @@
     "published_at": "2026-05-14T03:38:13Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1,
+      "views": 2,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 4,
-      "average_view_percentage": 11.47
+      "avg_view_duration_seconds": 13,
+      "average_view_percentage": 31.319999999999997
     },
-    "performance_score": 0.103,
-    "analyzed_at": "2026-05-17T08:20:00.969928"
+    "performance_score": 0.285,
+    "analyzed_at": "2026-05-18T10:00:56.952975"
   },
   {
     "video_id": "Yl2pdCb5xN8",
@@ -2543,7 +2543,7 @@
       "average_view_percentage": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-17T08:20:01.118352"
+    "analyzed_at": "2026-05-18T10:00:57.074898"
   },
   {
     "video_id": "ZWQTe_TYzFU",
@@ -2556,7 +2556,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-17T08:20:01.267706"
+    "analyzed_at": "2026-05-18T10:00:57.202558"
   },
   {
     "video_id": "je_Tx_CUmIA",
@@ -2572,7 +2572,7 @@
       "average_view_percentage": 31.629999999999995
     },
     "performance_score": 0.205,
-    "analyzed_at": "2026-05-17T08:20:00.563772"
+    "analyzed_at": "2026-05-18T10:00:56.544203"
   },
   {
     "video_id": "612I9rgRFyY",
@@ -2582,10 +2582,13 @@
     "metrics": {
       "views": 0,
       "likes": 1,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0,
+      "average_view_percentage": 0
     },
     "performance_score": 0.02,
-    "analyzed_at": "2026-05-17T08:20:00.676193"
+    "analyzed_at": "2026-05-18T10:00:56.687981"
   },
   {
     "video_id": "VXoaZFN2dQs",
@@ -2598,7 +2601,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-17T08:20:00.818181"
+    "analyzed_at": "2026-05-18T10:00:56.805766"
   },
   {
     "video_id": "7MyikEMNjY8",
@@ -2606,12 +2609,15 @@
     "published_at": "2026-05-15T22:00:13Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1,
-      "likes": 1,
-      "comments": 0
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0,
+      "average_view_percentage": 0
     },
-    "performance_score": 0.023,
-    "analyzed_at": "2026-05-17T08:20:00.275971"
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-18T10:00:56.302369"
   },
   {
     "video_id": "nZsIlx5Fn1M",
@@ -2624,7 +2630,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-17T08:20:00.410206"
+    "analyzed_at": "2026-05-18T10:00:56.429538"
   },
   {
     "video_id": "W4B85iVoa-w",
@@ -2632,11 +2638,50 @@
     "published_at": "2026-05-16T22:44:15Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1,
+      "views": 0,
       "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.023,
-    "analyzed_at": "2026-05-17T08:20:00.099591"
+    "performance_score": 0.02,
+    "analyzed_at": "2026-05-18T10:00:56.169487"
+  },
+  {
+    "video_id": "hPRvyRr-xQQ",
+    "title": "What This Solar Flare Footage Is Showing",
+    "published_at": "2026-05-18T03:53:34Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-18T10:00:55.784077"
+  },
+  {
+    "video_id": "enr_dMojy6Y",
+    "title": "What This Solar Flare Footage Is Showing",
+    "published_at": "2026-05-17T20:50:25Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 2,
+      "likes": 1,
+      "comments": 1
+    },
+    "performance_score": 0.125,
+    "analyzed_at": "2026-05-18T10:00:55.900500"
+  },
+  {
+    "video_id": "CU9aFh9KsXw",
+    "title": "What This Solar Flare Footage Is Showing",
+    "published_at": "2026-05-17T15:59:49Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 4,
+      "likes": 1,
+      "comments": 1
+    },
+    "performance_score": 0.13,
+    "analyzed_at": "2026-05-18T10:00:56.039606"
   }
 ]
