@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "Hubble galaxy",
+    "topic_family": "hubble",
+    "hook": "What This Solar Flare Footage Is Showing",
+    "facts": [
+      "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+      "Solar observatories like SDO, SOHO, and STEREO watch active regions from different viewpoints."
+    ],
+    "payoff": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "title": "What This Solar Flare Footage Is Showing",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-18T03:53:03.602Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 50,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 50,
+        "text": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "WFIRST's Wide Field Instrument (shorter version)",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What This Solar Flare Footage Is Showing"
+  },
+  "upload": {
+    "title": "What This Solar Flare Footage Is Showing",
+    "description": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.\n\nA solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.\n\nSource clip: WFIRST's Wide Field Instrument (shorter version)\nNASA source page: https://images.nasa.gov/details/GSFC_20190626_WFIRST_m13235_WideField_60\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "hbfNDtOCvP",
+    "arm_id": "hubble-galaxy",
+    "source_title": "WFIRST's Wide Field Instrument (shorter version)",
+    "source_nasa_id": "GSFC_20190626_WFIRST_m13235_WideField_60",
+    "source_url": "https://images.nasa.gov/details/GSFC_20190626_WFIRST_m13235_WideField_60",
+    "source_media_url": "https://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField_60/GSFC_20190626_WFIRST_m13235_WideField_60~large.mp4",
+    "planned_duration_seconds": 50,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "deep-space",
+      "userLengthInput": 30,
+      "selectedSeconds": 50,
+      "reason": "Duration follows the clip type (deep-space), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "WFIRST's Wide Field Instrument (shorter version)",
+          "sourceDuration": 59.666992,
+          "plannedBeforeCompletion": 34,
+          "finalDuration": 50,
+          "reason": "Extended from 34s to 50s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "quality_checks": [
+      {
+        "title": "WFIRST's Wide Field Instrument (shorter version)",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts. What should this lesson explain next?",
+      "replyTemplates": [
+        "The bright flash is not fire in the normal sense; it is radiation from magnetic energy erupting in the Sun's atmosphere.",
+        "Solar footage gets weird because spacecraft are often viewing the Sun in wavelengths our eyes cannot normally see."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-18T03:53:03.602Z",
+  "rendered_at": "2026-05-18T03:53:03.607Z",
+  "video_path": "videos_output/hbfNDtOCvP.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-17",
+      "localWeekday": "Sun",
+      "localHour": 23,
+      "postsToday": 2,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 11,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 7.04,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-18T03:53:13.215308",
+  "youtube": {
+    "video_id": "hPRvyRr-xQQ",
+    "url": "https://youtube.com/shorts/hPRvyRr-xQQ",
+    "title": "What This Solar Flare Footage Is Showing",
+    "uploaded_at": "2026-05-18T03:53:13.215174"
+  }
+}

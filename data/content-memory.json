@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-18T03:53:03.602Z",
+      "jobId": "hbfNDtOCvP",
+      "nasaId": "GSFC_20190626_WFIRST_m13235_WideField_60",
+      "title": "WFIRST's Wide Field Instrument (shorter version)",
+      "center": "GSFC",
+      "topicFamily": "hubble",
+      "plannedDurationSeconds": 50,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/hbfNDtOCvP.mp4"
+    },
+    {
       "at": "2026-05-17T20:50:01.622Z",
       "jobId": "H87x3oDyHX",
       "nasaId": "GSFC_20080520_HST_m10223_COS",
       "title": "Cosmic Origins Spectrograph: Large Scale Structure of the Universe",
       "center": "GSFC",
-      "topicFamily": "hubble",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 37,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/H87x3oDyHX.mp4"
     },
