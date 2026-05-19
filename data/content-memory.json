@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-19T16:19:38.529Z",
+      "jobId": "bklRQiO1en",
+      "nasaId": "JPL-20200727-M2020f-0003-Peseverance Mission Overview",
+      "title": "Mission Overview: NASA’s Perseverance Mars Rover",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 44.13,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/bklRQiO1en.mp4"
+    },
+    {
       "at": "2026-05-18T20:25:22.743Z",
       "jobId": "4Y3MuWfg0v",
       "nasaId": "JPL-20200518-M2020f-0001-Shake Rattle and Roll Testing NASAs Mars 2020 Perseverance Rover",
