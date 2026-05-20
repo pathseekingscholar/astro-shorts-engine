@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-20T21:52:46.208Z",
+      "jobId": "ML8CieyRV2",
+      "nasaId": "GSFC_20080822_HST_m10232_COS_EVA",
+      "title": "HST SM4 COS Installation EVA",
+      "center": "GSFC",
+      "topicFamily": "hubble",
+      "plannedDurationSeconds": 36,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/ML8CieyRV2.mp4"
+    },
+    {
       "at": "2026-05-20T16:25:42.769Z",
       "jobId": "rnUvwBrNiM",
       "nasaId": "How Are We Made of Star Stuff Horizontal",
       "title": "How Are We Made of Star Stuff | We Asked a NASA Expert",
       "center": "HQ",
-      "topicFamily": "hubble",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 48.93,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/rnUvwBrNiM.mp4"
     },
