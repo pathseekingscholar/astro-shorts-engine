@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "Hubble galaxy",
+    "topic_family": "hubble",
+    "hook": "What This Solar Flare Footage Is Showing",
+    "facts": [
+      "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+      "Solar observatories like SDO, SOHO, and STEREO watch active regions from different viewpoints."
+    ],
+    "payoff": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "title": "What This Solar Flare Footage Is Showing",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-20T16:25:42.769Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 48.93,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 48.93,
+        "text": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "How Are We Made of Star Stuff | We Asked a NASA Expert",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "What This Solar Flare Footage Is Showing"
+  },
+  "upload": {
+    "title": "What This Solar Flare Footage Is Showing",
+    "description": "This is real solar-observatory footage. The Sun is often shown in special wavelengths so flares and magnetic activity become visible.\n\nA solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.\n\nSource clip: How Are We Made of Star Stuff | We Asked a NASA Expert\nNASA source page: https://images.nasa.gov/details/How Are We Made of Star Stuff Horizontal\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "rnUvwBrNiM",
+    "arm_id": "hubble-galaxy",
+    "source_title": "How Are We Made of Star Stuff | We Asked a NASA Expert",
+    "source_nasa_id": "How Are We Made of Star Stuff Horizontal",
+    "source_url": "https://images.nasa.gov/details/How Are We Made of Star Stuff Horizontal",
+    "source_media_url": "https://images-assets.nasa.gov/video/How Are We Made of Star Stuff Horizontal/How Are We Made of Star Stuff Horizontal~large.mp4",
+    "planned_duration_seconds": 48.93,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "deep-space",
+      "userLengthInput": 30,
+      "selectedSeconds": 48.93,
+      "reason": "Duration follows the clip type (deep-space), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "How Are We Made of Star Stuff | We Asked a NASA Expert",
+          "sourceDuration": 93.866992,
+          "plannedBeforeCompletion": 34,
+          "finalDuration": 48.93,
+          "reason": "Extended from 34s to 48.93s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts.",
+    "quality_checks": [
+      {
+        "title": "How Are We Made of Star Stuff | We Asked a NASA Expert",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A solar flare is an intense burst of radiation released when magnetic energy near sunspots erupts. What should this lesson explain next?",
+      "replyTemplates": [
+        "The bright flash is not fire in the normal sense; it is radiation from magnetic energy erupting in the Sun's atmosphere.",
+        "Solar footage gets weird because spacecraft are often viewing the Sun in wavelengths our eyes cannot normally see."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-20T16:25:42.769Z",
+  "rendered_at": "2026-05-20T16:25:42.774Z",
+  "video_path": "videos_output/rnUvwBrNiM.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Minimum daily post has not been met and the learned daily posting window is open.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-20",
+      "localWeekday": "Wed",
+      "localHour": 12,
+      "postsToday": 0,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 11,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 16.32,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-20T16:25:51.229037",
+  "youtube": {
+    "video_id": "__NqbR1hTNE",
+    "url": "https://youtube.com/shorts/__NqbR1hTNE",
+    "title": "What This Solar Flare Footage Is Showing",
+    "uploaded_at": "2026-05-20T16:25:51.228898"
+  }
+}

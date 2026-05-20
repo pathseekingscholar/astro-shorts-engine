@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-20T16:25:42.769Z",
+      "jobId": "rnUvwBrNiM",
+      "nasaId": "How Are We Made of Star Stuff Horizontal",
+      "title": "How Are We Made of Star Stuff | We Asked a NASA Expert",
+      "center": "HQ",
+      "topicFamily": "hubble",
+      "plannedDurationSeconds": 48.93,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/rnUvwBrNiM.mp4"
+    },
+    {
       "at": "2026-05-20T00:05:14.755Z",
       "jobId": "A793LMBIFk",
       "nasaId": "JPL-20210222-M2020f-0001-Perseverance Rover’s Descent and Touchdown on Mars",
