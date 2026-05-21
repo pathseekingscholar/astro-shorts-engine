@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-21T03:33:23.583Z",
+      "jobId": "WKeOWX2aDk",
+      "nasaId": "GSFC_20100722_Hubble_m10619_Exoplanets",
+      "title": "20 Years of Hubble Science: Exoplanets",
+      "center": "GSFC",
+      "topicFamily": "hubble",
+      "plannedDurationSeconds": 39.69,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/WKeOWX2aDk.mp4"
+    },
+    {
       "at": "2026-05-20T21:52:46.208Z",
       "jobId": "ML8CieyRV2",
       "nasaId": "GSFC_20080822_HST_m10232_COS_EVA",
       "title": "HST SM4 COS Installation EVA",
       "center": "GSFC",
-      "topicFamily": "hubble",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 36,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/ML8CieyRV2.mp4"
     },
