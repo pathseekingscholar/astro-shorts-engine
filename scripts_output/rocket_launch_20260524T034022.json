@@ -1,0 +1,133 @@
+{
+  "idea": {
+    "topic": "rocket launch",
+    "topic_family": "moon",
+    "hook": "Why Real Launch Footage Feels So Tense",
+    "facts": [
+      "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.",
+      "Countdown calls, engine events, and holds are real mission steps, not added drama."
+    ],
+    "payoff": "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.",
+    "title": "Why Real Launch Footage Feels So Tense",
+    "hashtags": [
+      "#Space",
+      "#NASA",
+      "#Science",
+      "#Astrophysics",
+      "#Shorts"
+    ],
+    "generated_at": "2026-05-24T03:40:22.304Z",
+    "status": "formatted",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 49.6,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 49.6,
+        "text": "This is real launch-system footage. The tension comes from countdowns, engine hardware, and mission audio building before liftoff.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "NASA joins last of five sections for Space Launch System Rocket stage",
+        "animation": "none"
+      }
+    ],
+    "background_style": "real_nasa_footage",
+    "thumbnail_text": "Why Real Launch Footage Feels So Tense"
+  },
+  "upload": {
+    "title": "Why Real Launch Footage Feels So Tense",
+    "description": "This is real launch-system footage. The tension comes from countdowns, engine hardware, and mission audio building before liftoff.\n\nA launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.\n\nSource clip: NASA joins last of five sections for Space Launch System Rocket stage\nNASA source page: https://images.nasa.gov/details/MAF_20190917_Artemis 1 ES Join_Artemis logo\nUses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output.\n\n#Space #NASA #Science #Astrophysics #Shorts",
+    "tags": [
+      "space",
+      "nasa",
+      "science",
+      "astrophysics",
+      "shorts"
+    ]
+  },
+  "learning_short": {
+    "job_id": "HUpX_CdDyP",
+    "arm_id": "rocket-audio",
+    "source_title": "NASA joins last of five sections for Space Launch System Rocket stage",
+    "source_nasa_id": "MAF_20190917_Artemis 1 ES Join_Artemis logo",
+    "source_url": "https://images.nasa.gov/details/MAF_20190917_Artemis 1 ES Join_Artemis logo",
+    "source_media_url": "https://images-assets.nasa.gov/video/MAF_20190917_Artemis 1 ES Join_Artemis logo/MAF_20190917_Artemis 1 ES Join_Artemis logo~large.mp4",
+    "planned_duration_seconds": 49.6,
+    "duration_policy": {
+      "mode": "content-aware",
+      "rule": "launch",
+      "userLengthInput": 30,
+      "selectedSeconds": 49.6,
+      "reason": "Duration follows the clip type (launch), metadata complexity, and natural audio potential instead of cutting to the exact slider value.",
+      "completionMode": "transcript-boundary",
+      "refinements": [
+        {
+          "clip": "NASA joins last of five sections for Space Launch System Rocket stage",
+          "sourceDuration": 50.1,
+          "plannedBeforeCompletion": 30,
+          "finalDuration": 49.6,
+          "reason": "Extended from 30s to 49.6s so source audio reaches a transcript sentence boundary."
+        }
+      ]
+    },
+    "what_it_is_card": "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff.",
+    "quality_checks": [
+      {
+        "title": "NASA joins last of five sections for Space Launch System Rocket stage",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "aspectRatio": 1.778,
+        "hasAudio": true,
+        "verticalTreatment": "blurred 9:16 canvas with original frame centered",
+        "audioTreatment": "short fade-in and fade-out applied",
+        "audioPolicy": "original NASA source audio only; no background music added"
+      }
+    ],
+    "leader_kit": {
+      "pinnedComment": "A launch sequence is a timed handoff between ground systems, engines, guidance software, and range safety before liftoff. What should this lesson explain next?",
+      "replyTemplates": [
+        "The calls you hear in launch footage usually mark real checks across ground systems, vehicle systems, and mission control.",
+        "The tension is real because everything is being sequenced before the rocket is allowed to leave the pad."
+      ],
+      "disclosure": "Uses NASA source media and public information. Do not imply NASA endorsed the finished video or AI output."
+    }
+  },
+  "formatted_at": "2026-05-24T03:40:22.304Z",
+  "rendered_at": "2026-05-24T03:40:22.309Z",
+  "video_path": "videos_output/HUpX_CdDyP.mp4",
+  "status": "uploaded",
+  "posting_decision": {
+    "shouldPost": true,
+    "reason": "Performance and timing both support an extra post today.",
+    "context": {
+      "timezone": "America/New_York",
+      "localDate": "2026-05-23",
+      "localWeekday": "Sat",
+      "localHour": 23,
+      "postsToday": 1,
+      "minPostsPerDay": 1,
+      "maxPostsPerDay": 4,
+      "minGapHours": 4,
+      "bestHourForToday": 20,
+      "currentHourIsStrong": true,
+      "hoursSinceLastPost": 4.75,
+      "momentum": {
+        "baseline": 13.58,
+        "recentAverage": 21.59,
+        "retentionAverage": 0,
+        "multiplier": 1.59
+      }
+    }
+  },
+  "uploaded_at": "2026-05-24T03:40:31.144509",
+  "youtube": {
+    "video_id": "xeQsDFjxkRU",
+    "url": "https://youtube.com/shorts/xeQsDFjxkRU",
+    "title": "Why Real Launch Footage Feels So Tense",
+    "uploaded_at": "2026-05-24T03:40:31.144382"
+  }
+}
