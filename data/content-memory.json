@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-24T20:04:52.579Z",
+      "jobId": "lTCeEHUszn",
+      "nasaId": "GSFC_20080822_HST_m10232_COS_Removal_Wide_C_007",
+      "title": "HST SM4 COS Installation EVA Removal Wide Shot",
+      "center": "GSFC",
+      "topicFamily": "hubble",
+      "plannedDurationSeconds": 12,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/lTCeEHUszn.mp4"
+    },
+    {
       "at": "2026-05-24T03:40:22.304Z",
       "jobId": "HUpX_CdDyP",
       "nasaId": "MAF_20190917_Artemis 1 ES Join_Artemis logo",
       "title": "NASA joins last of five sections for Space Launch System Rocket stage",
       "center": "MAF",
-      "topicFamily": "moon",
+      "topicFamily": "rocket",
       "plannedDurationSeconds": 49.6,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/HUpX_CdDyP.mp4"
     },
