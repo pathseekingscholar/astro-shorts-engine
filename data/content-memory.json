@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-25T20:23:07.832Z",
+      "jobId": "Os_zxNTBN8",
+      "nasaId": "The First Artemis Robotic Launch to the Moon on This Week @NASA – January 5, 2024",
+      "title": "The First Artemis Robotic Launch to the Moon on This Week @NASA – January 5, 2024",
+      "center": "HQ",
+      "topicFamily": "rocket",
+      "plannedDurationSeconds": 42.63,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/Os_zxNTBN8.mp4"
+    },
+    {
       "at": "2026-05-24T20:04:52.579Z",
       "jobId": "lTCeEHUszn",
       "nasaId": "GSFC_20080822_HST_m10232_COS_Removal_Wide_C_007",
       "title": "HST SM4 COS Installation EVA Removal Wide Shot",
       "center": "GSFC",
-      "topicFamily": "hubble",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 12,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/lTCeEHUszn.mp4"
     },
