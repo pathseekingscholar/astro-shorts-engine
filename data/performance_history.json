@@ -2590,7 +2590,7 @@
       "comments": 0
     },
     "performance_score": 0.023,
-    "analyzed_at": "2026-05-25T10:03:44.503282"
+    "analyzed_at": "2026-05-26T09:55:04.347745"
   },
   {
     "video_id": "nZsIlx5Fn1M",
@@ -2616,7 +2616,7 @@
       "comments": 0
     },
     "performance_score": 0.02,
-    "analyzed_at": "2026-05-25T10:03:44.329394"
+    "analyzed_at": "2026-05-26T09:55:04.218384"
   },
   {
     "video_id": "hPRvyRr-xQQ",
@@ -2626,13 +2626,10 @@
     "metrics": {
       "views": 1,
       "likes": 1,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 10,
-      "average_view_percentage": 20.08
+      "comments": 0
     },
-    "performance_score": 0.222,
-    "analyzed_at": "2026-05-25T10:03:43.745749"
+    "performance_score": 0.023,
+    "analyzed_at": "2026-05-26T09:55:03.813782"
   },
   {
     "video_id": "enr_dMojy6Y",
@@ -2640,15 +2637,12 @@
     "published_at": "2026-05-17T20:50:25Z",
     "topic_family": "general",
     "metrics": {
-      "views": 4,
-      "likes": 1,
-      "comments": 0,
-      "watch_time_minutes": 1,
-      "avg_view_duration_seconds": 89,
-      "average_view_percentage": 236.67
+      "views": 6,
+      "likes": 2,
+      "comments": 1
     },
-    "performance_score": 0.955,
-    "analyzed_at": "2026-05-25T10:03:43.926809"
+    "performance_score": 0.155,
+    "analyzed_at": "2026-05-26T09:55:03.953229"
   },
   {
     "video_id": "CU9aFh9KsXw",
@@ -2656,15 +2650,12 @@
     "published_at": "2026-05-17T15:59:49Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1,
-      "likes": 1,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 28,
-      "average_view_percentage": 62.66
+      "views": 4,
+      "likes": 2,
+      "comments": 1
     },
-    "performance_score": 0.582,
-    "analyzed_at": "2026-05-25T10:03:44.152372"
+    "performance_score": 0.15,
+    "analyzed_at": "2026-05-26T09:55:04.096926"
   },
   {
     "video_id": "1Ym7xV_KAlk",
@@ -2672,15 +2663,15 @@
     "published_at": "2026-05-18T20:26:07Z",
     "topic_family": "general",
     "metrics": {
-      "views": 2,
+      "views": 1,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 19,
-      "average_view_percentage": 28.42
+      "avg_view_duration_seconds": 0,
+      "average_view_percentage": 0
     },
-    "performance_score": 0.405,
-    "analyzed_at": "2026-05-25T10:03:43.502843"
+    "performance_score": 0.023,
+    "analyzed_at": "2026-05-26T09:55:03.673418"
   },
   {
     "video_id": "Hbogs4uaX1A",
@@ -2696,7 +2687,7 @@
       "average_view_percentage": 52.77
     },
     "performance_score": 0.458,
-    "analyzed_at": "2026-05-25T10:03:43.083094"
+    "analyzed_at": "2026-05-26T09:55:03.372792"
   },
   {
     "video_id": "Ov6n0AgmwE4",
@@ -2712,7 +2703,7 @@
       "average_view_percentage": 23.33
     },
     "performance_score": 0.225,
-    "analyzed_at": "2026-05-25T10:03:43.292870"
+    "analyzed_at": "2026-05-26T09:55:03.524788"
   },
   {
     "video_id": "YZD2por0zOY",
@@ -2720,15 +2711,15 @@
     "published_at": "2026-05-21T03:34:02Z",
     "topic_family": "general",
     "metrics": {
-      "views": 8,
+      "views": 7,
       "likes": 0,
       "comments": 0,
-      "watch_time_minutes": 1,
+      "watch_time_minutes": 0,
       "avg_view_duration_seconds": 10,
       "average_view_percentage": 26.890000000000004
     },
-    "performance_score": 0.245,
-    "analyzed_at": "2026-05-25T10:03:42.429099"
+    "performance_score": 0.217,
+    "analyzed_at": "2026-05-26T09:55:02.941258"
   },
   {
     "video_id": "Pz3HB4pzq6w",
@@ -2736,15 +2727,15 @@
     "published_at": "2026-05-20T21:53:19Z",
     "topic_family": "general",
     "metrics": {
-      "views": 7,
+      "views": 9,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 1,
       "avg_view_duration_seconds": 22,
       "average_view_percentage": 60.46
     },
-    "performance_score": 0.482,
-    "analyzed_at": "2026-05-25T10:03:42.646042"
+    "performance_score": 0.487,
+    "analyzed_at": "2026-05-26T09:55:03.077836"
   },
   {
     "video_id": "__NqbR1hTNE",
@@ -2760,7 +2751,7 @@
       "average_view_percentage": 37.27
     },
     "performance_score": 0.41,
-    "analyzed_at": "2026-05-25T10:03:42.865099"
+    "analyzed_at": "2026-05-26T09:55:03.221241"
   },
   {
     "video_id": "LRtvvKAbGIk",
@@ -2768,15 +2759,15 @@
     "published_at": "2026-05-22T03:32:51Z",
     "topic_family": "general",
     "metrics": {
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 1,
       "avg_view_duration_seconds": 18,
       "average_view_percentage": 43.65
     },
-    "performance_score": 0.407,
-    "analyzed_at": "2026-05-25T10:03:41.999449"
+    "performance_score": 0.41,
+    "analyzed_at": "2026-05-26T09:55:02.611451"
   },
   {
     "video_id": "Gk6enJqLnqU",
@@ -2792,7 +2783,7 @@
       "average_view_percentage": 103.21000000000001
     },
     "performance_score": 0.747,
-    "analyzed_at": "2026-05-25T10:03:42.204358"
+    "analyzed_at": "2026-05-26T09:55:02.793790"
   },
   {
     "video_id": "ZsLtFHF7cO4",
@@ -2800,12 +2791,15 @@
     "published_at": "2026-05-22T20:46:11Z",
     "topic_family": "general",
     "metrics": {
-      "views": 5,
+      "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 5,
+      "average_view_percentage": 15.259999999999998
     },
-    "performance_score": 0.013,
-    "analyzed_at": "2026-05-25T10:03:41.377055"
+    "performance_score": 0.105,
+    "analyzed_at": "2026-05-26T09:55:02.162128"
   },
   {
     "video_id": "tOy_4h039O8",
@@ -2821,7 +2815,7 @@
       "average_view_percentage": 118.39
     },
     "performance_score": 1.127,
-    "analyzed_at": "2026-05-25T10:03:41.557256"
+    "analyzed_at": "2026-05-26T09:55:02.300396"
   },
   {
     "video_id": "6cqeWbfAR2Y",
@@ -2829,15 +2823,15 @@
     "published_at": "2026-05-22T16:26:38Z",
     "topic_family": "general",
     "metrics": {
-      "views": 10,
+      "views": 14,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 1,
       "avg_view_duration_seconds": 33,
       "average_view_percentage": 85.23
     },
-    "performance_score": 0.71,
-    "analyzed_at": "2026-05-25T10:03:41.774758"
+    "performance_score": 0.72,
+    "analyzed_at": "2026-05-26T09:55:02.452486"
   },
   {
     "video_id": "xeQsDFjxkRU",
@@ -2850,7 +2844,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-05-25T10:03:40.918384"
+    "analyzed_at": "2026-05-26T09:55:01.858048"
   },
   {
     "video_id": "oQu-cLt-ZJU",
@@ -2858,12 +2852,15 @@
     "published_at": "2026-05-23T22:54:25Z",
     "topic_family": "general",
     "metrics": {
-      "views": 3,
-      "likes": 1,
-      "comments": 0
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0,
+      "average_view_percentage": 0
     },
-    "performance_score": 0.028,
-    "analyzed_at": "2026-05-25T10:03:41.106904"
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-26T09:55:01.996616"
   },
   {
     "video_id": "PHExFkMVqm8",
@@ -2871,11 +2868,24 @@
     "published_at": "2026-05-24T20:05:18Z",
     "topic_family": "general",
     "metrics": {
-      "views": 5,
+      "views": 11,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.013,
-    "analyzed_at": "2026-05-25T10:03:40.731393"
+    "performance_score": 0.028,
+    "analyzed_at": "2026-05-26T09:55:01.700367"
+  },
+  {
+    "video_id": "iX546uhnTuo",
+    "title": "Why Lunar Footage Looks So Unusual",
+    "published_at": "2026-05-25T20:23:53Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-05-26T09:55:01.568632"
   }
 ]
