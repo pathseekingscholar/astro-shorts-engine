@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T09:55:04.347883",
+  "generated_at": "2026-05-27T09:43:01.963426",
   "top_performing_topics": [
     {
       "topic": "travel_time",
@@ -36,6 +36,6 @@
   ],
   "insights": [
     "'travel_time' is your best performing format (score: 0.387)",
-    "Analyzed 206 videos across 6 topic types"
+    "Analyzed 208 videos across 6 topic types"
   ]
 }
