@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-27T16:38:37.337Z",
+      "jobId": "t7r2LEzL9G",
+      "nasaId": "GSFC_20230307_NSL_Juno_Ep54",
+      "title": "NASA Science Live: Juno Spacecraft Makes Historic Flybys of Jupiter’s Moons [Episode 54]",
+      "center": "GSFC",
+      "topicFamily": "jupiter",
+      "plannedDurationSeconds": 36.32,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/t7r2LEzL9G.mp4"
+    },
+    {
       "at": "2026-05-27T03:39:30.085Z",
       "jobId": "nWVuB31uvK",
       "nasaId": "JPL-20241009-EXOPLNf-0001-NASA_Detects_Possible_Volcanic_MoonCC",
       "title": "NASA Detects Possible Volcanic Moon 635 Light-Years Away",
       "center": "JPL",
-      "topicFamily": "jupiter",
+      "topicFamily": "moon",
       "plannedDurationSeconds": 47.36,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/nWVuB31uvK.mp4"
     },
