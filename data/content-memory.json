@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-29T15:26:11.012Z",
+      "jobId": "yodBpJUYHH",
+      "nasaId": "JPL-20201006-M2020f-0001-Twin Rover Gets to Work",
+      "title": "Twin of NASA’s Perseverance Mars Rover Now on the Move",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 39.52,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/yodBpJUYHH.mp4"
+    },
+    {
       "at": "2026-05-29T03:28:06.574Z",
       "jobId": "1jvrFbXDPj",
       "nasaId": "The First Artemis Robotic Launch to the Moon on This Week @NASA – January 5, 2024",
