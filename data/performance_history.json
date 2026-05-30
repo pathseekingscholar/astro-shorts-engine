@@ -2705,68 +2705,17 @@
     "published_at": "2026-05-21T03:34:02Z",
     "topic_family": "general",
     "metrics": {
-      "views": 3,
+      "views": 7,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 18,
-      "average_view_percentage": 47.33
+      "comments": 0
     },
-    "performance_score": 0.367,
-    "analyzed_at": "2026-05-29T09:52:21.039988"
+    "performance_score": 0.018,
+    "analyzed_at": "2026-05-30T08:27:03.652333"
   },
   {
     "video_id": "Pz3HB4pzq6w",
     "title": "What This Solar Flare Footage Is Showing",
     "published_at": "2026-05-20T21:53:19Z",
-    "topic_family": "general",
-    "metrics": {
-      "views": 2,
-      "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 7,
-      "average_view_percentage": 21.43
-    },
-    "performance_score": 0.145,
-    "analyzed_at": "2026-05-29T09:52:21.198440"
-  },
-  {
-    "video_id": "__NqbR1hTNE",
-    "title": "What This Solar Flare Footage Is Showing",
-    "published_at": "2026-05-20T16:26:10Z",
-    "topic_family": "general",
-    "metrics": {
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 7,
-      "average_view_percentage": 15.049999999999999
-    },
-    "performance_score": 0.142,
-    "analyzed_at": "2026-05-29T09:52:21.335254"
-  },
-  {
-    "video_id": "LRtvvKAbGIk",
-    "title": "What This Solar Flare Footage Is Showing",
-    "published_at": "2026-05-22T03:32:51Z",
-    "topic_family": "general",
-    "metrics": {
-      "views": 12,
-      "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 1,
-      "avg_view_duration_seconds": 16,
-      "average_view_percentage": 37.28
-    },
-    "performance_score": 0.375,
-    "analyzed_at": "2026-05-29T09:52:20.721244"
-  },
-  {
-    "video_id": "Gk6enJqLnqU",
-    "title": "Why This Asteroid Sample Mission Matters",
-    "published_at": "2026-05-21T15:26:11Z",
     "topic_family": "general",
     "metrics": {
       "views": 1,
@@ -2777,7 +2726,52 @@
       "average_view_percentage": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-05-29T09:52:20.891573"
+    "analyzed_at": "2026-05-30T08:27:03.841857"
+  },
+  {
+    "video_id": "__NqbR1hTNE",
+    "title": "What This Solar Flare Footage Is Showing",
+    "published_at": "2026-05-20T16:26:10Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 10,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.025,
+    "analyzed_at": "2026-05-30T08:27:03.997280"
+  },
+  {
+    "video_id": "LRtvvKAbGIk",
+    "title": "What This Solar Flare Footage Is Showing",
+    "published_at": "2026-05-22T03:32:51Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 7,
+      "average_view_percentage": 18.17
+    },
+    "performance_score": 0.147,
+    "analyzed_at": "2026-05-30T08:27:03.193654"
+  },
+  {
+    "video_id": "Gk6enJqLnqU",
+    "title": "Why This Asteroid Sample Mission Matters",
+    "published_at": "2026-05-21T15:26:11Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0,
+      "average_view_percentage": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-30T08:27:03.478157"
   },
   {
     "video_id": "ZsLtFHF7cO4",
@@ -2793,7 +2787,7 @@
       "average_view_percentage": 15.259999999999998
     },
     "performance_score": 0.112,
-    "analyzed_at": "2026-05-29T09:52:20.250622"
+    "analyzed_at": "2026-05-30T08:27:02.669318"
   },
   {
     "video_id": "tOy_4h039O8",
@@ -2803,13 +2797,10 @@
     "metrics": {
       "views": 11,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 8,
-      "avg_view_duration_seconds": 47,
-      "average_view_percentage": 118.39
+      "comments": 0
     },
-    "performance_score": 1.127,
-    "analyzed_at": "2026-05-29T09:52:20.402001"
+    "performance_score": 0.028,
+    "analyzed_at": "2026-05-30T08:27:02.833427"
   },
   {
     "video_id": "6cqeWbfAR2Y",
@@ -2817,15 +2808,15 @@
     "published_at": "2026-05-22T16:26:38Z",
     "topic_family": "general",
     "metrics": {
-      "views": 20,
+      "views": 10,
       "likes": 0,
       "comments": 0,
-      "watch_time_minutes": 2,
-      "avg_view_duration_seconds": 26,
-      "average_view_percentage": 67.9
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 6,
+      "average_view_percentage": 15.9
     },
-    "performance_score": 0.62,
-    "analyzed_at": "2026-05-29T09:52:20.558589"
+    "performance_score": 0.145,
+    "analyzed_at": "2026-05-30T08:27:03.013926"
   },
   {
     "video_id": "xeQsDFjxkRU",
@@ -2841,7 +2832,7 @@
       "average_view_percentage": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-05-29T09:52:19.953450"
+    "analyzed_at": "2026-05-30T08:27:02.303102"
   },
   {
     "video_id": "oQu-cLt-ZJU",
@@ -2857,7 +2848,7 @@
       "average_view_percentage": 13.849999999999998
     },
     "performance_score": 0.193,
-    "analyzed_at": "2026-05-29T09:52:20.102571"
+    "analyzed_at": "2026-05-30T08:27:02.487678"
   },
   {
     "video_id": "PHExFkMVqm8",
@@ -2865,15 +2856,15 @@
     "published_at": "2026-05-24T20:05:18Z",
     "topic_family": "general",
     "metrics": {
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 23,
-      "average_view_percentage": 211.45000000000002
+      "watch_time_minutes": 1,
+      "avg_view_duration_seconds": 17,
+      "average_view_percentage": 161.88
     },
-    "performance_score": 0.488,
-    "analyzed_at": "2026-05-29T09:52:19.803686"
+    "performance_score": 0.395,
+    "analyzed_at": "2026-05-30T08:27:02.117263"
   },
   {
     "video_id": "iX546uhnTuo",
@@ -2889,7 +2880,7 @@
       "average_view_percentage": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-05-29T09:52:19.659961"
+    "analyzed_at": "2026-05-30T08:27:01.932782"
   },
   {
     "video_id": "LnCSobl2wLU",
@@ -2899,10 +2890,13 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0,
+      "average_view_percentage": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-05-29T09:52:19.352748"
+    "analyzed_at": "2026-05-30T08:27:01.584787"
   },
   {
     "video_id": "Hn-j296UCNo",
@@ -2915,7 +2909,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-29T09:52:19.490805"
+    "analyzed_at": "2026-05-30T08:27:01.741441"
   },
   {
     "video_id": "lWN0ee_Owjk",
@@ -2928,7 +2922,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-29T09:52:19.067912"
+    "analyzed_at": "2026-05-30T08:27:01.226417"
   },
   {
     "video_id": "5_rOciTlJtU",
@@ -2941,7 +2935,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-29T09:52:19.197899"
+    "analyzed_at": "2026-05-30T08:27:01.404521"
   },
   {
     "video_id": "9KNp2P78ZSw",
@@ -2954,7 +2948,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-29T09:52:18.775564"
+    "analyzed_at": "2026-05-30T08:27:00.890283"
   },
   {
     "video_id": "9n_kcw4Vnss",
@@ -2967,6 +2961,32 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-05-29T09:52:18.913331"
+    "analyzed_at": "2026-05-30T08:27:01.048683"
+  },
+  {
+    "video_id": "bZ456pmsBXE",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-05-29T21:08:22Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-05-30T08:27:00.471302"
+  },
+  {
+    "video_id": "8MKnC7m26u8",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-05-29T15:26:51Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-05-30T08:27:00.637857"
   }
 ]
