@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-31T19:39:52.904Z",
+      "jobId": "ghuBmbMxdv",
+      "nasaId": "NHQ_2021_0222_VF_NASA Provides First Front-Row Seat to Perseverance Rover’s Landing on Mars",
+      "title": "NASA Provides First Front-Row Seat to Perseverance Rover’s Landing on Mars",
+      "center": "HQ",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 62,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/ghuBmbMxdv.mp4"
+    },
+    {
       "at": "2026-05-31T14:44:23.130Z",
       "jobId": "z8R61AV6nn",
       "nasaId": "JPL-20210222-M2020f-0003a-M2020_Audio_A_002",
