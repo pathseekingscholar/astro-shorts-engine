@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-05-31T07:45:59.423Z",
+      "jobId": "8S80Qd80P7",
+      "nasaId": "JPL-20210222-M2020f-0001-Perseverance Rover’s Descent and Touchdown on Mars",
+      "title": "Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 40.28,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/8S80Qd80P7.mp4"
+    },
+    {
       "at": "2026-05-30T22:02:10.995Z",
       "jobId": "jAXAB4J_Jl",
       "nasaId": "JPL-20200727-M2020f-0003-Peseverance Mission Overview",
