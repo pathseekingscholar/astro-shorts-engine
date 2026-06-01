@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-01T00:07:11.220Z",
+      "jobId": "dMcOUJCXcy",
+      "nasaId": "JPL-20201221-M2020f-0002-EDL Full Version w SFX",
+      "title": "NASA's Mars 2020 Perseverance Rover Landing Animations",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 70,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/dMcOUJCXcy.mp4"
+    },
+    {
       "at": "2026-05-31T19:39:52.904Z",
       "jobId": "ghuBmbMxdv",
       "nasaId": "NHQ_2021_0222_VF_NASA Provides First Front-Row Seat to Perseverance Rover’s Landing on Mars",
