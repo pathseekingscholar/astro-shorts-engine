@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-01T22:11:03.648Z",
+      "jobId": "BsCgEVPUUX",
+      "nasaId": "ksc_120204_jupiter_alignment",
+      "title": "KSC-04-S-00390",
+      "center": "KSC",
+      "topicFamily": "jupiter",
+      "plannedDurationSeconds": 32.65,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/BsCgEVPUUX.mp4"
+    },
+    {
       "at": "2026-06-01T00:07:11.220Z",
       "jobId": "dMcOUJCXcy",
       "nasaId": "JPL-20201221-M2020f-0002-EDL Full Version w SFX",
