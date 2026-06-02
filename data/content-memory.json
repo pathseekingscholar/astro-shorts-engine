@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-02T18:39:34.192Z",
+      "jobId": "BbF7TRIOnu",
+      "nasaId": "JPL-20210222-M2020f-0003b-M2020_Audio_B_002",
+      "title": "NASA’s Perseverance Rover Microphone Captures Sounds from Mars - B",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 20.57,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/BbF7TRIOnu.mp4"
+    },
+    {
       "at": "2026-06-01T22:11:03.648Z",
       "jobId": "BsCgEVPUUX",
       "nasaId": "ksc_120204_jupiter_alignment",
       "title": "KSC-04-S-00390",
       "center": "KSC",
-      "topicFamily": "jupiter",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 32.65,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/BsCgEVPUUX.mp4"
     },
