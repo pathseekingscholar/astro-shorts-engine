@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-03T18:29:23.890Z",
+      "jobId": "aKx4Itp7xg",
+      "nasaId": "JPL-20210218-M2020f-0003-Perseverance Landing Wrap v2",
+      "title": "NASA's Perseverance Rover Lands Successfully on Mars",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 38.72,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/aKx4Itp7xg.mp4"
+    },
+    {
       "at": "2026-06-02T18:39:34.192Z",
       "jobId": "BbF7TRIOnu",
       "nasaId": "JPL-20210222-M2020f-0003b-M2020_Audio_B_002",
