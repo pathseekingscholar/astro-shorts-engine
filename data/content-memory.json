@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-04T20:04:57.155Z",
+      "jobId": "N6_wzWfaN-",
+      "nasaId": "JPL-20210222-M2020f-0002-NASA’S Perseverance Rover’s First 360 View of Mars",
+      "title": "NASA’S Perseverance Rover’s First 360 View of Mars",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 29.67,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/N6_wzWfaN-.mp4"
+    },
+    {
       "at": "2026-06-04T14:59:13.586Z",
       "jobId": "ux6KKYX4T_",
       "nasaId": "JPL-20200518-M2020f-0001-Shake Rattle and Roll Testing NASAs Mars 2020 Perseverance Rover",
