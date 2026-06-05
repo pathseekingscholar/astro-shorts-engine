@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-05T21:25:42.579Z",
+      "jobId": "GFG1MWsUrw",
+      "nasaId": "The First Artemis Robotic Launch to the Moon on This Week @NASA – January 5, 2024",
+      "title": "The First Artemis Robotic Launch to the Moon on This Week @NASA – January 5, 2024",
+      "center": "HQ",
+      "topicFamily": "rocket",
+      "plannedDurationSeconds": 42.63,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/GFG1MWsUrw.mp4"
+    },
+    {
       "at": "2026-06-05T15:53:35.869Z",
       "jobId": "XvkKxhdkqm",
       "nasaId": "JPL-20210222-M2020f-0003b-M2020_Audio_B_002",
