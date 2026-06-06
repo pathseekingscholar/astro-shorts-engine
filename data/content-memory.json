@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-06T23:04:08.775Z",
+      "jobId": "mY8N9uhXbo",
+      "nasaId": "GSFC_20230307_NSL_Juno_Ep54",
+      "title": "NASA Science Live: Juno Spacecraft Makes Historic Flybys of Jupiter’s Moons [Episode 54]",
+      "center": "GSFC",
+      "topicFamily": "jupiter",
+      "plannedDurationSeconds": 36.32,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/mY8N9uhXbo.mp4"
+    },
+    {
       "at": "2026-06-05T21:25:42.579Z",
       "jobId": "GFG1MWsUrw",
       "nasaId": "The First Artemis Robotic Launch to the Moon on This Week @NASA – January 5, 2024",
