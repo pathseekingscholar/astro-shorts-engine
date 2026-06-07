@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-07T12:21:13.831Z",
+      "jobId": "0xX9xiAI5H",
+      "nasaId": "JPL-20200730-M2020f-0003-NASA’s Perseverance Rover Launches",
+      "title": "NASA's Perseverance Rover Launches to Mars",
+      "center": "JPL",
+      "topicFamily": "rocket",
+      "plannedDurationSeconds": 37.12,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/0xX9xiAI5H.mp4"
+    },
+    {
       "at": "2026-06-07T07:54:58.724Z",
       "jobId": "ZjyA6dMzLu",
       "nasaId": "JPL-20241009-EXOPLNf-0001-NASA_Detects_Possible_Volcanic_MoonCC",
       "title": "NASA Detects Possible Volcanic Moon 635 Light-Years Away",
       "center": "JPL",
-      "topicFamily": "jupiter",
+      "topicFamily": "moon",
       "plannedDurationSeconds": 47.36,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/ZjyA6dMzLu.mp4"
     },
