@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-07T07:54:58.724Z",
+      "jobId": "ZjyA6dMzLu",
+      "nasaId": "JPL-20241009-EXOPLNf-0001-NASA_Detects_Possible_Volcanic_MoonCC",
+      "title": "NASA Detects Possible Volcanic Moon 635 Light-Years Away",
+      "center": "JPL",
+      "topicFamily": "jupiter",
+      "plannedDurationSeconds": 47.36,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/ZjyA6dMzLu.mp4"
+    },
+    {
       "at": "2026-06-06T23:04:08.775Z",
       "jobId": "mY8N9uhXbo",
       "nasaId": "GSFC_20230307_NSL_Juno_Ep54",
