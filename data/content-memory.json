@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-08T00:07:17.724Z",
+      "jobId": "T6XjQNIIx1",
+      "nasaId": "JPL-20201006-M2020f-0001-Twin Rover Gets to Work",
+      "title": "Twin of NASA’s Perseverance Mars Rover Now on the Move",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 39.52,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/T6XjQNIIx1.mp4"
+    },
+    {
       "at": "2026-06-07T18:04:07.303Z",
       "jobId": "wID9_Qv1vr",
       "nasaId": "JPL-20200727-M2020f-0003-Peseverance Mission Overview",
