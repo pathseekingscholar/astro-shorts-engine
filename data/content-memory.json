@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-08T20:13:33.648Z",
+      "jobId": "NKStGPcVHm",
+      "nasaId": "JPL-20200904-M2020f-0001-Rover Twin Moves Into New Home - 1080",
+      "title": "Twin of NASA’s Perseverance Mars Rover Moves Into New Home",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 32.53,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/NKStGPcVHm.mp4"
+    },
+    {
       "at": "2026-06-08T00:07:17.724Z",
       "jobId": "T6XjQNIIx1",
       "nasaId": "JPL-20201006-M2020f-0001-Twin Rover Gets to Work",
