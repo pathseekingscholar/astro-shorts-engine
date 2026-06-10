@@ -2,12 +2,22 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-10T12:59:08.107Z",
+      "jobId": "9qA7u9c3fo",
+      "nasaId": "JPL-20200730-M2020f-0003-NASA’s Perseverance Rover Launches",
+      "title": "NASA's Perseverance Rover Launches to Mars",
+      "center": "JPL",
+      "topicFamily": "rocket",
+      "plannedDurationSeconds": 37.12,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/9qA7u9c3fo.mp4"
+    },
+    {
       "at": "2026-06-09T22:25:47.267Z",
       "jobId": "eyq3tivBFm",
       "nasaId": "ksc_120204_jupiter_alignment",
       "title": "KSC-04-S-00390",
       "center": "KSC",
-      "topicFamily": "jupiter",
+      "topicFamily": "general-space",
       "plannedDurationSeconds": 32.65,
       "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/eyq3tivBFm.mp4"
     },
