@@ -3079,7 +3079,7 @@
       "average_view_percentage": 121.58
     },
     "performance_score": 0.907,
-    "analyzed_at": "2026-06-11T10:22:06.662148"
+    "analyzed_at": "2026-06-12T10:10:22.333432"
   },
   {
     "video_id": "-P6Mh3P7N3c",
@@ -3111,7 +3111,7 @@
       "average_view_percentage": 64.08
     },
     "performance_score": 0.595,
-    "analyzed_at": "2026-06-11T10:22:06.093859"
+    "analyzed_at": "2026-06-12T10:10:21.790517"
   },
   {
     "video_id": "C04mzXb_v-Q",
@@ -3127,7 +3127,7 @@
       "average_view_percentage": 47.31
     },
     "performance_score": 0.458,
-    "analyzed_at": "2026-06-11T10:22:06.243741"
+    "analyzed_at": "2026-06-12T10:10:21.912033"
   },
   {
     "video_id": "_wGUszyn1mo",
@@ -3143,7 +3143,7 @@
       "average_view_percentage": 0
     },
     "performance_score": 0.007,
-    "analyzed_at": "2026-06-11T10:22:06.408208"
+    "analyzed_at": "2026-06-12T10:10:22.048735"
   },
   {
     "video_id": "SQ46Jdzih_I",
@@ -3156,7 +3156,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-06-11T10:22:06.530653"
+    "analyzed_at": "2026-06-12T10:10:22.186090"
   },
   {
     "video_id": "TtrT88eGjNA",
@@ -3169,7 +3169,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-06-11T10:22:05.832005"
+    "analyzed_at": "2026-06-12T10:10:21.508156"
   },
   {
     "video_id": "23orDbwzJU8",
@@ -3185,7 +3185,7 @@
       "average_view_percentage": 57.3
     },
     "performance_score": 0.25,
-    "analyzed_at": "2026-06-11T10:22:05.969837"
+    "analyzed_at": "2026-06-12T10:10:21.639591"
   },
   {
     "video_id": "a88UsJsDB-4",
@@ -3198,7 +3198,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-06-11T10:22:05.539302"
+    "analyzed_at": "2026-06-12T10:10:21.238729"
   },
   {
     "video_id": "6YLpf5HyWeA",
@@ -3214,7 +3214,7 @@
       "average_view_percentage": 4.11
     },
     "performance_score": 0.042,
-    "analyzed_at": "2026-06-11T10:22:05.678623"
+    "analyzed_at": "2026-06-12T10:10:21.385283"
   },
   {
     "video_id": "SsPv4jVNiyU",
@@ -3222,15 +3222,15 @@
     "published_at": "2026-06-08T00:07:59Z",
     "topic_family": "general",
     "metrics": {
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 0,
       "average_view_percentage": 0
     },
-    "performance_score": 0.005,
-    "analyzed_at": "2026-06-11T10:22:05.124246"
+    "performance_score": 0.007,
+    "analyzed_at": "2026-06-12T10:10:20.813639"
   },
   {
     "video_id": "_KblZxYn1-k",
@@ -3246,7 +3246,7 @@
       "average_view_percentage": 65.93
     },
     "performance_score": 0.622,
-    "analyzed_at": "2026-06-11T10:22:05.288823"
+    "analyzed_at": "2026-06-12T10:10:20.969311"
   },
   {
     "video_id": "7Xsi0IkkgZs",
@@ -3254,15 +3254,15 @@
     "published_at": "2026-06-07T12:21:50Z",
     "topic_family": "general",
     "metrics": {
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 7,
-      "average_view_percentage": 19.21
+      "avg_view_duration_seconds": 22,
+      "average_view_percentage": 60
     },
-    "performance_score": 0.152,
-    "analyzed_at": "2026-06-11T10:22:05.424798"
+    "performance_score": 0.457,
+    "analyzed_at": "2026-06-12T10:10:21.113574"
   },
   {
     "video_id": "XAvHIIl19SU",
@@ -3270,15 +3270,15 @@
     "published_at": "2026-06-08T20:14:06Z",
     "topic_family": "general",
     "metrics": {
-      "views": 6,
+      "views": 14,
       "likes": 0,
       "comments": 0,
-      "watch_time_minutes": 0,
+      "watch_time_minutes": 2,
       "avg_view_duration_seconds": 19,
-      "average_view_percentage": 60.06
+      "average_view_percentage": 57.98
     },
-    "performance_score": 0.395,
-    "analyzed_at": "2026-06-11T10:22:04.998111"
+    "performance_score": 0.465,
+    "analyzed_at": "2026-06-12T10:10:20.670801"
   },
   {
     "video_id": "JjUzCWEDK-Y",
@@ -3291,7 +3291,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-06-11T10:22:04.709714"
+    "analyzed_at": "2026-06-12T10:10:20.349853"
   },
   {
     "video_id": "OhRn3wwarfY",
@@ -3301,10 +3301,13 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 9,
+      "average_view_percentage": 23.16
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-06-11T10:22:04.836576"
+    "performance_score": 0.182,
+    "analyzed_at": "2026-06-12T10:10:20.543004"
   },
   {
     "video_id": "k7yewkaDiTs",
@@ -3317,7 +3320,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-06-11T10:22:04.456065"
+    "analyzed_at": "2026-06-12T10:10:20.110482"
   },
   {
     "video_id": "RvVll7kccbs",
@@ -3325,11 +3328,50 @@
     "published_at": "2026-06-10T12:59:32Z",
     "topic_family": "general",
     "metrics": {
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.007,
-    "analyzed_at": "2026-06-11T10:22:04.585115"
+    "performance_score": 0.01,
+    "analyzed_at": "2026-06-12T10:10:20.230572"
+  },
+  {
+    "video_id": "4rek_yjfvfU",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-06-12T03:48:06Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-06-12T10:10:19.704210"
+  },
+  {
+    "video_id": "23ZzY1ClTsE",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-06-11T23:22:53Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-06-12T10:10:19.850172"
+  },
+  {
+    "video_id": "8xuEMDlRmtk",
+    "title": "What Real Mars Rover Footage Reveals",
+    "published_at": "2026-06-11T14:36:05Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-06-12T10:10:19.969233"
   }
 ]
