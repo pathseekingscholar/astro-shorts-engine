@@ -2,6 +2,16 @@
   "version": 1,
   "runs": [
     {
+      "at": "2026-06-12T03:47:31.361Z",
+      "jobId": "plUfVVI5KW",
+      "nasaId": "JPL-20200727-M2020f-0003-Peseverance Mission Overview",
+      "title": "Mission Overview: NASA’s Perseverance Mars Rover",
+      "center": "JPL",
+      "topicFamily": "mars",
+      "plannedDurationSeconds": 44.13,
+      "outputFile": "/home/runner/work/astro-shorts-engine/astro-shorts-engine/videos_output/plUfVVI5KW.mp4"
+    },
+    {
       "at": "2026-06-11T23:22:13.024Z",
       "jobId": "6gNsO3y42R",
       "nasaId": "JPL-20201221-M2020f-0002-EDL Full Version w SFX",
